@@ -1,0 +1,56 @@
+=========================================
+Experiment Parameters:
+=========================================
+datasets: FGNET
+losses: UnimodalNet
+models: snn_resnet18 resnet18_GaussianFC
+lrs: 1e-3 5e-4 1e-4
+lamdas: 1 10 100
+=========================================
+Starting experiments at: Wed Aug 27 12:59:31 WEST 2025
+=========================================
+Running: dataset=FGNET, loss=UnimodalNet, model=snn_resnet18, lr=1e-3, lamda=1
+FGNET train: 802 images, 62 age classes
+FGNET test: 200 images, 45 age classes
+* Epoch 1/300
+- 18s - train_Loss: 5.0273 - train_Acc: 3.74%
+- 2s - test_Loss: 3.9399 - test_Acc: 6.50%
+* Epoch 31/300
+- 17s - train_Loss: 3.5383 - train_Acc: 4.36%
+- 2s - test_Loss: 3.6735 - test_Acc: 6.50%
+* Epoch 61/300
+- 17s - train_Loss: 3.2689 - train_Acc: 5.74%
+- 2s - test_Loss: 3.8657 - test_Acc: 6.50%
+* Epoch 91/300
+- 17s - train_Loss: 2.8549 - train_Acc: 9.35%
+- 2s - test_Loss: 3.8108 - test_Acc: 8.00%
+* Epoch 121/300
+- 17s - train_Loss: 2.5050 - train_Acc: 13.59%
+- 2s - test_Loss: 3.9928 - test_Acc: 9.00%
+* Epoch 151/300
+- 17s - train_Loss: 2.1331 - train_Acc: 18.45%
+- 2s - test_Loss: 3.9108 - test_Acc: 7.00%
+* Epoch 181/300
+- 17s - train_Loss: 1.7261 - train_Acc: 26.81%
+- 2s - test_Loss: 4.6370 - test_Acc: 8.50%
+* Epoch 211/300
+- 17s - train_Loss: 1.5469 - train_Acc: 36.16%
+- 2s - test_Loss: 4.4998 - test_Acc: 7.50%
+* Epoch 241/300
+- 17s - train_Loss: 1.2105 - train_Acc: 42.52%
+- 2s - test_Loss: 4.0715 - test_Acc: 8.50%
+* Epoch 271/300
+- 17s - train_Loss: 1.0526 - train_Acc: 51.75%
+- 2s - test_Loss: 4.2703 - test_Acc: 8.50%
+dataset: FGNET, loss_fn: UnimodalNet, non_pre_weighted
+batch_size: 32, lr: 0.001, epochs: 300
+time: 5578.17s, model: snn_resnet18
+lamda: 1.0
+batch_size: 32,Best_test_acc: 11.5
+
+Running: dataset=FGNET, loss=UnimodalNet, model=snn_resnet18, lr=5e-4, lamda=1
+FGNET train: 802 images, 62 age classes
+FGNET test: 200 images, 45 age classes
+* Epoch 1/300
+- 17s - train_Loss: 5.5766 - train_Acc: 2.99%
+- 2s - test_Loss: 3.9672 - test_Acc: 6.00%

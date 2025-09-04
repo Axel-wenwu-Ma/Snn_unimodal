@@ -1,0 +1,4101 @@
+Running: dataset=FGNET, loss=UnimodalNet, model=resnet18, lr=1e-3, lamda=1
+FGNET train: 801 images, 62 age classes
+FGNET test: 201 images, 45 age classes
+* Epoch 1/300
+- 3s - train_Loss: 5.3613 - train_Acc: 4.49%
+- 1s - test_Loss: 4.1190 - test_Acc: 2.49%
+* Epoch 2/300
+* Epoch 3/300
+* Epoch 4/300
+* Epoch 5/300
+* Epoch 6/300
+* Epoch 7/300
+* Epoch 8/300
+* Epoch 9/300
+* Epoch 10/300
+* Epoch 11/300
+* Epoch 12/300
+* Epoch 13/300
+* Epoch 14/300
+* Epoch 15/300
+* Epoch 16/300
+* Epoch 17/300
+* Epoch 18/300
+* Epoch 19/300
+* Epoch 20/300
+* Epoch 21/300
+- 2s - train_Loss: 3.7197 - train_Acc: 3.75%
+- 1s - test_Loss: 3.6884 - test_Acc: 6.47%
+* Epoch 22/300
+* Epoch 23/300
+* Epoch 24/300
+* Epoch 25/300
+* Epoch 26/300
+* Epoch 27/300
+* Epoch 28/300
+* Epoch 29/300
+* Epoch 30/300
+* Epoch 31/300
+* Epoch 32/300
+* Epoch 33/300
+* Epoch 34/300
+* Epoch 35/300
+* Epoch 36/300
+* Epoch 37/300
+* Epoch 38/300
+* Epoch 39/300
+* Epoch 40/300
+* Epoch 41/300
+- 2s - train_Loss: 3.6459 - train_Acc: 3.75%
+- 1s - test_Loss: 3.7001 - test_Acc: 6.47%
+* Epoch 42/300
+* Epoch 43/300
+* Epoch 44/300
+* Epoch 45/300
+* Epoch 46/300
+* Epoch 47/300
+* Epoch 48/300
+* Epoch 49/300
+* Epoch 50/300
+* Epoch 51/300
+* Epoch 52/300
+* Epoch 53/300
+* Epoch 54/300
+* Epoch 55/300
+* Epoch 56/300
+* Epoch 57/300
+* Epoch 58/300
+* Epoch 59/300
+* Epoch 60/300
+* Epoch 61/300
+- 3s - train_Loss: 3.5210 - train_Acc: 4.74%
+- 1s - test_Loss: 3.4876 - test_Acc: 7.46%
+* Epoch 62/300
+* Epoch 63/300
+* Epoch 64/300
+* Epoch 65/300
+* Epoch 66/300
+* Epoch 67/300
+* Epoch 68/300
+* Epoch 69/300
+* Epoch 70/300
+* Epoch 71/300
+* Epoch 72/300
+* Epoch 73/300
+* Epoch 74/300
+* Epoch 75/300
+* Epoch 76/300
+* Epoch 77/300
+* Epoch 78/300
+* Epoch 79/300
+* Epoch 80/300
+* Epoch 81/300
+- 2s - train_Loss: 3.4299 - train_Acc: 5.62%
+- 1s - test_Loss: 3.4612 - test_Acc: 7.96%
+* Epoch 82/300
+* Epoch 83/300
+* Epoch 84/300
+* Epoch 85/300
+* Epoch 86/300
+* Epoch 87/300
+* Epoch 88/300
+* Epoch 89/300
+* Epoch 90/300
+* Epoch 91/300
+* Epoch 92/300
+* Epoch 93/300
+* Epoch 94/300
+* Epoch 95/300
+* Epoch 96/300
+* Epoch 97/300
+* Epoch 98/300
+* Epoch 99/300
+* Epoch 100/300
+* Epoch 101/300
+- 2s - train_Loss: 3.3218 - train_Acc: 5.87%
+- 1s - test_Loss: 3.2823 - test_Acc: 8.46%
+* Epoch 102/300
+* Epoch 103/300
+* Epoch 104/300
+* Epoch 105/300
+* Epoch 106/300
+* Epoch 107/300
+* Epoch 108/300
+* Epoch 109/300
+* Epoch 110/300
+* Epoch 111/300
+* Epoch 112/300
+* Epoch 113/300
+* Epoch 114/300
+* Epoch 115/300
+* Epoch 116/300
+* Epoch 117/300
+* Epoch 118/300
+* Epoch 119/300
+* Epoch 120/300
+* Epoch 121/300
+- 2s - train_Loss: 3.3157 - train_Acc: 6.24%
+- 1s - test_Loss: 3.1675 - test_Acc: 7.96%
+* Epoch 122/300
+* Epoch 123/300
+* Epoch 124/300
+* Epoch 125/300
+* Epoch 126/300
+* Epoch 127/300
+* Epoch 128/300
+* Epoch 129/300
+* Epoch 130/300
+* Epoch 131/300
+* Epoch 132/300
+* Epoch 133/300
+* Epoch 134/300
+* Epoch 135/300
+* Epoch 136/300
+* Epoch 137/300
+* Epoch 138/300
+* Epoch 139/300
+* Epoch 140/300
+* Epoch 141/300
+- 2s - train_Loss: 3.1787 - train_Acc: 5.37%
+- 1s - test_Loss: 3.1851 - test_Acc: 8.46%
+* Epoch 142/300
+* Epoch 143/300
+* Epoch 144/300
+* Epoch 145/300
+* Epoch 146/300
+* Epoch 147/300
+* Epoch 148/300
+* Epoch 149/300
+* Epoch 150/300
+* Epoch 151/300
+* Epoch 152/300
+* Epoch 153/300
+* Epoch 154/300
+* Epoch 155/300
+* Epoch 156/300
+* Epoch 157/300
+* Epoch 158/300
+* Epoch 159/300
+* Epoch 160/300
+* Epoch 161/300
+- 3s - train_Loss: 3.0948 - train_Acc: 6.87%
+- 1s - test_Loss: 3.1944 - test_Acc: 8.46%
+* Epoch 162/300
+* Epoch 163/300
+* Epoch 164/300
+* Epoch 165/300
+* Epoch 166/300
+* Epoch 167/300
+* Epoch 168/300
+* Epoch 169/300
+* Epoch 170/300
+* Epoch 171/300
+* Epoch 172/300
+* Epoch 173/300
+* Epoch 174/300
+* Epoch 175/300
+* Epoch 176/300
+* Epoch 177/300
+* Epoch 178/300
+* Epoch 179/300
+* Epoch 180/300
+* Epoch 181/300
+- 2s - train_Loss: 3.0042 - train_Acc: 5.49%
+- 1s - test_Loss: 3.1451 - test_Acc: 8.96%
+* Epoch 182/300
+* Epoch 183/300
+* Epoch 184/300
+* Epoch 185/300
+* Epoch 186/300
+* Epoch 187/300
+* Epoch 188/300
+* Epoch 189/300
+* Epoch 190/300
+* Epoch 191/300
+* Epoch 192/300
+* Epoch 193/300
+* Epoch 194/300
+* Epoch 195/300
+* Epoch 196/300
+* Epoch 197/300
+* Epoch 198/300
+* Epoch 199/300
+* Epoch 200/300
+* Epoch 201/300
+- 2s - train_Loss: 3.0189 - train_Acc: 7.24%
+- 1s - test_Loss: 3.0250 - test_Acc: 7.46%
+* Epoch 202/300
+* Epoch 203/300
+* Epoch 204/300
+* Epoch 205/300
+* Epoch 206/300
+* Epoch 207/300
+* Epoch 208/300
+* Epoch 209/300
+* Epoch 210/300
+* Epoch 211/300
+* Epoch 212/300
+* Epoch 213/300
+* Epoch 214/300
+* Epoch 215/300
+* Epoch 216/300
+* Epoch 217/300
+* Epoch 218/300
+* Epoch 219/300
+* Epoch 220/300
+* Epoch 221/300
+- 2s - train_Loss: 2.9587 - train_Acc: 5.74%
+- 1s - test_Loss: 3.1730 - test_Acc: 7.46%
+* Epoch 222/300
+* Epoch 223/300
+* Epoch 224/300
+* Epoch 225/300
+* Epoch 226/300
+* Epoch 227/300
+* Epoch 228/300
+* Epoch 229/300
+* Epoch 230/300
+* Epoch 231/300
+* Epoch 232/300
+* Epoch 233/300
+* Epoch 234/300
+* Epoch 235/300
+* Epoch 236/300
+* Epoch 237/300
+* Epoch 238/300
+* Epoch 239/300
+* Epoch 240/300
+* Epoch 241/300
+- 2s - train_Loss: 2.8440 - train_Acc: 6.74%
+- 1s - test_Loss: 3.0610 - test_Acc: 7.96%
+* Epoch 242/300
+* Epoch 243/300
+* Epoch 244/300
+* Epoch 245/300
+* Epoch 246/300
+* Epoch 247/300
+* Epoch 248/300
+* Epoch 249/300
+* Epoch 250/300
+* Epoch 251/300
+* Epoch 252/300
+* Epoch 253/300
+* Epoch 254/300
+* Epoch 255/300
+* Epoch 256/300
+* Epoch 257/300
+* Epoch 258/300
+* Epoch 259/300
+* Epoch 260/300
+* Epoch 261/300
+- 2s - train_Loss: 2.7929 - train_Acc: 5.99%
+- 1s - test_Loss: 3.2589 - test_Acc: 8.96%
+* Epoch 262/300
+* Epoch 263/300
+* Epoch 264/300
+* Epoch 265/300
+* Epoch 266/300
+* Epoch 267/300
+* Epoch 268/300
+* Epoch 269/300
+* Epoch 270/300
+* Epoch 271/300
+* Epoch 272/300
+* Epoch 273/300
+* Epoch 274/300
+* Epoch 275/300
+* Epoch 276/300
+* Epoch 277/300
+* Epoch 278/300
+* Epoch 279/300
+* Epoch 280/300
+* Epoch 281/300
+- 2s - train_Loss: 2.6832 - train_Acc: 6.87%
+- 1s - test_Loss: 3.4697 - test_Acc: 8.96%
+* Epoch 282/300
+* Epoch 283/300
+* Epoch 284/300
+* Epoch 285/300
+* Epoch 286/300
+* Epoch 287/300
+* Epoch 288/300
+* Epoch 289/300
+* Epoch 290/300
+* Epoch 291/300
+* Epoch 292/300
+* Epoch 293/300
+* Epoch 294/300
+* Epoch 295/300
+* Epoch 296/300
+* Epoch 297/300
+* Epoch 298/300
+* Epoch 299/300
+* Epoch 300/300
+dataset: FGNET, loss_fn: UnimodalNet, non_pre_weighted
+batch_size: 4, lr: 0.001, epochs: 300
+time: 903.45s, model: resnet18
+lamda: 1.0
+batch_size: 4
+Running: dataset=FGNET, loss=UnimodalNet, model=resnet18, lr=5e-4, lamda=1
+FGNET train: 801 images, 62 age classes
+FGNET test: 201 images, 45 age classes
+* Epoch 1/300
+- 2s - train_Loss: 5.8402 - train_Acc: 4.37%
+- 1s - test_Loss: 4.0145 - test_Acc: 3.48%
+* Epoch 21/300
+- 2s - train_Loss: 3.6448 - train_Acc: 3.75%
+- 1s - test_Loss: 3.5759 - test_Acc: 5.97%
+* Epoch 41/300
+- 2s - train_Loss: 3.4707 - train_Acc: 4.74%
+- 1s - test_Loss: 3.5865 - test_Acc: 7.96%
+* Epoch 61/300
+- 2s - train_Loss: 3.3644 - train_Acc: 4.37%
+- 1s - test_Loss: 3.1905 - test_Acc: 6.47%
+* Epoch 81/300
+- 2s - train_Loss: 3.2947 - train_Acc: 5.74%
+- 1s - test_Loss: 3.1329 - test_Acc: 7.46%
+* Epoch 101/300
+- 2s - train_Loss: 3.1390 - train_Acc: 5.12%
+- 1s - test_Loss: 3.1226 - test_Acc: 7.96%
+* Epoch 121/300
+- 2s - train_Loss: 3.0822 - train_Acc: 6.49%
+- 1s - test_Loss: 3.0776 - test_Acc: 8.46%
+* Epoch 141/300
+- 2s - train_Loss: 3.1467 - train_Acc: 5.87%
+- 1s - test_Loss: 3.2441 - test_Acc: 7.46%
+* Epoch 161/300
+- 2s - train_Loss: 2.8694 - train_Acc: 7.24%
+- 1s - test_Loss: 2.9481 - test_Acc: 7.96%
+* Epoch 181/300
+- 2s - train_Loss: 2.8409 - train_Acc: 5.62%
+- 1s - test_Loss: 2.9805 - test_Acc: 8.46%
+* Epoch 201/300
+- 2s - train_Loss: 2.6697 - train_Acc: 7.49%
+- 1s - test_Loss: 3.4220 - test_Acc: 7.96%
+* Epoch 221/300
+- 2s - train_Loss: 2.7495 - train_Acc: 7.12%
+- 1s - test_Loss: 3.1282 - test_Acc: 8.46%
+* Epoch 241/300
+- 2s - train_Loss: 2.6468 - train_Acc: 8.11%
+- 1s - test_Loss: 3.1417 - test_Acc: 7.46%
+* Epoch 261/300
+- 2s - train_Loss: 2.5808 - train_Acc: 7.87%
+- 1s - test_Loss: 3.3356 - test_Acc: 7.96%
+* Epoch 281/300
+- 2s - train_Loss: 2.4145 - train_Acc: 10.24%
+- 1s - test_Loss: 3.3156 - test_Acc: 8.46%
+dataset: FGNET, loss_fn: UnimodalNet, non_pre_weighted
+batch_size: 4, lr: 0.0005, epochs: 300
+time: 776.86s, model: resnet18
+lamda: 1.0
+batch_size: 4
+Running: dataset=FGNET, loss=UnimodalNet, model=resnet18, lr=1e-4, lamda=1
+FGNET train: 801 images, 62 age classes
+FGNET test: 201 images, 45 age classes
+* Epoch 1/300
+- 2s - train_Loss: 9.2587 - train_Acc: 2.25%
+- 1s - test_Loss: 6.2143 - test_Acc: 3.48%
+* Epoch 21/300
+- 2s - train_Loss: 3.5690 - train_Acc: 3.62%
+- 1s - test_Loss: 3.4171 - test_Acc: 7.96%
+* Epoch 41/300
+- 2s - train_Loss: 3.4012 - train_Acc: 4.24%
+- 1s - test_Loss: 3.2778 - test_Acc: 7.96%
+* Epoch 61/300
+- 2s - train_Loss: 3.1807 - train_Acc: 4.49%
+- 1s - test_Loss: 3.2833 - test_Acc: 6.47%
+* Epoch 81/300
+- 2s - train_Loss: 3.1936 - train_Acc: 4.62%
+- 1s - test_Loss: 3.1345 - test_Acc: 6.97%
+* Epoch 101/300
+- 2s - train_Loss: 3.0689 - train_Acc: 5.12%
+- 1s - test_Loss: 3.4541 - test_Acc: 7.96%
+* Epoch 121/300
+- 2s - train_Loss: 2.8807 - train_Acc: 5.62%
+- 1s - test_Loss: 3.1415 - test_Acc: 8.96%
+* Epoch 141/300
+- 2s - train_Loss: 2.7815 - train_Acc: 5.12%
+- 1s - test_Loss: 3.0094 - test_Acc: 6.47%
+* Epoch 161/300
+- 2s - train_Loss: 2.7446 - train_Acc: 5.62%
+- 1s - test_Loss: 3.1791 - test_Acc: 6.97%
+* Epoch 181/300
+- 2s - train_Loss: 2.7901 - train_Acc: 5.62%
+- 1s - test_Loss: 3.9269 - test_Acc: 6.97%
+* Epoch 201/300
+- 2s - train_Loss: 2.5381 - train_Acc: 6.99%
+- 1s - test_Loss: 3.2805 - test_Acc: 7.96%
+* Epoch 221/300
+- 2s - train_Loss: 2.4168 - train_Acc: 6.74%
+- 1s - test_Loss: 3.2205 - test_Acc: 6.97%
+* Epoch 241/300
+- 2s - train_Loss: 2.3780 - train_Acc: 6.87%
+- 1s - test_Loss: 3.3375 - test_Acc: 6.97%
+* Epoch 261/300
+- 2s - train_Loss: 2.4812 - train_Acc: 8.86%
+- 1s - test_Loss: 3.2620 - test_Acc: 7.96%
+* Epoch 281/300
+- 2s - train_Loss: 2.3734 - train_Acc: 9.61%
+- 1s - test_Loss: 3.2736 - test_Acc: 7.96%
+dataset: FGNET, loss_fn: UnimodalNet, non_pre_weighted
+batch_size: 4, lr: 0.0001, epochs: 300
+time: 774.98s, model: resnet18
+lamda: 1.0
+batch_size: 4
+Running: dataset=FGNET, loss=UnimodalNet, model=resnet18_GaussianFC, lr=1e-3, lamda=1
+FGNET train: 801 images, 62 age classes
+FGNET test: 201 images, 45 age classes
+* Epoch 1/300
+- 2s - train_Loss: 898.4828 - train_Acc: 2.50%
+- 1s - test_Loss: 983.7435 - test_Acc: 1.49%
+* Epoch 21/300
+- 2s - train_Loss: 32.0704 - train_Acc: 3.37%
+- 1s - test_Loss: 14.5952 - test_Acc: 2.99%
+* Epoch 41/300
+- 2s - train_Loss: 16.0054 - train_Acc: 2.62%
+- 1s - test_Loss: 14.3545 - test_Acc: 2.49%
+* Epoch 61/300
+- 2s - train_Loss: 15.3314 - train_Acc: 4.24%
+- 1s - test_Loss: 14.3528 - test_Acc: 4.98%
+* Epoch 81/300
+- 2s - train_Loss: 15.9990 - train_Acc: 3.75%
+- 1s - test_Loss: 14.3894 - test_Acc: 6.47%
+* Epoch 101/300
+- 2s - train_Loss: 13.9051 - train_Acc: 3.75%
+- 1s - test_Loss: 13.3980 - test_Acc: 6.47%
+* Epoch 121/300
+- 2s - train_Loss: 12.6760 - train_Acc: 3.75%
+- 1s - test_Loss: 12.9592 - test_Acc: 6.47%
+* Epoch 141/300
+- 2s - train_Loss: 14.1263 - train_Acc: 3.75%
+- 1s - test_Loss: 12.6938 - test_Acc: 6.47%
+* Epoch 161/300
+- 2s - train_Loss: 11.7141 - train_Acc: 3.75%
+- 1s - test_Loss: 12.4072 - test_Acc: 6.47%
+* Epoch 181/300
+- 2s - train_Loss: 12.1464 - train_Acc: 3.75%
+- 1s - test_Loss: 12.0783 - test_Acc: 6.47%
+* Epoch 201/300
+- 2s - train_Loss: 11.0882 - train_Acc: 3.75%
+- 1s - test_Loss: 11.6713 - test_Acc: 6.47%
+* Epoch 221/300
+- 2s - train_Loss: 10.9225 - train_Acc: 3.75%
+- 1s - test_Loss: 11.3559 - test_Acc: 6.47%
+* Epoch 241/300
+- 2s - train_Loss: 11.8621 - train_Acc: 3.75%
+- 1s - test_Loss: 10.9946 - test_Acc: 6.47%
+* Epoch 261/300
+- 2s - train_Loss: 11.1716 - train_Acc: 3.75%
+- 1s - test_Loss: 10.7365 - test_Acc: 6.47%
+* Epoch 281/300
+- 2s - train_Loss: 9.8023 - train_Acc: 3.75%
+- 1s - test_Loss: 10.4520 - test_Acc: 6.47%
+dataset: FGNET, loss_fn: UnimodalNet, non_pre_weighted
+batch_size: 4, lr: 0.001, epochs: 300
+time: 781.87s, model: resnet18_GaussianFC
+lamda: 1.0
+batch_size: 4
+Running: dataset=FGNET, loss=UnimodalNet, model=resnet18_GaussianFC, lr=5e-4, lamda=1
+FGNET train: 801 images, 62 age classes
+FGNET test: 201 images, 45 age classes
+* Epoch 1/300
+- 2s - train_Loss: 980.5518 - train_Acc: 3.12%
+- 1s - test_Loss: 364.4034 - test_Acc: 3.98%
+* Epoch 21/300
+- 2s - train_Loss: 34.2801 - train_Acc: 3.87%
+- 1s - test_Loss: 16.4574 - test_Acc: 2.49%
+* Epoch 41/300
+- 2s - train_Loss: 32.9227 - train_Acc: 4.49%
+- 1s - test_Loss: 15.0729 - test_Acc: 4.48%
+* Epoch 61/300
+- 2s - train_Loss: 31.7548 - train_Acc: 3.50%
+- 1s - test_Loss: 16.6658 - test_Acc: 3.98%
+* Epoch 81/300
+- 2s - train_Loss: 14.4740 - train_Acc: 3.00%
+- 1s - test_Loss: 14.1462 - test_Acc: 5.97%
+* Epoch 101/300
+- 2s - train_Loss: 14.6112 - train_Acc: 3.50%
+- 1s - test_Loss: 13.8109 - test_Acc: 6.47%
+* Epoch 121/300
+- 2s - train_Loss: 13.6709 - train_Acc: 3.75%
+- 1s - test_Loss: 13.7463 - test_Acc: 6.47%
+* Epoch 141/300
+- 2s - train_Loss: 13.4020 - train_Acc: 3.75%
+- 1s - test_Loss: 13.5795 - test_Acc: 6.47%
+* Epoch 161/300
+- 2s - train_Loss: 12.9017 - train_Acc: 3.75%
+- 1s - test_Loss: 13.3340 - test_Acc: 6.47%
+* Epoch 181/300
+- 2s - train_Loss: 12.5278 - train_Acc: 3.75%
+- 1s - test_Loss: 13.1182 - test_Acc: 6.47%
+* Epoch 201/300
+- 2s - train_Loss: 13.1497 - train_Acc: 3.75%
+- 1s - test_Loss: 12.9415 - test_Acc: 6.47%
+* Epoch 221/300
+- 2s - train_Loss: 12.4816 - train_Acc: 3.75%
+- 1s - test_Loss: 12.6836 - test_Acc: 6.47%
+* Epoch 241/300
+- 2s - train_Loss: 12.3004 - train_Acc: 3.75%
+- 1s - test_Loss: 12.5913 - test_Acc: 6.47%
+* Epoch 261/300
+- 2s - train_Loss: 13.2076 - train_Acc: 3.62%
+- 1s - test_Loss: 12.7894 - test_Acc: 6.47%
+* Epoch 281/300
+- 2s - train_Loss: 11.6465 - train_Acc: 3.75%
+- 1s - test_Loss: 12.2319 - test_Acc: 6.47%
+dataset: FGNET, loss_fn: UnimodalNet, non_pre_weighted
+batch_size: 4, lr: 0.0005, epochs: 300
+time: 781.04s, model: resnet18_GaussianFC
+lamda: 1.0
+batch_size: 4
+Running: dataset=FGNET, loss=UnimodalNet, model=resnet18_GaussianFC, lr=1e-4, lamda=1
+FGNET train: 801 images, 62 age classes
+FGNET test: 201 images, 45 age classes
+* Epoch 1/300
+- 2s - train_Loss: 1776.5247 - train_Acc: 1.87%
+- 1s - test_Loss: 579.7342 - test_Acc: 2.99%
+* Epoch 21/300
+- 2s - train_Loss: 84.4655 - train_Acc: 2.87%
+- 1s - test_Loss: 64.0506 - test_Acc: 4.48%
+* Epoch 41/300
+- 2s - train_Loss: 24.2899 - train_Acc: 4.49%
+- 1s - test_Loss: 19.8327 - test_Acc: 3.98%
+* Epoch 61/300
+- 2s - train_Loss: 28.9740 - train_Acc: 4.37%
+- 1s - test_Loss: 16.3449 - test_Acc: 2.49%
+* Epoch 81/300
+- 2s - train_Loss: 37.5957 - train_Acc: 4.87%
+- 1s - test_Loss: 23.7819 - test_Acc: 4.48%
+* Epoch 101/300
+- 2s - train_Loss: 18.6190 - train_Acc: 3.50%
+- 1s - test_Loss: 14.6758 - test_Acc: 2.49%
+* Epoch 121/300
+- 2s - train_Loss: 25.4517 - train_Acc: 3.62%
+- 1s - test_Loss: 15.1728 - test_Acc: 2.49%
+* Epoch 141/300
+- 2s - train_Loss: 37.9813 - train_Acc: 2.75%
+- 1s - test_Loss: 14.6378 - test_Acc: 2.49%
+* Epoch 161/300
+- 2s - train_Loss: 21.4183 - train_Acc: 3.87%
+- 1s - test_Loss: 14.3724 - test_Acc: 2.49%
+* Epoch 181/300
+- 2s - train_Loss: 21.9439 - train_Acc: 2.62%
+- 1s - test_Loss: 14.3997 - test_Acc: 2.49%
+* Epoch 201/300
+- 2s - train_Loss: 29.1807 - train_Acc: 2.50%
+- 1s - test_Loss: 14.7696 - test_Acc: 2.49%
+* Epoch 221/300
+- 2s - train_Loss: 16.2417 - train_Acc: 3.62%
+- 1s - test_Loss: 14.3096 - test_Acc: 2.49%
+* Epoch 241/300
+- 2s - train_Loss: 16.7989 - train_Acc: 3.50%
+- 1s - test_Loss: 14.3231 - test_Acc: 2.99%
+* Epoch 261/300
+- 2s - train_Loss: 15.8897 - train_Acc: 3.87%
+- 1s - test_Loss: 14.2796 - test_Acc: 4.48%
+* Epoch 281/300
+- 2s - train_Loss: 18.7214 - train_Acc: 2.87%
+- 1s - test_Loss: 14.9881 - test_Acc: 2.99%
+dataset: FGNET, loss_fn: UnimodalNet, non_pre_weighted
+batch_size: 4, lr: 0.0001, epochs: 300
+time: 783.57s, model: resnet18_GaussianFC
+lamda: 1.0
+batch_size: 4
+Running: dataset=FGNET, loss=UnimodalNet, model=resnet18_weights, lr=1e-3, lamda=1
+FGNET train: 801 images, 62 age classes
+FGNET test: 201 images, 45 age classes
+* Epoch 1/300
+- 2s - train_Loss: 5.2512 - train_Acc: 3.87%
+- 1s - test_Loss: 4.1303 - test_Acc: 4.48%
+* Epoch 21/300
+- 2s - train_Loss: 3.2143 - train_Acc: 5.12%
+- 1s - test_Loss: 2.9860 - test_Acc: 8.46%
+* Epoch 41/300
+- 2s - train_Loss: 3.0832 - train_Acc: 6.24%
+- 1s - test_Loss: 3.1247 - test_Acc: 6.97%
+* Epoch 61/300
+- 2s - train_Loss: 3.0156 - train_Acc: 4.99%
+- 1s - test_Loss: 3.0028 - test_Acc: 7.96%
+* Epoch 81/300
+- 2s - train_Loss: 2.7512 - train_Acc: 5.87%
+- 1s - test_Loss: 3.0506 - test_Acc: 7.96%
+* Epoch 101/300
+- 2s - train_Loss: 2.7062 - train_Acc: 5.99%
+- 1s - test_Loss: 3.1088 - test_Acc: 6.47%
+* Epoch 121/300
+- 2s - train_Loss: 2.6337 - train_Acc: 4.49%
+- 1s - test_Loss: 2.8714 - test_Acc: 7.96%
+* Epoch 141/300
+- 2s - train_Loss: 2.5679 - train_Acc: 6.37%
+- 1s - test_Loss: 3.3412 - test_Acc: 8.46%
+* Epoch 161/300
+- 2s - train_Loss: 2.4724 - train_Acc: 5.87%
+- 1s - test_Loss: 2.9009 - test_Acc: 6.97%
+* Epoch 181/300
+- 2s - train_Loss: 2.3483 - train_Acc: 6.49%
+- 1s - test_Loss: 3.4058 - test_Acc: 9.95%
+* Epoch 201/300
+- 2s - train_Loss: 2.2604 - train_Acc: 6.87%
+- 1s - test_Loss: 3.1296 - test_Acc: 8.96%
+* Epoch 221/300
+- 2s - train_Loss: 2.1394 - train_Acc: 9.99%
+- 1s - test_Loss: 3.4734 - test_Acc: 9.45%
+* Epoch 241/300
+- 2s - train_Loss: 1.9857 - train_Acc: 14.11%
+- 1s - test_Loss: 3.5394 - test_Acc: 10.45%
+* Epoch 261/300
+- 2s - train_Loss: 1.8820 - train_Acc: 16.85%
+- 1s - test_Loss: 3.4589 - test_Acc: 10.95%
+* Epoch 281/300
+- 2s - train_Loss: 1.9286 - train_Acc: 18.60%
+- 1s - test_Loss: 3.9053 - test_Acc: 8.96%
+dataset: FGNET, loss_fn: UnimodalNet, non_pre_weighted
+batch_size: 4, lr: 0.001, epochs: 300
+time: 777.63s, model: resnet18_weights
+lamda: 1.0
+batch_size: 4
+Running: dataset=FGNET, loss=UnimodalNet, model=resnet18_weights, lr=5e-4, lamda=1
+FGNET train: 801 images, 62 age classes
+FGNET test: 201 images, 45 age classes
+* Epoch 1/300
+- 2s - train_Loss: 5.9670 - train_Acc: 4.74%
+- 1s - test_Loss: 3.5443 - test_Acc: 6.47%
+* Epoch 21/300
+- 2s - train_Loss: 2.9756 - train_Acc: 6.12%
+- 1s - test_Loss: 2.7802 - test_Acc: 7.46%
+* Epoch 41/300
+- 2s - train_Loss: 2.8129 - train_Acc: 8.49%
+- 1s - test_Loss: 3.3291 - test_Acc: 5.97%
+* Epoch 61/300
+- 2s - train_Loss: 2.5996 - train_Acc: 11.99%
+- 1s - test_Loss: 3.0908 - test_Acc: 7.96%
+* Epoch 81/300
+- 2s - train_Loss: 2.3670 - train_Acc: 14.36%
+- 1s - test_Loss: 3.1561 - test_Acc: 11.44%
+* Epoch 101/300
+- 2s - train_Loss: 2.2126 - train_Acc: 15.73%
+- 1s - test_Loss: 3.2968 - test_Acc: 8.46%
+* Epoch 121/300
+- 2s - train_Loss: 2.0238 - train_Acc: 23.35%
+- 1s - test_Loss: 3.2580 - test_Acc: 8.46%
+* Epoch 141/300
+- 2s - train_Loss: 1.8315 - train_Acc: 31.09%
+- 1s - test_Loss: 3.5465 - test_Acc: 9.95%
+* Epoch 161/300
+- 2s - train_Loss: 1.6826 - train_Acc: 38.58%
+- 1s - test_Loss: 3.6176 - test_Acc: 11.44%
+* Epoch 181/300
+- 2s - train_Loss: 1.4928 - train_Acc: 45.32%
+- 1s - test_Loss: 3.8959 - test_Acc: 11.94%
+* Epoch 201/300
+- 2s - train_Loss: 1.2972 - train_Acc: 49.81%
+- 1s - test_Loss: 4.0290 - test_Acc: 12.44%
+* Epoch 221/300
+- 2s - train_Loss: 1.2825 - train_Acc: 56.18%
+- 1s - test_Loss: 4.0136 - test_Acc: 9.95%
+* Epoch 241/300
+- 2s - train_Loss: 1.0582 - train_Acc: 63.80%
+- 1s - test_Loss: 3.8345 - test_Acc: 10.45%
+* Epoch 261/300
+- 2s - train_Loss: 1.1190 - train_Acc: 66.29%
+- 1s - test_Loss: 3.9432 - test_Acc: 9.95%
+* Epoch 281/300
+- 2s - train_Loss: 0.9873 - train_Acc: 71.29%
+- 1s - test_Loss: 4.3145 - test_Acc: 10.45%
+dataset: FGNET, loss_fn: UnimodalNet, non_pre_weighted
+batch_size: 4, lr: 0.0005, epochs: 300
+time: 778.18s, model: resnet18_weights
+lamda: 1.0
+batch_size: 4
+Running: dataset=FGNET, loss=UnimodalNet, model=resnet18_weights, lr=1e-4, lamda=1
+FGNET train: 801 images, 62 age classes
+FGNET test: 201 images, 45 age classes
+* Epoch 1/300
+- 2s - train_Loss: 10.7611 - train_Acc: 1.50%
+- 1s - test_Loss: 6.6976 - test_Acc: 1.99%
+* Epoch 21/300
+- 2s - train_Loss: 2.7625 - train_Acc: 6.49%
+- 1s - test_Loss: 2.8658 - test_Acc: 6.97%
+* Epoch 41/300
+- 2s - train_Loss: 2.3954 - train_Acc: 11.36%
+- 1s - test_Loss: 2.9552 - test_Acc: 8.96%
+* Epoch 61/300
+- 2s - train_Loss: 2.0737 - train_Acc: 25.22%
+- 1s - test_Loss: 3.0861 - test_Acc: 10.95%
+* Epoch 81/300
+- 2s - train_Loss: 1.7052 - train_Acc: 35.21%
+- 1s - test_Loss: 2.9894 - test_Acc: 12.94%
+* Epoch 101/300
+- 2s - train_Loss: 1.4211 - train_Acc: 48.81%
+- 1s - test_Loss: 3.1075 - test_Acc: 9.95%
+* Epoch 121/300
+- 2s - train_Loss: 1.2083 - train_Acc: 58.68%
+- 1s - test_Loss: 3.4132 - test_Acc: 9.95%
+* Epoch 141/300
+- 2s - train_Loss: 1.0158 - train_Acc: 65.92%
+- 1s - test_Loss: 3.1571 - test_Acc: 10.45%
+* Epoch 161/300
+- 2s - train_Loss: 0.9181 - train_Acc: 71.16%
+- 1s - test_Loss: 3.2121 - test_Acc: 9.45%
+* Epoch 181/300
+- 2s - train_Loss: 0.8302 - train_Acc: 76.65%
+- 1s - test_Loss: 3.2892 - test_Acc: 12.44%
+* Epoch 201/300
+- 2s - train_Loss: 0.7757 - train_Acc: 78.90%
+- 1s - test_Loss: 3.6142 - test_Acc: 12.44%
+* Epoch 221/300
+- 2s - train_Loss: 0.6721 - train_Acc: 80.77%
+- 1s - test_Loss: 3.3286 - test_Acc: 11.94%
+* Epoch 241/300
+- 2s - train_Loss: 0.6919 - train_Acc: 82.40%
+- 1s - test_Loss: 3.5029 - test_Acc: 11.44%
+* Epoch 261/300
+- 2s - train_Loss: 0.5736 - train_Acc: 86.77%
+- 1s - test_Loss: 3.4086 - test_Acc: 11.44%
+* Epoch 281/300
+- 2s - train_Loss: 0.5685 - train_Acc: 87.14%
+- 1s - test_Loss: 3.3292 - test_Acc: 11.44%
+dataset: FGNET, loss_fn: UnimodalNet, non_pre_weighted
+batch_size: 4, lr: 0.0001, epochs: 300
+time: 793.83s, model: resnet18_weights
+lamda: 1.0
+batch_size: 4
+Running: dataset=FGNET, loss=UnimodalNet, model=resnet18_GaussianFC_weights, lr=1e-3, lamda=1
+FGNET train: 801 images, 62 age classes
+FGNET test: 201 images, 45 age classes
+* Epoch 1/300
+- 2s - train_Loss: 1387.6518 - train_Acc: 2.00%
+- 1s - test_Loss: 322615.9866 - test_Acc: 0.50%
+* Epoch 21/300
+- 2s - train_Loss: 35.7256 - train_Acc: 4.12%
+- 1s - test_Loss: 28.3206 - test_Acc: 4.98%
+* Epoch 41/300
+- 2s - train_Loss: 18.2024 - train_Acc: 3.25%
+- 1s - test_Loss: 16.2305 - test_Acc: 3.48%
+* Epoch 61/300
+- 2s - train_Loss: 21.0831 - train_Acc: 3.62%
+- 1s - test_Loss: 23.2412 - test_Acc: 3.98%
+* Epoch 81/300
+- 2s - train_Loss: 16.3071 - train_Acc: 4.12%
+- 1s - test_Loss: 16.1090 - test_Acc: 5.97%
+* Epoch 101/300
+- 2s - train_Loss: 14.6555 - train_Acc: 3.75%
+- 1s - test_Loss: 14.6566 - test_Acc: 6.47%
+* Epoch 121/300
+- 2s - train_Loss: 16.4647 - train_Acc: 3.50%
+- 1s - test_Loss: 14.8775 - test_Acc: 5.97%
+* Epoch 141/300
+- 2s - train_Loss: 8.1854 - train_Acc: 3.75%
+- 1s - test_Loss: 8.2398 - test_Acc: 6.47%
+* Epoch 161/300
+- 2s - train_Loss: 5.6804 - train_Acc: 3.75%
+- 1s - test_Loss: 6.0244 - test_Acc: 6.47%
+* Epoch 181/300
+- 2s - train_Loss: 5.1689 - train_Acc: 3.75%
+- 1s - test_Loss: 5.3881 - test_Acc: 6.47%
+* Epoch 201/300
+- 2s - train_Loss: 4.7935 - train_Acc: 3.75%
+- 1s - test_Loss: 5.0995 - test_Acc: 6.47%
+* Epoch 221/300
+- 2s - train_Loss: 4.5418 - train_Acc: 3.75%
+- 1s - test_Loss: 4.7891 - test_Acc: 6.47%
+* Epoch 241/300
+- 2s - train_Loss: 4.4368 - train_Acc: 3.75%
+- 1s - test_Loss: 4.6218 - test_Acc: 6.47%
+* Epoch 261/300
+- 2s - train_Loss: 4.2548 - train_Acc: 3.75%
+- 1s - test_Loss: 4.4077 - test_Acc: 6.47%
+* Epoch 281/300
+- 2s - train_Loss: 4.1559 - train_Acc: 3.75%
+- 1s - test_Loss: 4.2718 - test_Acc: 6.47%
+dataset: FGNET, loss_fn: UnimodalNet, non_pre_weighted
+batch_size: 4, lr: 0.001, epochs: 300
+time: 784.56s, model: resnet18_GaussianFC_weights
+lamda: 1.0
+batch_size: 4
+Running: dataset=FGNET, loss=UnimodalNet, model=resnet18_GaussianFC_weights, lr=5e-4, lamda=1
+FGNET train: 801 images, 62 age classes
+FGNET test: 201 images, 45 age classes
+* Epoch 1/300
+- 2s - train_Loss: 1804.7097 - train_Acc: 2.62%
+- 1s - test_Loss: 27977.1761 - test_Acc: 3.98%
+* Epoch 21/300
+- 2s - train_Loss: 273.7995 - train_Acc: 4.49%
+- 1s - test_Loss: 213.4411 - test_Acc: 4.48%
+* Epoch 41/300
+- 2s - train_Loss: 69.2776 - train_Acc: 4.24%
+- 1s - test_Loss: 78.8900 - test_Acc: 2.99%
+* Epoch 61/300
+- 2s - train_Loss: 19.7818 - train_Acc: 4.12%
+- 1s - test_Loss: 29.1743 - test_Acc: 2.99%
+* Epoch 81/300
+- 2s - train_Loss: 17.1204 - train_Acc: 4.37%
+- 1s - test_Loss: 20.2594 - test_Acc: 1.49%
+* Epoch 101/300
+- 2s - train_Loss: 15.0274 - train_Acc: 2.75%
+- 1s - test_Loss: 35.5406 - test_Acc: 2.49%
+* Epoch 121/300
+- 2s - train_Loss: 15.3659 - train_Acc: 3.00%
+- 1s - test_Loss: 16.6364 - test_Acc: 2.49%
+* Epoch 141/300
+- 2s - train_Loss: 14.7503 - train_Acc: 2.62%
+- 1s - test_Loss: 15.5197 - test_Acc: 2.49%
+* Epoch 161/300
+- 2s - train_Loss: 13.9827 - train_Acc: 3.62%
+- 1s - test_Loss: 14.0022 - test_Acc: 5.47%
+* Epoch 181/300
+- 2s - train_Loss: 13.4534 - train_Acc: 3.87%
+- 1s - test_Loss: 13.9593 - test_Acc: 6.47%
+* Epoch 201/300
+- 2s - train_Loss: 13.1848 - train_Acc: 3.75%
+- 1s - test_Loss: 13.7888 - test_Acc: 6.47%
+* Epoch 221/300
+- 2s - train_Loss: 13.4158 - train_Acc: 3.75%
+- 1s - test_Loss: 13.2278 - test_Acc: 6.47%
+* Epoch 241/300
+- 2s - train_Loss: 10.8351 - train_Acc: 3.75%
+- 1s - test_Loss: 11.3872 - test_Acc: 6.47%
+* Epoch 261/300
+- 2s - train_Loss: 8.8625 - train_Acc: 3.75%
+- 1s - test_Loss: 9.3795 - test_Acc: 6.47%
+* Epoch 281/300
+- 2s - train_Loss: 7.3488 - train_Acc: 3.75%
+- 1s - test_Loss: 7.8193 - test_Acc: 6.47%
+dataset: FGNET, loss_fn: UnimodalNet, non_pre_weighted
+batch_size: 4, lr: 0.0005, epochs: 300
+time: 782.77s, model: resnet18_GaussianFC_weights
+lamda: 1.0
+batch_size: 4
+Running: dataset=FGNET, loss=UnimodalNet, model=resnet18_GaussianFC_weights, lr=1e-4, lamda=1
+FGNET train: 801 images, 62 age classes
+FGNET test: 201 images, 45 age classes
+* Epoch 1/300
+- 2s - train_Loss: 2635.7502 - train_Acc: 2.00%
+- 1s - test_Loss: 9491.2441 - test_Acc: 0.50%
+* Epoch 21/300
+- 2s - train_Loss: 444.2583 - train_Acc: 1.75%
+- 1s - test_Loss: 1353.3251 - test_Acc: 4.48%
+* Epoch 41/300
+- 2s - train_Loss: 292.4660 - train_Acc: 4.24%
+- 1s - test_Loss: 6624.3485 - test_Acc: 5.47%
+* Epoch 61/300
+- 2s - train_Loss: 278.1385 - train_Acc: 2.87%
+- 1s - test_Loss: 326.4733 - test_Acc: 1.99%
+* Epoch 81/300
+- 2s - train_Loss: 188.4941 - train_Acc: 3.25%
+- 1s - test_Loss: 588.0810 - test_Acc: 5.97%
+* Epoch 101/300
+- 2s - train_Loss: 171.8086 - train_Acc: 3.50%
+- 1s - test_Loss: 275.1880 - test_Acc: 2.49%
+* Epoch 121/300
+- 2s - train_Loss: 142.5861 - train_Acc: 4.74%
+- 1s - test_Loss: 236.4584 - test_Acc: 4.98%
+* Epoch 141/300
+- 2s - train_Loss: 113.9035 - train_Acc: 2.62%
+- 1s - test_Loss: 35.2003 - test_Acc: 1.99%
+* Epoch 161/300
+- 2s - train_Loss: 92.6332 - train_Acc: 4.12%
+- 1s - test_Loss: 144.3695 - test_Acc: 5.97%
+* Epoch 181/300
+- 2s - train_Loss: 70.7671 - train_Acc: 3.50%
+- 1s - test_Loss: 128.6379 - test_Acc: 4.48%
+* Epoch 201/300
+- 2s - train_Loss: 56.6894 - train_Acc: 3.75%
+- 1s - test_Loss: 48.0087 - test_Acc: 4.98%
+* Epoch 221/300
+- 2s - train_Loss: 54.3947 - train_Acc: 4.49%
+- 1s - test_Loss: 46.6840 - test_Acc: 7.46%
+* Epoch 241/300
+- 2s - train_Loss: 30.4192 - train_Acc: 4.49%
+- 1s - test_Loss: 41.2342 - test_Acc: 3.98%
+* Epoch 261/300
+- 2s - train_Loss: 30.9133 - train_Acc: 4.99%
+- 1s - test_Loss: 44.9115 - test_Acc: 2.99%
+* Epoch 281/300
+- 2s - train_Loss: 21.7058 - train_Acc: 4.24%
+- 1s - test_Loss: 23.9932 - test_Acc: 2.49%
+dataset: FGNET, loss_fn: UnimodalNet, non_pre_weighted
+batch_size: 4, lr: 0.0001, epochs: 300
+time: 782.75s, model: resnet18_GaussianFC_weights
+lamda: 1.0
+batch_size: 4
+Running: dataset=FGNET, loss=UnimodalNet_absdistance, model=resnet18, lr=1e-3, lamda=1
+FGNET train: 801 images, 62 age classes
+FGNET test: 201 images, 45 age classes
+* Epoch 1/300
+- 2s - train_Loss: 15.9099 - train_Acc: 3.37%
+- 1s - test_Loss: 12.1539 - test_Acc: 6.97%
+* Epoch 21/300
+- 2s - train_Loss: 11.1921 - train_Acc: 3.75%
+- 1s - test_Loss: 10.8836 - test_Acc: 6.47%
+* Epoch 41/300
+- 2s - train_Loss: 11.2596 - train_Acc: 3.75%
+- 1s - test_Loss: 10.8262 - test_Acc: 6.47%
+* Epoch 61/300
+- 2s - train_Loss: 10.5145 - train_Acc: 4.12%
+- 1s - test_Loss: 10.4937 - test_Acc: 6.47%
+* Epoch 81/300
+- 2s - train_Loss: 10.2183 - train_Acc: 4.87%
+- 1s - test_Loss: 10.5133 - test_Acc: 6.47%
+* Epoch 101/300
+- 2s - train_Loss: 10.0981 - train_Acc: 5.24%
+- 1s - test_Loss: 10.7975 - test_Acc: 6.97%
+* Epoch 121/300
+- 2s - train_Loss: 10.0451 - train_Acc: 4.87%
+- 1s - test_Loss: 10.1168 - test_Acc: 6.47%
+* Epoch 141/300
+- 2s - train_Loss: 9.8522 - train_Acc: 4.74%
+- 1s - test_Loss: 9.8599 - test_Acc: 7.96%
+* Epoch 161/300
+- 2s - train_Loss: 9.5495 - train_Acc: 5.49%
+- 1s - test_Loss: 9.6254 - test_Acc: 7.96%
+* Epoch 181/300
+- 2s - train_Loss: 9.0288 - train_Acc: 5.99%
+- 1s - test_Loss: 10.6622 - test_Acc: 8.96%
+* Epoch 201/300
+- 2s - train_Loss: 8.9502 - train_Acc: 6.12%
+- 1s - test_Loss: 9.5857 - test_Acc: 8.46%
+* Epoch 221/300
+- 2s - train_Loss: 8.9388 - train_Acc: 7.12%
+- 1s - test_Loss: 9.3951 - test_Acc: 8.46%
+* Epoch 241/300
+- 2s - train_Loss: 8.7772 - train_Acc: 5.49%
+- 1s - test_Loss: 9.7148 - test_Acc: 8.46%
+* Epoch 261/300
+- 2s - train_Loss: 8.3256 - train_Acc: 6.49%
+- 1s - test_Loss: 9.4729 - test_Acc: 7.96%
+* Epoch 281/300
+- 2s - train_Loss: 8.1755 - train_Acc: 6.87%
+- 1s - test_Loss: 10.0733 - test_Acc: 7.46%
+dataset: FGNET, loss_fn: UnimodalNet_absdistance, non_pre_weighted
+batch_size: 4, lr: 0.001, epochs: 300
+time: 781.22s, model: resnet18
+lamda: 1.0
+batch_size: 4
+Running: dataset=FGNET, loss=UnimodalNet_absdistance, model=resnet18, lr=5e-4, lamda=1
+FGNET train: 801 images, 62 age classes
+FGNET test: 201 images, 45 age classes
+* Epoch 1/300
+- 2s - train_Loss: 17.6817 - train_Acc: 2.62%
+- 1s - test_Loss: 12.1656 - test_Acc: 6.47%
+* Epoch 21/300
+- 2s - train_Loss: 11.2799 - train_Acc: 3.75%
+- 1s - test_Loss: 10.9030 - test_Acc: 6.47%
+* Epoch 41/300
+- 2s - train_Loss: 10.9069 - train_Acc: 4.37%
+- 1s - test_Loss: 10.6575 - test_Acc: 7.46%
+* Epoch 61/300
+- 2s - train_Loss: 10.2199 - train_Acc: 4.62%
+- 1s - test_Loss: 10.2011 - test_Acc: 7.96%
+* Epoch 81/300
+- 2s - train_Loss: 9.7539 - train_Acc: 4.62%
+- 1s - test_Loss: 9.5953 - test_Acc: 7.96%
+* Epoch 101/300
+- 2s - train_Loss: 9.5649 - train_Acc: 6.87%
+- 1s - test_Loss: 9.3353 - test_Acc: 8.96%
+* Epoch 121/300
+- 2s - train_Loss: 9.4366 - train_Acc: 5.12%
+- 1s - test_Loss: 9.7843 - test_Acc: 9.45%
+* Epoch 141/300
+- 2s - train_Loss: 9.1179 - train_Acc: 5.24%
+- 1s - test_Loss: 9.6676 - test_Acc: 6.97%
+* Epoch 161/300
+- 2s - train_Loss: 8.9685 - train_Acc: 5.37%
+- 1s - test_Loss: 9.8617 - test_Acc: 9.45%
+* Epoch 181/300
+- 2s - train_Loss: 8.6894 - train_Acc: 6.37%
+- 1s - test_Loss: 9.4332 - test_Acc: 8.96%
+* Epoch 201/300
+- 2s - train_Loss: 8.4047 - train_Acc: 6.99%
+- 1s - test_Loss: 10.0188 - test_Acc: 8.96%
+* Epoch 221/300
+- 2s - train_Loss: 8.2177 - train_Acc: 7.62%
+- 1s - test_Loss: 9.1169 - test_Acc: 8.96%
+* Epoch 241/300
+- 2s - train_Loss: 7.9689 - train_Acc: 7.87%
+- 1s - test_Loss: 9.0735 - test_Acc: 7.96%
+* Epoch 261/300
+- 2s - train_Loss: 7.9534 - train_Acc: 7.87%
+- 1s - test_Loss: 9.1520 - test_Acc: 7.46%
+* Epoch 281/300
+- 2s - train_Loss: 7.6386 - train_Acc: 7.49%
+- 1s - test_Loss: 9.2158 - test_Acc: 6.97%
+dataset: FGNET, loss_fn: UnimodalNet_absdistance, non_pre_weighted
+batch_size: 4, lr: 0.0005, epochs: 300
+time: 778.71s, model: resnet18
+lamda: 1.0
+batch_size: 4
+Running: dataset=FGNET, loss=UnimodalNet_absdistance, model=resnet18, lr=1e-4, lamda=1
+FGNET train: 801 images, 62 age classes
+FGNET test: 201 images, 45 age classes
+* Epoch 1/300
+- 2s - train_Loss: 30.2790 - train_Acc: 3.75%
+- 1s - test_Loss: 20.6127 - test_Acc: 4.98%
+* Epoch 21/300
+- 2s - train_Loss: 10.7520 - train_Acc: 3.75%
+- 1s - test_Loss: 10.5490 - test_Acc: 6.47%
+* Epoch 41/300
+- 2s - train_Loss: 10.1503 - train_Acc: 3.87%
+- 1s - test_Loss: 10.3743 - test_Acc: 8.96%
+* Epoch 61/300
+- 2s - train_Loss: 9.9298 - train_Acc: 4.74%
+- 1s - test_Loss: 9.7818 - test_Acc: 8.46%
+* Epoch 81/300
+- 2s - train_Loss: 9.5327 - train_Acc: 4.74%
+- 1s - test_Loss: 9.4929 - test_Acc: 6.97%
+* Epoch 101/300
+- 2s - train_Loss: 8.9295 - train_Acc: 5.12%
+- 1s - test_Loss: 9.2543 - test_Acc: 7.46%
+* Epoch 121/300
+- 2s - train_Loss: 8.6581 - train_Acc: 5.12%
+- 1s - test_Loss: 9.5734 - test_Acc: 6.97%
+* Epoch 141/300
+- 2s - train_Loss: 8.2179 - train_Acc: 4.99%
+- 1s - test_Loss: 9.9841 - test_Acc: 6.97%
+* Epoch 161/300
+- 2s - train_Loss: 8.3710 - train_Acc: 5.87%
+- 1s - test_Loss: 9.4206 - test_Acc: 6.47%
+* Epoch 181/300
+- 2s - train_Loss: 8.1333 - train_Acc: 4.74%
+- 1s - test_Loss: 9.2291 - test_Acc: 6.97%
+* Epoch 201/300
+- 2s - train_Loss: 7.8375 - train_Acc: 4.87%
+- 1s - test_Loss: 9.6589 - test_Acc: 6.97%
+* Epoch 221/300
+- 2s - train_Loss: 7.7023 - train_Acc: 5.74%
+- 1s - test_Loss: 9.2678 - test_Acc: 8.46%
+* Epoch 241/300
+- 2s - train_Loss: 7.4597 - train_Acc: 7.62%
+- 1s - test_Loss: 11.1373 - test_Acc: 7.96%
+* Epoch 261/300
+- 2s - train_Loss: 7.0340 - train_Acc: 7.74%
+- 1s - test_Loss: 9.7905 - test_Acc: 7.46%
+* Epoch 281/300
+- 2s - train_Loss: 7.0262 - train_Acc: 6.99%
+- 1s - test_Loss: 9.8180 - test_Acc: 6.97%
+dataset: FGNET, loss_fn: UnimodalNet_absdistance, non_pre_weighted
+batch_size: 4, lr: 0.0001, epochs: 300
+time: 778.21s, model: resnet18
+lamda: 1.0
+batch_size: 4
+Running: dataset=FGNET, loss=UnimodalNet_absdistance, model=resnet18_GaussianFC, lr=1e-3, lamda=1
+FGNET train: 801 images, 62 age classes
+FGNET test: 201 images, 45 age classes
+* Epoch 1/300
+- 2s - train_Loss: 2659.0765 - train_Acc: 0.87%
+- 1s - test_Loss: 13565.2554 - test_Acc: 1.00%
+* Epoch 21/300
+- 2s - train_Loss: 46.6344 - train_Acc: 2.25%
+- 1s - test_Loss: 43.2794 - test_Acc: 2.49%
+* Epoch 41/300
+- 2s - train_Loss: 78.6067 - train_Acc: 3.00%
+- 1s - test_Loss: 43.5032 - test_Acc: 4.98%
+* Epoch 61/300
+- 2s - train_Loss: 39.2454 - train_Acc: 3.87%
+- 1s - test_Loss: 41.6440 - test_Acc: 6.47%
+* Epoch 81/300
+- 2s - train_Loss: 39.2392 - train_Acc: 3.75%
+- 1s - test_Loss: 41.3966 - test_Acc: 6.47%
+* Epoch 101/300
+- 2s - train_Loss: 41.3393 - train_Acc: 3.75%
+- 1s - test_Loss: 39.5054 - test_Acc: 6.47%
+* Epoch 121/300
+- 2s - train_Loss: 37.3979 - train_Acc: 3.75%
+- 1s - test_Loss: 38.5353 - test_Acc: 6.47%
+* Epoch 141/300
+- 2s - train_Loss: 50.1550 - train_Acc: 3.75%
+- 1s - test_Loss: 38.3824 - test_Acc: 6.47%
+* Epoch 161/300
+- 2s - train_Loss: 34.4316 - train_Acc: 3.75%
+- 1s - test_Loss: 36.3673 - test_Acc: 6.47%
+* Epoch 181/300
+- 2s - train_Loss: 33.2920 - train_Acc: 3.75%
+- 1s - test_Loss: 35.3480 - test_Acc: 6.47%
+* Epoch 201/300
+- 2s - train_Loss: 36.2547 - train_Acc: 3.75%
+- 1s - test_Loss: 34.1225 - test_Acc: 6.47%
+* Epoch 221/300
+- 2s - train_Loss: 33.4953 - train_Acc: 3.75%
+- 1s - test_Loss: 33.2128 - test_Acc: 6.47%
+* Epoch 241/300
+- 2s - train_Loss: 31.7051 - train_Acc: 3.75%
+- 1s - test_Loss: 32.1505 - test_Acc: 6.47%
+* Epoch 261/300
+- 2s - train_Loss: 30.2745 - train_Acc: 3.75%
+- 1s - test_Loss: 31.3005 - test_Acc: 6.47%
+* Epoch 281/300
+- 2s - train_Loss: 30.4158 - train_Acc: 3.75%
+- 1s - test_Loss: 30.6846 - test_Acc: 6.47%
+dataset: FGNET, loss_fn: UnimodalNet_absdistance, non_pre_weighted
+batch_size: 4, lr: 0.001, epochs: 300
+time: 788.12s, model: resnet18_GaussianFC
+lamda: 1.0
+batch_size: 4
+Running: dataset=FGNET, loss=UnimodalNet_absdistance, model=resnet18_GaussianFC, lr=5e-4, lamda=1
+FGNET train: 801 images, 62 age classes
+FGNET test: 201 images, 45 age classes
+* Epoch 1/300
+- 2s - train_Loss: 3071.4794 - train_Acc: 2.62%
+- 1s - test_Loss: 2538.9618 - test_Acc: 3.48%
+* Epoch 21/300
+- 2s - train_Loss: 93.5884 - train_Acc: 2.50%
+- 1s - test_Loss: 45.2824 - test_Acc: 1.99%
+* Epoch 41/300
+- 2s - train_Loss: 63.9227 - train_Acc: 3.87%
+- 1s - test_Loss: 46.0612 - test_Acc: 2.49%
+* Epoch 61/300
+- 2s - train_Loss: 114.2815 - train_Acc: 3.12%
+- 1s - test_Loss: 42.7058 - test_Acc: 5.97%
+* Epoch 81/300
+- 2s - train_Loss: 44.5741 - train_Acc: 3.50%
+- 1s - test_Loss: 42.3689 - test_Acc: 5.97%
+* Epoch 101/300
+- 2s - train_Loss: 40.6986 - train_Acc: 3.62%
+- 1s - test_Loss: 41.4781 - test_Acc: 6.47%
+* Epoch 121/300
+- 2s - train_Loss: 42.3440 - train_Acc: 3.50%
+- 1s - test_Loss: 41.2876 - test_Acc: 6.47%
+* Epoch 141/300
+- 2s - train_Loss: 41.6069 - train_Acc: 3.87%
+- 1s - test_Loss: 41.7927 - test_Acc: 6.47%
+* Epoch 161/300
+- 2s - train_Loss: 39.7064 - train_Acc: 3.75%
+- 1s - test_Loss: 40.1567 - test_Acc: 6.47%
+* Epoch 181/300
+- 2s - train_Loss: 41.3131 - train_Acc: 3.75%
+- 1s - test_Loss: 39.4720 - test_Acc: 6.47%
+* Epoch 201/300
+- 2s - train_Loss: 37.1947 - train_Acc: 3.75%
+- 1s - test_Loss: 39.3251 - test_Acc: 6.47%
+* Epoch 221/300
+- 2s - train_Loss: 37.3792 - train_Acc: 3.75%
+- 1s - test_Loss: 38.2802 - test_Acc: 6.47%
+* Epoch 241/300
+- 2s - train_Loss: 35.7918 - train_Acc: 3.75%
+- 1s - test_Loss: 37.6573 - test_Acc: 6.47%
+* Epoch 261/300
+- 2s - train_Loss: 35.1903 - train_Acc: 3.75%
+- 1s - test_Loss: 37.3624 - test_Acc: 6.47%
+* Epoch 281/300
+- 2s - train_Loss: 35.3981 - train_Acc: 3.75%
+- 1s - test_Loss: 36.7144 - test_Acc: 6.47%
+dataset: FGNET, loss_fn: UnimodalNet_absdistance, non_pre_weighted
+batch_size: 4, lr: 0.0005, epochs: 300
+time: 786.49s, model: resnet18_GaussianFC
+lamda: 1.0
+batch_size: 4
+Running: dataset=FGNET, loss=UnimodalNet_absdistance, model=resnet18_GaussianFC, lr=1e-4, lamda=1
+FGNET train: 801 images, 62 age classes
+FGNET test: 201 images, 45 age classes
+* Epoch 1/300
+- 2s - train_Loss: 5502.2337 - train_Acc: 1.75%
+- 1s - test_Loss: 2391.5035 - test_Acc: 0.50%
+* Epoch 21/300
+- 2s - train_Loss: 209.3471 - train_Acc: 4.74%
+- 1s - test_Loss: 226.3711 - test_Acc: 1.49%
+* Epoch 41/300
+- 2s - train_Loss: 145.7913 - train_Acc: 4.00%
+- 1s - test_Loss: 79.0915 - test_Acc: 4.98%
+* Epoch 61/300
+- 2s - train_Loss: 131.9413 - train_Acc: 2.75%
+- 1s - test_Loss: 57.8804 - test_Acc: 2.99%
+* Epoch 81/300
+- 2s - train_Loss: 76.0181 - train_Acc: 2.62%
+- 1s - test_Loss: 44.1758 - test_Acc: 2.49%
+* Epoch 101/300
+- 2s - train_Loss: 68.8774 - train_Acc: 3.50%
+- 1s - test_Loss: 45.4606 - test_Acc: 2.99%
+* Epoch 121/300
+- 2s - train_Loss: 106.0933 - train_Acc: 2.87%
+- 1s - test_Loss: 44.5295 - test_Acc: 2.99%
+* Epoch 141/300
+- 2s - train_Loss: 69.4823 - train_Acc: 3.62%
+- 1s - test_Loss: 43.8193 - test_Acc: 2.99%
+* Epoch 161/300
+- 2s - train_Loss: 89.7159 - train_Acc: 3.00%
+- 1s - test_Loss: 45.0667 - test_Acc: 2.49%
+* Epoch 181/300
+- 2s - train_Loss: 54.0288 - train_Acc: 2.62%
+- 1s - test_Loss: 43.8669 - test_Acc: 2.49%
+* Epoch 201/300
+- 2s - train_Loss: 101.8058 - train_Acc: 2.62%
+- 1s - test_Loss: 43.1561 - test_Acc: 2.99%
+* Epoch 221/300
+- 2s - train_Loss: 70.2283 - train_Acc: 2.87%
+- 1s - test_Loss: 43.4584 - test_Acc: 2.49%
+* Epoch 241/300
+- 2s - train_Loss: 46.8895 - train_Acc: 2.50%
+- 1s - test_Loss: 42.8984 - test_Acc: 2.49%
+* Epoch 261/300
+- 2s - train_Loss: 47.7378 - train_Acc: 2.50%
+- 1s - test_Loss: 43.3962 - test_Acc: 2.49%
+* Epoch 281/300
+- 2s - train_Loss: 100.3326 - train_Acc: 3.12%
+- 1s - test_Loss: 43.5872 - test_Acc: 2.99%
+dataset: FGNET, loss_fn: UnimodalNet_absdistance, non_pre_weighted
+batch_size: 4, lr: 0.0001, epochs: 300
+time: 787.47s, model: resnet18_GaussianFC
+lamda: 1.0
+batch_size: 4
+Running: dataset=FGNET, loss=UnimodalNet_absdistance, model=resnet18_weights, lr=1e-3, lamda=1
+FGNET train: 801 images, 62 age classes
+FGNET test: 201 images, 45 age classes
+* Epoch 1/300
+- 2s - train_Loss: 16.0782 - train_Acc: 3.25%
+- 1s - test_Loss: 12.5200 - test_Acc: 2.99%
+* Epoch 21/300
+- 2s - train_Loss: 9.9155 - train_Acc: 6.99%
+- 1s - test_Loss: 10.4053 - test_Acc: 6.47%
+* Epoch 41/300
+- 2s - train_Loss: 9.1504 - train_Acc: 5.74%
+- 1s - test_Loss: 9.7263 - test_Acc: 8.46%
+* Epoch 61/300
+- 2s - train_Loss: 8.6842 - train_Acc: 5.74%
+- 1s - test_Loss: 9.8570 - test_Acc: 6.97%
+* Epoch 81/300
+- 2s - train_Loss: 8.7006 - train_Acc: 7.12%
+- 1s - test_Loss: 8.9959 - test_Acc: 8.46%
+* Epoch 101/300
+- 2s - train_Loss: 8.1579 - train_Acc: 6.12%
+- 1s - test_Loss: 9.5486 - test_Acc: 8.46%
+* Epoch 121/300
+- 2s - train_Loss: 7.8210 - train_Acc: 6.12%
+- 1s - test_Loss: 9.7639 - test_Acc: 7.46%
+* Epoch 141/300
+- 2s - train_Loss: 7.5524 - train_Acc: 5.74%
+- 1s - test_Loss: 10.8071 - test_Acc: 7.46%
+* Epoch 161/300
+- 2s - train_Loss: 7.0530 - train_Acc: 7.49%
+- 1s - test_Loss: 9.3990 - test_Acc: 9.45%
+* Epoch 181/300
+- 2s - train_Loss: 7.1932 - train_Acc: 7.74%
+- 1s - test_Loss: 10.3233 - test_Acc: 8.46%
+* Epoch 201/300
+- 2s - train_Loss: 6.6596 - train_Acc: 11.24%
+- 1s - test_Loss: 10.0596 - test_Acc: 7.46%
+* Epoch 221/300
+- 2s - train_Loss: 6.5319 - train_Acc: 11.74%
+- 1s - test_Loss: 10.8174 - test_Acc: 8.46%
+* Epoch 241/300
+- 2s - train_Loss: 6.3865 - train_Acc: 17.23%
+- 1s - test_Loss: 11.4894 - test_Acc: 7.96%
+* Epoch 261/300
+- 2s - train_Loss: 5.5873 - train_Acc: 22.60%
+- 1s - test_Loss: 11.6134 - test_Acc: 9.45%
+* Epoch 281/300
+- 2s - train_Loss: 5.3135 - train_Acc: 21.60%
+- 1s - test_Loss: 12.0598 - test_Acc: 9.95%
+dataset: FGNET, loss_fn: UnimodalNet_absdistance, non_pre_weighted
+batch_size: 4, lr: 0.001, epochs: 300
+time: 784.14s, model: resnet18_weights
+lamda: 1.0
+batch_size: 4
+Running: dataset=FGNET, loss=UnimodalNet_absdistance, model=resnet18_weights, lr=5e-4, lamda=1
+FGNET train: 801 images, 62 age classes
+FGNET test: 201 images, 45 age classes
+* Epoch 1/300
+- 2s - train_Loss: 17.5236 - train_Acc: 3.62%
+- 1s - test_Loss: 11.1220 - test_Acc: 6.97%
+* Epoch 21/300
+- 2s - train_Loss: 9.1599 - train_Acc: 7.24%
+- 1s - test_Loss: 9.1571 - test_Acc: 10.95%
+* Epoch 41/300
+- 2s - train_Loss: 8.6532 - train_Acc: 8.86%
+- 1s - test_Loss: 8.8001 - test_Acc: 7.96%
+* Epoch 61/300
+- 2s - train_Loss: 7.9489 - train_Acc: 11.99%
+- 1s - test_Loss: 10.1814 - test_Acc: 7.46%
+* Epoch 81/300
+- 2s - train_Loss: 7.1124 - train_Acc: 10.74%
+- 1s - test_Loss: 9.6324 - test_Acc: 9.45%
+* Epoch 101/300
+- 2s - train_Loss: 6.4827 - train_Acc: 15.98%
+- 1s - test_Loss: 10.9440 - test_Acc: 8.46%
+* Epoch 121/300
+- 2s - train_Loss: 6.3338 - train_Acc: 20.97%
+- 1s - test_Loss: 10.1853 - test_Acc: 9.95%
+* Epoch 141/300
+- 2s - train_Loss: 6.0372 - train_Acc: 28.84%
+- 1s - test_Loss: 11.2622 - test_Acc: 9.45%
+* Epoch 161/300
+- 2s - train_Loss: 5.0598 - train_Acc: 33.58%
+- 1s - test_Loss: 12.0330 - test_Acc: 8.96%
+* Epoch 181/300
+- 2s - train_Loss: 4.8452 - train_Acc: 43.32%
+- 1s - test_Loss: 13.5509 - test_Acc: 11.44%
+* Epoch 201/300
+- 2s - train_Loss: 4.3139 - train_Acc: 49.56%
+- 1s - test_Loss: 12.1749 - test_Acc: 9.45%
+* Epoch 221/300
+- 2s - train_Loss: 3.4846 - train_Acc: 52.93%
+- 1s - test_Loss: 12.0753 - test_Acc: 8.46%
+* Epoch 241/300
+- 2s - train_Loss: 3.2441 - train_Acc: 60.92%
+- 1s - test_Loss: 11.7081 - test_Acc: 8.96%
+* Epoch 261/300
+- 2s - train_Loss: 3.2133 - train_Acc: 65.92%
+- 1s - test_Loss: 13.1571 - test_Acc: 7.46%
+* Epoch 281/300
+- 2s - train_Loss: 2.9227 - train_Acc: 69.04%
+- 1s - test_Loss: 11.9160 - test_Acc: 7.46%
+dataset: FGNET, loss_fn: UnimodalNet_absdistance, non_pre_weighted
+batch_size: 4, lr: 0.0005, epochs: 300
+time: 782.26s, model: resnet18_weights
+lamda: 1.0
+batch_size: 4
+Running: dataset=FGNET, loss=UnimodalNet_absdistance, model=resnet18_weights, lr=1e-4, lamda=1
+FGNET train: 801 images, 62 age classes
+FGNET test: 201 images, 45 age classes
+* Epoch 1/300
+- 2s - train_Loss: 30.5553 - train_Acc: 2.75%
+- 1s - test_Loss: 20.3907 - test_Acc: 4.48%
+* Epoch 21/300
+- 2s - train_Loss: 8.0581 - train_Acc: 5.62%
+- 1s - test_Loss: 8.6047 - test_Acc: 7.46%
+* Epoch 41/300
+- 2s - train_Loss: 7.2181 - train_Acc: 10.24%
+- 1s - test_Loss: 8.7084 - test_Acc: 8.46%
+* Epoch 61/300
+- 2s - train_Loss: 6.2108 - train_Acc: 20.85%
+- 1s - test_Loss: 8.9035 - test_Acc: 10.45%
+* Epoch 81/300
+- 2s - train_Loss: 5.0899 - train_Acc: 33.71%
+- 1s - test_Loss: 10.2459 - test_Acc: 11.94%
+* Epoch 101/300
+- 2s - train_Loss: 4.2880 - train_Acc: 50.56%
+- 1s - test_Loss: 9.3753 - test_Acc: 10.95%
+* Epoch 121/300
+- 2s - train_Loss: 3.7441 - train_Acc: 56.18%
+- 1s - test_Loss: 10.1481 - test_Acc: 13.93%
+* Epoch 141/300
+- 2s - train_Loss: 3.6085 - train_Acc: 66.92%
+- 1s - test_Loss: 10.1268 - test_Acc: 13.93%
+* Epoch 161/300
+- 2s - train_Loss: 3.1368 - train_Acc: 69.41%
+- 1s - test_Loss: 10.3713 - test_Acc: 11.44%
+* Epoch 181/300
+- 2s - train_Loss: 2.6727 - train_Acc: 74.16%
+- 1s - test_Loss: 9.6293 - test_Acc: 12.44%
+* Epoch 201/300
+- 2s - train_Loss: 2.2065 - train_Acc: 79.40%
+- 1s - test_Loss: 9.7983 - test_Acc: 12.94%
+* Epoch 221/300
+- 2s - train_Loss: 2.0053 - train_Acc: 81.65%
+- 1s - test_Loss: 10.1714 - test_Acc: 12.94%
+* Epoch 241/300
+- 2s - train_Loss: 1.8886 - train_Acc: 84.27%
+- 1s - test_Loss: 10.1619 - test_Acc: 12.94%
+* Epoch 261/300
+- 2s - train_Loss: 1.9399 - train_Acc: 85.64%
+- 1s - test_Loss: 10.7549 - test_Acc: 10.45%
+* Epoch 281/300
+- 2s - train_Loss: 1.5285 - train_Acc: 88.01%
+- 1s - test_Loss: 10.2849 - test_Acc: 11.44%
+dataset: FGNET, loss_fn: UnimodalNet_absdistance, non_pre_weighted
+batch_size: 4, lr: 0.0001, epochs: 300
+time: 786.37s, model: resnet18_weights
+lamda: 1.0
+batch_size: 4
+Running: dataset=FGNET, loss=UnimodalNet_absdistance, model=resnet18_GaussianFC_weights, lr=1e-3, lamda=1
+FGNET train: 801 images, 62 age classes
+FGNET test: 201 images, 45 age classes
+* Epoch 1/300
+- 2s - train_Loss: 5001.3596 - train_Acc: 2.12%
+- 1s - test_Loss: 3989.3495 - test_Acc: 2.49%
+* Epoch 21/300
+- 2s - train_Loss: 146.2757 - train_Acc: 4.37%
+- 1s - test_Loss: 121.2026 - test_Acc: 3.98%
+* Epoch 41/300
+- 2s - train_Loss: 64.8671 - train_Acc: 3.50%
+- 1s - test_Loss: 211.9838 - test_Acc: 2.99%
+* Epoch 61/300
+- 2s - train_Loss: 64.8371 - train_Acc: 3.50%
+- 1s - test_Loss: 67.1514 - test_Acc: 4.48%
+* Epoch 81/300
+- 2s - train_Loss: 51.1123 - train_Acc: 3.37%
+- 1s - test_Loss: 49.9026 - test_Acc: 2.99%
+* Epoch 101/300
+- 2s - train_Loss: 45.9842 - train_Acc: 3.87%
+- 1s - test_Loss: 43.0077 - test_Acc: 4.98%
+* Epoch 121/300
+- 2s - train_Loss: 41.2874 - train_Acc: 3.75%
+- 1s - test_Loss: 41.3814 - test_Acc: 6.47%
+* Epoch 141/300
+- 2s - train_Loss: 31.6522 - train_Acc: 3.75%
+- 1s - test_Loss: 31.7007 - test_Acc: 6.47%
+* Epoch 161/300
+- 2s - train_Loss: 21.6099 - train_Acc: 3.75%
+- 1s - test_Loss: 21.4708 - test_Acc: 6.47%
+* Epoch 181/300
+- 2s - train_Loss: 48.9617 - train_Acc: 3.75%
+- 1s - test_Loss: 45.3010 - test_Acc: 6.47%
+* Epoch 201/300
+- 2s - train_Loss: 15.8925 - train_Acc: 3.75%
+- 1s - test_Loss: 16.7650 - test_Acc: 6.47%
+* Epoch 221/300
+- 2s - train_Loss: 14.9418 - train_Acc: 3.75%
+- 1s - test_Loss: 15.7700 - test_Acc: 6.47%
+* Epoch 241/300
+- 2s - train_Loss: 14.3133 - train_Acc: 3.75%
+- 1s - test_Loss: 15.0351 - test_Acc: 6.47%
+* Epoch 261/300
+- 2s - train_Loss: 13.8669 - train_Acc: 3.75%
+- 1s - test_Loss: 14.5612 - test_Acc: 6.47%
+* Epoch 281/300
+- 2s - train_Loss: 13.4327 - train_Acc: 3.75%
+- 1s - test_Loss: 14.0895 - test_Acc: 6.47%
+dataset: FGNET, loss_fn: UnimodalNet_absdistance, non_pre_weighted
+batch_size: 4, lr: 0.001, epochs: 300
+time: 787.58s, model: resnet18_GaussianFC_weights
+lamda: 1.0
+batch_size: 4
+Running: dataset=FGNET, loss=UnimodalNet_absdistance, model=resnet18_GaussianFC_weights, lr=5e-4, lamda=1
+FGNET train: 801 images, 62 age classes
+FGNET test: 201 images, 45 age classes
+* Epoch 1/300
+- 2s - train_Loss: 5393.5995 - train_Acc: 0.37%
+- 1s - test_Loss: 50483.1189 - test_Acc: 1.99%
+* Epoch 21/300
+- 2s - train_Loss: 1013.5201 - train_Acc: 3.75%
+- 1s - test_Loss: 373.1242 - test_Acc: 4.98%
+* Epoch 41/300
+- 2s - train_Loss: 98.6075 - train_Acc: 3.62%
+- 1s - test_Loss: 97.8216 - test_Acc: 3.48%
+* Epoch 61/300
+- 2s - train_Loss: 144.6674 - train_Acc: 4.24%
+- 1s - test_Loss: 95.9186 - test_Acc: 0.50%
+* Epoch 81/300
+- 2s - train_Loss: 53.3293 - train_Acc: 4.37%
+- 1s - test_Loss: 64.8683 - test_Acc: 2.99%
+* Epoch 101/300
+- 2s - train_Loss: 52.7664 - train_Acc: 3.37%
+- 1s - test_Loss: 48.0870 - test_Acc: 2.49%
+* Epoch 121/300
+- 2s - train_Loss: 58.6846 - train_Acc: 3.00%
+- 1s - test_Loss: 47.3957 - test_Acc: 2.49%
+* Epoch 141/300
+- 2s - train_Loss: 45.6884 - train_Acc: 2.87%
+- 1s - test_Loss: 46.1018 - test_Acc: 2.49%
+* Epoch 161/300
+- 2s - train_Loss: 42.2315 - train_Acc: 2.62%
+- 1s - test_Loss: 43.2475 - test_Acc: 2.49%
+* Epoch 181/300
+- 2s - train_Loss: 43.3971 - train_Acc: 3.00%
+- 1s - test_Loss: 42.8378 - test_Acc: 1.99%
+* Epoch 201/300
+- 2s - train_Loss: 40.7664 - train_Acc: 3.12%
+- 1s - test_Loss: 52.8998 - test_Acc: 3.98%
+* Epoch 221/300
+- 2s - train_Loss: 32.0650 - train_Acc: 3.75%
+- 1s - test_Loss: 31.1822 - test_Acc: 6.47%
+* Epoch 241/300
+- 2s - train_Loss: 27.0776 - train_Acc: 3.75%
+- 1s - test_Loss: 35.5536 - test_Acc: 6.47%
+* Epoch 261/300
+- 2s - train_Loss: 22.9540 - train_Acc: 3.75%
+- 1s - test_Loss: 23.2370 - test_Acc: 6.47%
+* Epoch 281/300
+- 2s - train_Loss: 19.5038 - train_Acc: 3.75%
+- 1s - test_Loss: 20.7073 - test_Acc: 6.47%
+dataset: FGNET, loss_fn: UnimodalNet_absdistance, non_pre_weighted
+batch_size: 4, lr: 0.0005, epochs: 300
+time: 786.97s, model: resnet18_GaussianFC_weights
+lamda: 1.0
+batch_size: 4
+Running: dataset=FGNET, loss=UnimodalNet_absdistance, model=resnet18_GaussianFC_weights, lr=1e-4, lamda=1
+FGNET train: 801 images, 62 age classes
+FGNET test: 201 images, 45 age classes
+* Epoch 1/300
+- 2s - train_Loss: 8481.6330 - train_Acc: 1.12%
+- 1s - test_Loss: 20659.4330 - test_Acc: 0.00%
+* Epoch 21/300
+- 2s - train_Loss: 1803.1877 - train_Acc: 2.62%
+- 1s - test_Loss: 2371.6548 - test_Acc: 2.99%
+* Epoch 41/300
+- 2s - train_Loss: 960.6126 - train_Acc: 3.00%
+- 1s - test_Loss: 2402.6370 - test_Acc: 1.99%
+* Epoch 61/300
+- 2s - train_Loss: 651.2338 - train_Acc: 3.25%
+- 1s - test_Loss: 351.2963 - test_Acc: 4.98%
+* Epoch 81/300
+- 2s - train_Loss: 878.0555 - train_Acc: 3.25%
+- 1s - test_Loss: 1212.9147 - test_Acc: 2.49%
+* Epoch 101/300
+- 2s - train_Loss: 388.9368 - train_Acc: 2.62%
+- 1s - test_Loss: 690.5891 - test_Acc: 5.97%
+* Epoch 121/300
+- 2s - train_Loss: 337.3283 - train_Acc: 3.75%
+- 1s - test_Loss: 465.3243 - test_Acc: 3.48%
+* Epoch 141/300
+- 2s - train_Loss: 415.3362 - train_Acc: 3.12%
+- 1s - test_Loss: 746.1116 - test_Acc: 2.49%
+* Epoch 161/300
+- 2s - train_Loss: 241.0067 - train_Acc: 3.25%
+- 1s - test_Loss: 100.2830 - test_Acc: 1.99%
+* Epoch 181/300
+- 2s - train_Loss: 225.4564 - train_Acc: 2.62%
+- 1s - test_Loss: 191.8049 - test_Acc: 2.49%
+* Epoch 201/300
+- 2s - train_Loss: 207.5548 - train_Acc: 2.00%
+- 1s - test_Loss: 203.0193 - test_Acc: 3.98%
+* Epoch 221/300
+- 2s - train_Loss: 195.4958 - train_Acc: 2.75%
+- 1s - test_Loss: 156.2604 - test_Acc: 2.49%
+* Epoch 241/300
+- 2s - train_Loss: 126.1254 - train_Acc: 3.75%
+- 1s - test_Loss: 111.0902 - test_Acc: 5.97%
+* Epoch 261/300
+- 2s - train_Loss: 115.8515 - train_Acc: 3.75%
+- 1s - test_Loss: 127.6503 - test_Acc: 2.99%
+* Epoch 281/300
+- 2s - train_Loss: 73.8054 - train_Acc: 2.87%
+- 1s - test_Loss: 77.5678 - test_Acc: 4.98%
+dataset: FGNET, loss_fn: UnimodalNet_absdistance, non_pre_weighted
+batch_size: 4, lr: 0.0001, epochs: 300
+time: 788.90s, model: resnet18_GaussianFC_weights
+lamda: 1.0
+batch_size: 4
+Running: dataset=FGNET, loss=UnimodalNet, model=resnet18, lr=1e-3, lamda=2
+FGNET train: 801 images, 62 age classes
+FGNET test: 201 images, 45 age classes
+* Epoch 1/300
+- 2s - train_Loss: 5.2836 - train_Acc: 4.62%
+- 1s - test_Loss: 4.1323 - test_Acc: 2.49%
+* Epoch 21/300
+- 2s - train_Loss: 3.6998 - train_Acc: 3.87%
+- 1s - test_Loss: 3.6396 - test_Acc: 6.47%
+* Epoch 41/300
+- 2s - train_Loss: 3.7355 - train_Acc: 4.00%
+- 1s - test_Loss: 3.6030 - test_Acc: 6.97%
+* Epoch 61/300
+- 2s - train_Loss: 3.5155 - train_Acc: 4.12%
+- 1s - test_Loss: 3.4000 - test_Acc: 6.47%
+* Epoch 81/300
+- 2s - train_Loss: 3.4224 - train_Acc: 4.99%
+- 1s - test_Loss: 3.3664 - test_Acc: 7.96%
+* Epoch 101/300
+- 2s - train_Loss: 3.4128 - train_Acc: 5.49%
+- 1s - test_Loss: 3.2994 - test_Acc: 7.46%
+* Epoch 121/300
+- 2s - train_Loss: 3.2194 - train_Acc: 4.87%
+- 1s - test_Loss: 3.2111 - test_Acc: 6.97%
+* Epoch 141/300
+- 2s - train_Loss: 3.1912 - train_Acc: 4.99%
+- 1s - test_Loss: 3.1227 - test_Acc: 6.97%
+* Epoch 161/300
+- 2s - train_Loss: 3.1729 - train_Acc: 5.12%
+- 1s - test_Loss: 3.1103 - test_Acc: 8.96%
+* Epoch 181/300
+- 2s - train_Loss: 3.0994 - train_Acc: 5.62%
+- 1s - test_Loss: 3.2116 - test_Acc: 8.46%
+* Epoch 201/300
+- 2s - train_Loss: 2.9893 - train_Acc: 5.74%
+- 1s - test_Loss: 3.1959 - test_Acc: 7.96%
+* Epoch 221/300
+- 2s - train_Loss: 2.8881 - train_Acc: 6.12%
+- 1s - test_Loss: 3.1700 - test_Acc: 8.46%
+* Epoch 241/300
+- 2s - train_Loss: 2.9783 - train_Acc: 6.12%
+- 1s - test_Loss: 3.0963 - test_Acc: 7.96%
+* Epoch 261/300
+- 2s - train_Loss: 2.8455 - train_Acc: 5.74%
+- 1s - test_Loss: 3.1227 - test_Acc: 7.46%
+* Epoch 281/300
+- 2s - train_Loss: 2.7200 - train_Acc: 6.74%
+- 1s - test_Loss: 3.0341 - test_Acc: 8.46%
+dataset: FGNET, loss_fn: UnimodalNet, non_pre_weighted
+batch_size: 4, lr: 0.001, epochs: 300
+time: 781.66s, model: resnet18
+lamda: 2.0
+batch_size: 4
+Running: dataset=FGNET, loss=UnimodalNet, model=resnet18, lr=5e-4, lamda=2
+FGNET train: 801 images, 62 age classes
+FGNET test: 201 images, 45 age classes
+* Epoch 1/300
+- 2s - train_Loss: 5.8854 - train_Acc: 3.62%
+- 1s - test_Loss: 3.9198 - test_Acc: 6.47%
+* Epoch 21/300
+- 2s - train_Loss: 3.7250 - train_Acc: 3.75%
+- 1s - test_Loss: 3.6470 - test_Acc: 6.97%
+* Epoch 41/300
+- 2s - train_Loss: 3.4762 - train_Acc: 4.24%
+- 1s - test_Loss: 3.3468 - test_Acc: 6.47%
+* Epoch 61/300
+- 2s - train_Loss: 3.2894 - train_Acc: 5.99%
+- 1s - test_Loss: 3.3201 - test_Acc: 6.47%
+* Epoch 81/300
+- 2s - train_Loss: 3.2871 - train_Acc: 5.24%
+- 1s - test_Loss: 3.2045 - test_Acc: 7.46%
+* Epoch 101/300
+- 2s - train_Loss: 3.1204 - train_Acc: 4.49%
+- 1s - test_Loss: 3.1751 - test_Acc: 7.96%
+* Epoch 121/300
+- 2s - train_Loss: 3.0199 - train_Acc: 5.37%
+- 1s - test_Loss: 3.0597 - test_Acc: 6.97%
+* Epoch 141/300
+- 2s - train_Loss: 2.9245 - train_Acc: 5.49%
+- 1s - test_Loss: 3.2939 - test_Acc: 6.47%
+* Epoch 161/300
+- 2s - train_Loss: 3.0179 - train_Acc: 5.74%
+- 1s - test_Loss: 3.1135 - test_Acc: 7.96%
+* Epoch 181/300
+- 2s - train_Loss: 2.9121 - train_Acc: 5.24%
+- 1s - test_Loss: 3.0300 - test_Acc: 7.46%
+* Epoch 201/300
+- 2s - train_Loss: 2.6964 - train_Acc: 6.24%
+- 1s - test_Loss: 3.1098 - test_Acc: 6.97%
+* Epoch 221/300
+- 2s - train_Loss: 2.6243 - train_Acc: 5.37%
+- 1s - test_Loss: 3.3249 - test_Acc: 7.46%
+* Epoch 241/300
+- 2s - train_Loss: 2.7442 - train_Acc: 6.37%
+- 1s - test_Loss: 3.2181 - test_Acc: 7.46%
+* Epoch 261/300
+- 2s - train_Loss: 2.5243 - train_Acc: 6.49%
+- 1s - test_Loss: 3.2629 - test_Acc: 7.96%
+* Epoch 281/300
+- 2s - train_Loss: 2.4464 - train_Acc: 8.49%
+- 1s - test_Loss: 3.0920 - test_Acc: 8.96%
+dataset: FGNET, loss_fn: UnimodalNet, non_pre_weighted
+batch_size: 4, lr: 0.0005, epochs: 300
+time: 779.45s, model: resnet18
+lamda: 2.0
+batch_size: 4
+Running: dataset=FGNET, loss=UnimodalNet, model=resnet18, lr=1e-4, lamda=2
+FGNET train: 801 images, 62 age classes
+FGNET test: 201 images, 45 age classes
+* Epoch 1/300
+- 2s - train_Loss: 10.0941 - train_Acc: 3.50%
+- 1s - test_Loss: 7.2281 - test_Acc: 2.99%
+* Epoch 21/300
+- 2s - train_Loss: 3.5902 - train_Acc: 3.75%
+- 1s - test_Loss: 3.6331 - test_Acc: 6.97%
+* Epoch 41/300
+- 2s - train_Loss: 3.4107 - train_Acc: 4.24%
+- 1s - test_Loss: 3.3952 - test_Acc: 6.97%
+* Epoch 61/300
+- 2s - train_Loss: 3.3141 - train_Acc: 4.62%
+- 1s - test_Loss: 3.2453 - test_Acc: 8.46%
+* Epoch 81/300
+- 2s - train_Loss: 3.1422 - train_Acc: 4.37%
+- 1s - test_Loss: 3.2992 - test_Acc: 5.97%
+* Epoch 101/300
+- 2s - train_Loss: 2.9657 - train_Acc: 5.24%
+- 1s - test_Loss: 3.4442 - test_Acc: 6.97%
+* Epoch 121/300
+- 2s - train_Loss: 2.9326 - train_Acc: 4.99%
+- 1s - test_Loss: 3.3021 - test_Acc: 6.47%
+* Epoch 141/300
+- 2s - train_Loss: 2.9392 - train_Acc: 5.24%
+- 1s - test_Loss: 3.0021 - test_Acc: 6.97%
+* Epoch 161/300
+- 2s - train_Loss: 2.7817 - train_Acc: 5.62%
+- 1s - test_Loss: 3.0645 - test_Acc: 6.97%
+* Epoch 181/300
+- 2s - train_Loss: 2.6646 - train_Acc: 5.37%
+- 1s - test_Loss: 3.1473 - test_Acc: 8.96%
+* Epoch 201/300
+- 2s - train_Loss: 2.6164 - train_Acc: 6.24%
+- 1s - test_Loss: 3.1201 - test_Acc: 6.47%
+* Epoch 221/300
+- 2s - train_Loss: 2.7042 - train_Acc: 6.49%
+- 1s - test_Loss: 3.2943 - test_Acc: 7.46%
+* Epoch 241/300
+- 2s - train_Loss: 2.4727 - train_Acc: 6.87%
+- 1s - test_Loss: 3.2610 - test_Acc: 7.46%
+* Epoch 261/300
+- 2s - train_Loss: 2.4643 - train_Acc: 8.24%
+- 1s - test_Loss: 3.3154 - test_Acc: 7.96%
+* Epoch 281/300
+- 2s - train_Loss: 2.4252 - train_Acc: 7.87%
+- 1s - test_Loss: 3.2207 - test_Acc: 7.46%
+dataset: FGNET, loss_fn: UnimodalNet, non_pre_weighted
+batch_size: 4, lr: 0.0001, epochs: 300
+time: 783.96s, model: resnet18
+lamda: 2.0
+batch_size: 4
+Running: dataset=FGNET, loss=UnimodalNet, model=resnet18_GaussianFC, lr=1e-3, lamda=2
+FGNET train: 801 images, 62 age classes
+FGNET test: 201 images, 45 age classes
+* Epoch 1/300
+- 2s - train_Loss: 861.7041 - train_Acc: 2.62%
+- 1s - test_Loss: 18024.4128 - test_Acc: 2.99%
+* Epoch 21/300
+- 2s - train_Loss: 29.6123 - train_Acc: 2.87%
+- 1s - test_Loss: 17.4082 - test_Acc: 3.48%
+* Epoch 41/300
+- 2s - train_Loss: 18.9270 - train_Acc: 3.62%
+- 1s - test_Loss: 14.2601 - test_Acc: 5.97%
+* Epoch 61/300
+- 2s - train_Loss: 13.4931 - train_Acc: 3.62%
+- 1s - test_Loss: 13.8761 - test_Acc: 6.47%
+* Epoch 81/300
+- 2s - train_Loss: 16.0009 - train_Acc: 3.75%
+- 1s - test_Loss: 13.8027 - test_Acc: 6.47%
+* Epoch 101/300
+- 2s - train_Loss: 12.8207 - train_Acc: 3.75%
+- 1s - test_Loss: 13.3249 - test_Acc: 6.47%
+* Epoch 121/300
+- 2s - train_Loss: 12.3400 - train_Acc: 3.75%
+- 1s - test_Loss: 12.8812 - test_Acc: 6.47%
+* Epoch 141/300
+- 2s - train_Loss: 12.5394 - train_Acc: 3.75%
+- 1s - test_Loss: 12.5760 - test_Acc: 6.47%
+* Epoch 161/300
+- 2s - train_Loss: 11.5961 - train_Acc: 3.75%
+- 1s - test_Loss: 12.0697 - test_Acc: 6.47%
+* Epoch 181/300
+- 2s - train_Loss: 11.7874 - train_Acc: 3.75%
+- 1s - test_Loss: 11.6740 - test_Acc: 6.47%
+* Epoch 201/300
+- 2s - train_Loss: 11.4261 - train_Acc: 3.75%
+- 1s - test_Loss: 11.2923 - test_Acc: 6.47%
+* Epoch 221/300
+- 2s - train_Loss: 10.4009 - train_Acc: 3.75%
+- 1s - test_Loss: 10.9697 - test_Acc: 6.47%
+* Epoch 241/300
+- 2s - train_Loss: 10.0265 - train_Acc: 3.75%
+- 1s - test_Loss: 10.5981 - test_Acc: 6.47%
+* Epoch 261/300
+- 2s - train_Loss: 9.9293 - train_Acc: 3.75%
+- 1s - test_Loss: 10.3761 - test_Acc: 6.47%
+* Epoch 281/300
+- 2s - train_Loss: 9.9151 - train_Acc: 3.75%
+- 1s - test_Loss: 10.1689 - test_Acc: 6.47%
+dataset: FGNET, loss_fn: UnimodalNet, non_pre_weighted
+batch_size: 4, lr: 0.001, epochs: 300
+time: 789.82s, model: resnet18_GaussianFC
+lamda: 2.0
+batch_size: 4
+Running: dataset=FGNET, loss=UnimodalNet, model=resnet18_GaussianFC, lr=5e-4, lamda=2
+FGNET train: 801 images, 62 age classes
+FGNET test: 201 images, 45 age classes
+* Epoch 1/300
+- 2s - train_Loss: 934.4077 - train_Acc: 3.37%
+- 1s - test_Loss: 2124.8450 - test_Acc: 2.49%
+* Epoch 21/300
+- 2s - train_Loss: 34.1403 - train_Acc: 3.87%
+- 1s - test_Loss: 18.8114 - test_Acc: 2.49%
+* Epoch 41/300
+- 2s - train_Loss: 21.5698 - train_Acc: 2.25%
+- 1s - test_Loss: 15.3049 - test_Acc: 2.49%
+* Epoch 61/300
+- 2s - train_Loss: 14.9400 - train_Acc: 2.50%
+- 1s - test_Loss: 14.8247 - test_Acc: 2.99%
+* Epoch 81/300
+- 2s - train_Loss: 17.6242 - train_Acc: 2.62%
+- 1s - test_Loss: 14.6858 - test_Acc: 2.49%
+* Epoch 101/300
+- 2s - train_Loss: 18.7087 - train_Acc: 4.00%
+- 1s - test_Loss: 14.2208 - test_Acc: 4.98%
+* Epoch 121/300
+- 2s - train_Loss: 15.0178 - train_Acc: 3.87%
+- 1s - test_Loss: 13.9628 - test_Acc: 4.48%
+* Epoch 141/300
+- 2s - train_Loss: 12.8136 - train_Acc: 3.75%
+- 1s - test_Loss: 13.6911 - test_Acc: 6.47%
+* Epoch 161/300
+- 2s - train_Loss: 13.7398 - train_Acc: 3.75%
+- 1s - test_Loss: 13.5557 - test_Acc: 6.47%
+* Epoch 181/300
+- 2s - train_Loss: 12.5597 - train_Acc: 3.75%
+- 1s - test_Loss: 13.3566 - test_Acc: 6.47%
+* Epoch 201/300
+- 2s - train_Loss: 12.3439 - train_Acc: 3.75%
+- 1s - test_Loss: 13.0414 - test_Acc: 6.47%
+* Epoch 221/300
+- 2s - train_Loss: 15.0738 - train_Acc: 3.75%
+- 1s - test_Loss: 12.8320 - test_Acc: 6.47%
+* Epoch 241/300
+- 2s - train_Loss: 12.0165 - train_Acc: 3.75%
+- 1s - test_Loss: 12.6520 - test_Acc: 6.47%
+* Epoch 261/300
+- 2s - train_Loss: 12.2920 - train_Acc: 3.75%
+- 1s - test_Loss: 12.4087 - test_Acc: 6.47%
+* Epoch 281/300
+- 2s - train_Loss: 12.7651 - train_Acc: 3.75%
+- 1s - test_Loss: 12.2569 - test_Acc: 6.47%
+dataset: FGNET, loss_fn: UnimodalNet, non_pre_weighted
+batch_size: 4, lr: 0.0005, epochs: 300
+time: 786.82s, model: resnet18_GaussianFC
+lamda: 2.0
+batch_size: 4
+Running: dataset=FGNET, loss=UnimodalNet, model=resnet18_GaussianFC, lr=1e-4, lamda=2
+FGNET train: 801 images, 62 age classes
+FGNET test: 201 images, 45 age classes
+* Epoch 1/300
+- 2s - train_Loss: 1702.9243 - train_Acc: 1.75%
+- 1s - test_Loss: 549.6402 - test_Acc: 3.48%
+* Epoch 21/300
+- 2s - train_Loss: 119.3664 - train_Acc: 3.87%
+- 1s - test_Loss: 73.9472 - test_Acc: 2.49%
+* Epoch 41/300
+- 2s - train_Loss: 26.7890 - train_Acc: 3.87%
+- 1s - test_Loss: 28.1816 - test_Acc: 5.47%
+* Epoch 61/300
+- 2s - train_Loss: 35.0061 - train_Acc: 5.12%
+- 1s - test_Loss: 22.0257 - test_Acc: 3.98%
+* Epoch 81/300
+- 2s - train_Loss: 21.9783 - train_Acc: 2.87%
+- 1s - test_Loss: 15.1838 - test_Acc: 1.99%
+* Epoch 101/300
+- 2s - train_Loss: 22.5652 - train_Acc: 2.75%
+- 1s - test_Loss: 15.3674 - test_Acc: 2.49%
+* Epoch 121/300
+- 2s - train_Loss: 41.4486 - train_Acc: 3.12%
+- 1s - test_Loss: 15.7506 - test_Acc: 2.49%
+* Epoch 141/300
+- 2s - train_Loss: 22.6146 - train_Acc: 2.12%
+- 1s - test_Loss: 15.3471 - test_Acc: 3.48%
+* Epoch 161/300
+- 2s - train_Loss: 14.9704 - train_Acc: 2.62%
+- 1s - test_Loss: 14.5057 - test_Acc: 2.49%
+* Epoch 181/300
+- 2s - train_Loss: 20.7235 - train_Acc: 2.37%
+- 1s - test_Loss: 14.7150 - test_Acc: 2.99%
+* Epoch 201/300
+- 2s - train_Loss: 23.0741 - train_Acc: 2.75%
+- 1s - test_Loss: 14.4625 - test_Acc: 3.48%
+* Epoch 221/300
+- 2s - train_Loss: 16.3081 - train_Acc: 4.00%
+- 1s - test_Loss: 14.5701 - test_Acc: 5.47%
+* Epoch 241/300
+- 2s - train_Loss: 20.9477 - train_Acc: 4.00%
+- 1s - test_Loss: 14.7613 - test_Acc: 4.48%
+* Epoch 261/300
+- 2s - train_Loss: 24.5930 - train_Acc: 4.12%
+- 1s - test_Loss: 14.3582 - test_Acc: 4.98%
+* Epoch 281/300
+- 2s - train_Loss: 13.5424 - train_Acc: 4.24%
+- 1s - test_Loss: 14.4241 - test_Acc: 4.98%
+dataset: FGNET, loss_fn: UnimodalNet, non_pre_weighted
+batch_size: 4, lr: 0.0001, epochs: 300
+time: 785.18s, model: resnet18_GaussianFC
+lamda: 2.0
+batch_size: 4
+Running: dataset=FGNET, loss=UnimodalNet, model=resnet18_weights, lr=1e-3, lamda=2
+FGNET train: 801 images, 62 age classes
+FGNET test: 201 images, 45 age classes
+* Epoch 1/300
+- 2s - train_Loss: 5.0916 - train_Acc: 3.87%
+- 1s - test_Loss: 3.9834 - test_Acc: 5.47%
+* Epoch 21/300
+- 2s - train_Loss: 3.3527 - train_Acc: 5.99%
+- 1s - test_Loss: 3.0760 - test_Acc: 8.96%
+* Epoch 41/300
+- 2s - train_Loss: 2.9785 - train_Acc: 6.12%
+- 1s - test_Loss: 3.4725 - test_Acc: 7.46%
+* Epoch 61/300
+- 2s - train_Loss: 2.8975 - train_Acc: 6.99%
+- 1s - test_Loss: 3.2451 - test_Acc: 8.96%
+* Epoch 81/300
+- 2s - train_Loss: 2.8880 - train_Acc: 5.12%
+- 1s - test_Loss: 2.8909 - test_Acc: 7.96%
+* Epoch 101/300
+- 2s - train_Loss: 2.7889 - train_Acc: 6.12%
+- 1s - test_Loss: 2.9087 - test_Acc: 8.96%
+* Epoch 121/300
+- 2s - train_Loss: 2.6885 - train_Acc: 6.87%
+- 1s - test_Loss: 3.0832 - test_Acc: 9.95%
+* Epoch 141/300
+- 2s - train_Loss: 2.5089 - train_Acc: 5.87%
+- 1s - test_Loss: 3.1628 - test_Acc: 7.46%
+* Epoch 161/300
+- 2s - train_Loss: 2.7855 - train_Acc: 6.87%
+- 1s - test_Loss: 3.0799 - test_Acc: 7.46%
+* Epoch 181/300
+- 2s - train_Loss: 2.3122 - train_Acc: 6.49%
+- 1s - test_Loss: 3.1799 - test_Acc: 7.96%
+* Epoch 201/300
+- 2s - train_Loss: 2.4695 - train_Acc: 8.74%
+- 1s - test_Loss: 3.2219 - test_Acc: 7.46%
+* Epoch 221/300
+- 2s - train_Loss: 2.1845 - train_Acc: 7.87%
+- 1s - test_Loss: 3.2704 - test_Acc: 6.97%
+* Epoch 241/300
+- 2s - train_Loss: 2.0396 - train_Acc: 9.49%
+- 1s - test_Loss: 3.9028 - test_Acc: 8.46%
+* Epoch 261/300
+- 2s - train_Loss: 2.2130 - train_Acc: 10.36%
+- 1s - test_Loss: 3.4381 - test_Acc: 6.97%
+* Epoch 281/300
+- 2s - train_Loss: 1.9121 - train_Acc: 14.98%
+- 1s - test_Loss: 3.4269 - test_Acc: 7.46%
+dataset: FGNET, loss_fn: UnimodalNet, non_pre_weighted
+batch_size: 4, lr: 0.001, epochs: 300
+time: 782.78s, model: resnet18_weights
+lamda: 2.0
+batch_size: 4
+Running: dataset=FGNET, loss=UnimodalNet, model=resnet18_weights, lr=5e-4, lamda=2
+FGNET train: 801 images, 62 age classes
+FGNET test: 201 images, 45 age classes
+* Epoch 1/300
+- 2s - train_Loss: 6.2098 - train_Acc: 4.00%
+- 1s - test_Loss: 3.9281 - test_Acc: 6.97%
+* Epoch 21/300
+- 2s - train_Loss: 3.0058 - train_Acc: 6.12%
+- 1s - test_Loss: 3.0003 - test_Acc: 9.95%
+* Epoch 41/300
+- 2s - train_Loss: 2.7668 - train_Acc: 6.87%
+- 1s - test_Loss: 3.2983 - test_Acc: 8.46%
+* Epoch 61/300
+- 2s - train_Loss: 2.6859 - train_Acc: 8.11%
+- 1s - test_Loss: 3.1330 - test_Acc: 8.96%
+* Epoch 81/300
+- 2s - train_Loss: 2.4639 - train_Acc: 13.11%
+- 1s - test_Loss: 3.3745 - test_Acc: 9.45%
+* Epoch 101/300
+- 2s - train_Loss: 2.2914 - train_Acc: 16.73%
+- 1s - test_Loss: 3.5130 - test_Acc: 10.45%
+* Epoch 121/300
+- 2s - train_Loss: 2.0288 - train_Acc: 20.60%
+- 1s - test_Loss: 3.4346 - test_Acc: 8.96%
+* Epoch 141/300
+- 2s - train_Loss: 1.8080 - train_Acc: 28.46%
+- 1s - test_Loss: 3.7288 - test_Acc: 10.95%
+* Epoch 161/300
+- 2s - train_Loss: 1.7358 - train_Acc: 35.96%
+- 1s - test_Loss: 3.7623 - test_Acc: 9.95%
+* Epoch 181/300
+- 2s - train_Loss: 1.4999 - train_Acc: 40.45%
+- 1s - test_Loss: 3.7780 - test_Acc: 9.95%
+* Epoch 201/300
+- 2s - train_Loss: 1.3646 - train_Acc: 49.69%
+- 1s - test_Loss: 3.8441 - test_Acc: 7.46%
+* Epoch 221/300
+- 2s - train_Loss: 1.2558 - train_Acc: 55.93%
+- 1s - test_Loss: 3.9386 - test_Acc: 10.45%
+* Epoch 241/300
+- 2s - train_Loss: 1.2075 - train_Acc: 58.93%
+- 1s - test_Loss: 4.4108 - test_Acc: 9.45%
+* Epoch 261/300
+- 2s - train_Loss: 0.9702 - train_Acc: 67.04%
+- 1s - test_Loss: 4.0107 - test_Acc: 8.46%
+* Epoch 281/300
+- 2s - train_Loss: 0.9555 - train_Acc: 65.29%
+- 1s - test_Loss: 4.1772 - test_Acc: 10.45%
+dataset: FGNET, loss_fn: UnimodalNet, non_pre_weighted
+batch_size: 4, lr: 0.0005, epochs: 300
+time: 783.58s, model: resnet18_weights
+lamda: 2.0
+batch_size: 4
+Running: dataset=FGNET, loss=UnimodalNet, model=resnet18_weights, lr=1e-4, lamda=2
+FGNET train: 801 images, 62 age classes
+FGNET test: 201 images, 45 age classes
+* Epoch 1/300
+- 2s - train_Loss: 11.2569 - train_Acc: 2.75%
+- 1s - test_Loss: 7.2923 - test_Acc: 2.99%
+* Epoch 21/300
+- 2s - train_Loss: 2.7861 - train_Acc: 4.49%
+- 1s - test_Loss: 3.2696 - test_Acc: 7.96%
+* Epoch 41/300
+- 2s - train_Loss: 2.4287 - train_Acc: 12.73%
+- 1s - test_Loss: 3.1695 - test_Acc: 8.96%
+* Epoch 61/300
+- 2s - train_Loss: 2.0886 - train_Acc: 22.47%
+- 1s - test_Loss: 3.2562 - test_Acc: 9.95%
+* Epoch 81/300
+- 2s - train_Loss: 1.7352 - train_Acc: 35.83%
+- 1s - test_Loss: 3.1982 - test_Acc: 9.45%
+* Epoch 101/300
+- 2s - train_Loss: 1.4554 - train_Acc: 51.19%
+- 1s - test_Loss: 3.2595 - test_Acc: 8.46%
+* Epoch 121/300
+- 2s - train_Loss: 1.3431 - train_Acc: 59.55%
+- 1s - test_Loss: 3.4473 - test_Acc: 10.45%
+* Epoch 141/300
+- 2s - train_Loss: 1.1226 - train_Acc: 66.79%
+- 1s - test_Loss: 3.2889 - test_Acc: 9.45%
+* Epoch 161/300
+- 2s - train_Loss: 0.9803 - train_Acc: 70.66%
+- 1s - test_Loss: 3.4815 - test_Acc: 10.95%
+* Epoch 181/300
+- 2s - train_Loss: 0.9143 - train_Acc: 75.91%
+- 1s - test_Loss: 3.6451 - test_Acc: 7.46%
+* Epoch 201/300
+- 2s - train_Loss: 0.7384 - train_Acc: 80.15%
+- 1s - test_Loss: 3.3896 - test_Acc: 10.95%
+* Epoch 221/300
+- 2s - train_Loss: 0.7345 - train_Acc: 82.65%
+- 1s - test_Loss: 3.5159 - test_Acc: 11.44%
+* Epoch 241/300
+- 2s - train_Loss: 0.6351 - train_Acc: 82.15%
+- 1s - test_Loss: 3.3900 - test_Acc: 12.94%
+* Epoch 261/300
+- 2s - train_Loss: 0.6491 - train_Acc: 85.89%
+- 1s - test_Loss: 3.7489 - test_Acc: 11.94%
+* Epoch 281/300
+- 2s - train_Loss: 0.6859 - train_Acc: 84.77%
+- 1s - test_Loss: 3.7671 - test_Acc: 8.96%
+dataset: FGNET, loss_fn: UnimodalNet, non_pre_weighted
+batch_size: 4, lr: 0.0001, epochs: 300
+time: 780.97s, model: resnet18_weights
+lamda: 2.0
+batch_size: 4
+Running: dataset=FGNET, loss=UnimodalNet, model=resnet18_GaussianFC_weights, lr=1e-3, lamda=2
+FGNET train: 801 images, 62 age classes
+FGNET test: 201 images, 45 age classes
+* Epoch 1/300
+- 2s - train_Loss: 1691.4701 - train_Acc: 0.75%
+- 1s - test_Loss: 102581.2444 - test_Acc: 1.99%
+* Epoch 21/300
+- 2s - train_Loss: 231.7026 - train_Acc: 4.37%
+- 1s - test_Loss: 48.7772 - test_Acc: 2.99%
+* Epoch 41/300
+- 2s - train_Loss: 24.1706 - train_Acc: 2.75%
+- 1s - test_Loss: 17.5793 - test_Acc: 1.99%
+* Epoch 61/300
+- 2s - train_Loss: 17.9725 - train_Acc: 4.24%
+- 1s - test_Loss: 20.6886 - test_Acc: 3.48%
+* Epoch 81/300
+- 2s - train_Loss: 15.5466 - train_Acc: 4.24%
+- 1s - test_Loss: 19.3372 - test_Acc: 4.98%
+* Epoch 101/300
+- 2s - train_Loss: 14.2910 - train_Acc: 3.37%
+- 1s - test_Loss: 16.4200 - test_Acc: 5.47%
+* Epoch 121/300
+- 2s - train_Loss: 15.6427 - train_Acc: 3.25%
+- 1s - test_Loss: 15.1620 - test_Acc: 5.97%
+* Epoch 141/300
+- 2s - train_Loss: 11.3238 - train_Acc: 3.75%
+- 1s - test_Loss: 10.7870 - test_Acc: 6.47%
+* Epoch 161/300
+- 2s - train_Loss: 6.6418 - train_Acc: 3.75%
+- 1s - test_Loss: 7.1135 - test_Acc: 6.47%
+* Epoch 181/300
+- 2s - train_Loss: 5.6411 - train_Acc: 3.75%
+- 1s - test_Loss: 6.2034 - test_Acc: 6.47%
+* Epoch 201/300
+- 2s - train_Loss: 5.5159 - train_Acc: 3.75%
+- 1s - test_Loss: 5.5192 - test_Acc: 6.47%
+* Epoch 221/300
+- 2s - train_Loss: 4.8387 - train_Acc: 3.75%
+- 1s - test_Loss: 5.1563 - test_Acc: 6.47%
+* Epoch 241/300
+- 2s - train_Loss: 4.6547 - train_Acc: 3.75%
+- 1s - test_Loss: 4.8622 - test_Acc: 6.47%
+* Epoch 261/300
+- 2s - train_Loss: 4.4932 - train_Acc: 3.75%
+- 1s - test_Loss: 4.6713 - test_Acc: 6.47%
+* Epoch 281/300
+- 2s - train_Loss: 4.3739 - train_Acc: 3.75%
+- 1s - test_Loss: 4.5740 - test_Acc: 6.47%
+dataset: FGNET, loss_fn: UnimodalNet, non_pre_weighted
+batch_size: 4, lr: 0.001, epochs: 300
+time: 789.81s, model: resnet18_GaussianFC_weights
+lamda: 2.0
+batch_size: 4
+Running: dataset=FGNET, loss=UnimodalNet, model=resnet18_GaussianFC_weights, lr=5e-4, lamda=2
+FGNET train: 801 images, 62 age classes
+FGNET test: 201 images, 45 age classes
+* Epoch 1/300
+- 2s - train_Loss: 1689.9884 - train_Acc: 3.00%
+- 1s - test_Loss: 1110.2065 - test_Acc: 1.99%
+* Epoch 21/300
+- 2s - train_Loss: 333.9802 - train_Acc: 4.62%
+- 1s - test_Loss: 238.5489 - test_Acc: 4.98%
+* Epoch 41/300
+- 2s - train_Loss: 39.6831 - train_Acc: 4.62%
+- 1s - test_Loss: 32.0297 - test_Acc: 2.49%
+* Epoch 61/300
+- 2s - train_Loss: 21.8188 - train_Acc: 2.37%
+- 1s - test_Loss: 16.1042 - test_Acc: 3.48%
+* Epoch 81/300
+- 2s - train_Loss: 17.7912 - train_Acc: 2.87%
+- 1s - test_Loss: 14.8131 - test_Acc: 2.99%
+* Epoch 101/300
+- 2s - train_Loss: 16.7012 - train_Acc: 3.87%
+- 1s - test_Loss: 15.6200 - test_Acc: 5.97%
+* Epoch 121/300
+- 2s - train_Loss: 15.2679 - train_Acc: 3.62%
+- 1s - test_Loss: 15.6256 - test_Acc: 5.97%
+* Epoch 141/300
+- 2s - train_Loss: 15.4366 - train_Acc: 3.50%
+- 1s - test_Loss: 15.7004 - test_Acc: 5.47%
+* Epoch 161/300
+- 2s - train_Loss: 13.5538 - train_Acc: 3.87%
+- 1s - test_Loss: 14.8671 - test_Acc: 6.47%
+* Epoch 181/300
+- 2s - train_Loss: 13.3912 - train_Acc: 3.62%
+- 1s - test_Loss: 13.9976 - test_Acc: 6.47%
+* Epoch 201/300
+- 2s - train_Loss: 12.0254 - train_Acc: 3.75%
+- 1s - test_Loss: 13.4653 - test_Acc: 6.47%
+* Epoch 221/300
+- 2s - train_Loss: 9.8772 - train_Acc: 3.75%
+- 1s - test_Loss: 10.2480 - test_Acc: 6.47%
+* Epoch 241/300
+- 2s - train_Loss: 7.9016 - train_Acc: 3.75%
+- 1s - test_Loss: 8.6030 - test_Acc: 6.47%
+* Epoch 261/300
+- 2s - train_Loss: 6.6720 - train_Acc: 3.75%
+- 1s - test_Loss: 6.3722 - test_Acc: 6.47%
+* Epoch 281/300
+- 2s - train_Loss: 5.7258 - train_Acc: 3.75%
+- 1s - test_Loss: 5.7678 - test_Acc: 6.47%
+dataset: FGNET, loss_fn: UnimodalNet, non_pre_weighted
+batch_size: 4, lr: 0.0005, epochs: 300
+time: 786.38s, model: resnet18_GaussianFC_weights
+lamda: 2.0
+batch_size: 4
+Running: dataset=FGNET, loss=UnimodalNet, model=resnet18_GaussianFC_weights, lr=1e-4, lamda=2
+FGNET train: 801 images, 62 age classes
+FGNET test: 201 images, 45 age classes
+* Epoch 1/300
+- 2s - train_Loss: 2503.8395 - train_Acc: 1.62%
+- 1s - test_Loss: 4545.9329 - test_Acc: 1.49%
+* Epoch 21/300
+- 2s - train_Loss: 320.8229 - train_Acc: 3.37%
+- 1s - test_Loss: 488.3950 - test_Acc: 4.48%
+* Epoch 41/300
+- 2s - train_Loss: 277.7749 - train_Acc: 2.25%
+- 1s - test_Loss: 377.8542 - test_Acc: 1.49%
+* Epoch 61/300
+- 2s - train_Loss: 250.5285 - train_Acc: 2.87%
+- 1s - test_Loss: 773.1144 - test_Acc: 4.98%
+* Epoch 81/300
+- 2s - train_Loss: 235.8825 - train_Acc: 4.00%
+- 1s - test_Loss: 168.7024 - test_Acc: 3.48%
+* Epoch 101/300
+- 2s - train_Loss: 207.1643 - train_Acc: 3.00%
+- 1s - test_Loss: 291.0745 - test_Acc: 3.48%
+* Epoch 121/300
+- 2s - train_Loss: 127.8832 - train_Acc: 5.12%
+- 1s - test_Loss: 165.0370 - test_Acc: 4.98%
+* Epoch 141/300
+- 2s - train_Loss: 75.8965 - train_Acc: 4.24%
+- 1s - test_Loss: 124.1728 - test_Acc: 3.48%
+* Epoch 161/300
+- 2s - train_Loss: 93.5283 - train_Acc: 3.87%
+- 1s - test_Loss: 37.0454 - test_Acc: 5.47%
+* Epoch 181/300
+- 2s - train_Loss: 66.8951 - train_Acc: 3.25%
+- 1s - test_Loss: 56.0252 - test_Acc: 5.97%
+* Epoch 201/300
+- 2s - train_Loss: 70.9740 - train_Acc: 3.00%
+- 1s - test_Loss: 32.4679 - test_Acc: 3.98%
+* Epoch 221/300
+- 2s - train_Loss: 49.9568 - train_Acc: 2.50%
+- 1s - test_Loss: 84.8920 - test_Acc: 4.98%
+* Epoch 241/300
+- 2s - train_Loss: 43.5198 - train_Acc: 3.75%
+- 1s - test_Loss: 26.6158 - test_Acc: 1.99%
+* Epoch 261/300
+- 2s - train_Loss: 27.8751 - train_Acc: 2.75%
+- 1s - test_Loss: 27.7057 - test_Acc: 3.48%
+* Epoch 281/300
+- 2s - train_Loss: 26.3871 - train_Acc: 2.62%
+- 1s - test_Loss: 26.3308 - test_Acc: 2.49%
+dataset: FGNET, loss_fn: UnimodalNet, non_pre_weighted
+batch_size: 4, lr: 0.0001, epochs: 300
+time: 789.37s, model: resnet18_GaussianFC_weights
+lamda: 2.0
+batch_size: 4
+Running: dataset=FGNET, loss=UnimodalNet_absdistance, model=resnet18, lr=1e-3, lamda=2
+FGNET train: 801 images, 62 age classes
+FGNET test: 201 images, 45 age classes
+* Epoch 1/300
+- 2s - train_Loss: 15.9616 - train_Acc: 4.12%
+- 1s - test_Loss: 11.9542 - test_Acc: 5.97%
+* Epoch 21/300
+- 2s - train_Loss: 11.1280 - train_Acc: 3.75%
+- 1s - test_Loss: 10.9107 - test_Acc: 6.47%
+* Epoch 41/300
+- 2s - train_Loss: 10.9541 - train_Acc: 3.75%
+- 1s - test_Loss: 10.7482 - test_Acc: 6.47%
+* Epoch 61/300
+- 2s - train_Loss: 10.7023 - train_Acc: 4.24%
+- 1s - test_Loss: 10.6676 - test_Acc: 6.47%
+* Epoch 81/300
+- 2s - train_Loss: 10.5149 - train_Acc: 4.62%
+- 1s - test_Loss: 10.3699 - test_Acc: 7.96%
+* Epoch 101/300
+- 2s - train_Loss: 10.1055 - train_Acc: 4.74%
+- 1s - test_Loss: 10.3889 - test_Acc: 6.47%
+* Epoch 121/300
+- 2s - train_Loss: 10.0663 - train_Acc: 6.87%
+- 1s - test_Loss: 9.5176 - test_Acc: 8.46%
+* Epoch 141/300
+- 2s - train_Loss: 9.7405 - train_Acc: 5.24%
+- 1s - test_Loss: 9.8900 - test_Acc: 7.46%
+* Epoch 161/300
+- 2s - train_Loss: 9.3398 - train_Acc: 5.37%
+- 1s - test_Loss: 9.7122 - test_Acc: 8.96%
+* Epoch 181/300
+- 2s - train_Loss: 9.5598 - train_Acc: 5.49%
+- 1s - test_Loss: 9.8536 - test_Acc: 9.45%
+* Epoch 201/300
+- 2s - train_Loss: 9.3049 - train_Acc: 6.37%
+- 1s - test_Loss: 9.9642 - test_Acc: 7.46%
+* Epoch 221/300
+- 2s - train_Loss: 8.8315 - train_Acc: 6.37%
+- 1s - test_Loss: 9.3476 - test_Acc: 7.46%
+* Epoch 241/300
+- 2s - train_Loss: 8.7264 - train_Acc: 6.62%
+- 1s - test_Loss: 9.5213 - test_Acc: 7.96%
+* Epoch 261/300
+- 2s - train_Loss: 8.3066 - train_Acc: 7.37%
+- 1s - test_Loss: 9.4534 - test_Acc: 8.46%
+* Epoch 281/300
+- 2s - train_Loss: 8.0620 - train_Acc: 7.74%
+- 1s - test_Loss: 9.4663 - test_Acc: 7.46%
+dataset: FGNET, loss_fn: UnimodalNet_absdistance, non_pre_weighted
+batch_size: 4, lr: 0.001, epochs: 300
+time: 785.57s, model: resnet18
+lamda: 2.0
+batch_size: 4
+Running: dataset=FGNET, loss=UnimodalNet_absdistance, model=resnet18, lr=5e-4, lamda=2
+FGNET train: 801 images, 62 age classes
+FGNET test: 201 images, 45 age classes
+* Epoch 1/300
+- 2s - train_Loss: 18.2251 - train_Acc: 3.12%
+- 1s - test_Loss: 12.3611 - test_Acc: 5.47%
+* Epoch 21/300
+- 2s - train_Loss: 11.1206 - train_Acc: 4.00%
+- 1s - test_Loss: 10.5981 - test_Acc: 7.96%
+* Epoch 41/300
+- 2s - train_Loss: 10.6133 - train_Acc: 4.24%
+- 1s - test_Loss: 10.3158 - test_Acc: 6.47%
+* Epoch 61/300
+- 2s - train_Loss: 10.0877 - train_Acc: 4.87%
+- 1s - test_Loss: 9.9089 - test_Acc: 6.97%
+* Epoch 81/300
+- 2s - train_Loss: 9.9552 - train_Acc: 4.49%
+- 1s - test_Loss: 9.9680 - test_Acc: 6.47%
+* Epoch 101/300
+- 2s - train_Loss: 9.6141 - train_Acc: 5.12%
+- 1s - test_Loss: 9.7167 - test_Acc: 7.96%
+* Epoch 121/300
+- 2s - train_Loss: 9.2774 - train_Acc: 4.99%
+- 1s - test_Loss: 9.6492 - test_Acc: 7.46%
+* Epoch 141/300
+- 2s - train_Loss: 8.9896 - train_Acc: 5.62%
+- 1s - test_Loss: 9.2169 - test_Acc: 6.97%
+* Epoch 161/300
+- 2s - train_Loss: 9.1799 - train_Acc: 4.62%
+- 1s - test_Loss: 9.1088 - test_Acc: 6.97%
+* Epoch 181/300
+- 2s - train_Loss: 8.6742 - train_Acc: 5.99%
+- 1s - test_Loss: 9.5956 - test_Acc: 7.46%
+* Epoch 201/300
+- 2s - train_Loss: 8.3522 - train_Acc: 4.62%
+- 1s - test_Loss: 9.8204 - test_Acc: 8.96%
+* Epoch 221/300
+- 2s - train_Loss: 8.3989 - train_Acc: 4.99%
+- 1s - test_Loss: 9.4201 - test_Acc: 6.97%
+* Epoch 241/300
+- 2s - train_Loss: 7.9940 - train_Acc: 5.24%
+- 1s - test_Loss: 9.6316 - test_Acc: 7.46%
+* Epoch 261/300
+- 2s - train_Loss: 7.6836 - train_Acc: 6.74%
+- 1s - test_Loss: 9.4642 - test_Acc: 7.96%
+* Epoch 281/300
+- 2s - train_Loss: 7.7271 - train_Acc: 7.12%
+- 1s - test_Loss: 9.3061 - test_Acc: 7.46%
+dataset: FGNET, loss_fn: UnimodalNet_absdistance, non_pre_weighted
+batch_size: 4, lr: 0.0005, epochs: 300
+time: 792.96s, model: resnet18
+lamda: 2.0
+batch_size: 4
+Running: dataset=FGNET, loss=UnimodalNet_absdistance, model=resnet18, lr=1e-4, lamda=2
+FGNET train: 801 images, 62 age classes
+FGNET test: 201 images, 45 age classes
+* Epoch 1/300
+- 2s - train_Loss: 31.9562 - train_Acc: 3.37%
+- 1s - test_Loss: 19.3607 - test_Acc: 5.97%
+* Epoch 21/300
+- 2s - train_Loss: 10.9597 - train_Acc: 3.87%
+- 1s - test_Loss: 10.7398 - test_Acc: 5.47%
+* Epoch 41/300
+- 2s - train_Loss: 10.1714 - train_Acc: 4.00%
+- 1s - test_Loss: 9.8731 - test_Acc: 6.47%
+* Epoch 61/300
+- 2s - train_Loss: 9.8814 - train_Acc: 3.87%
+- 1s - test_Loss: 9.7965 - test_Acc: 6.47%
+* Epoch 81/300
+- 2s - train_Loss: 9.4053 - train_Acc: 4.99%
+- 1s - test_Loss: 9.3756 - test_Acc: 8.46%
+* Epoch 101/300
+- 2s - train_Loss: 8.9414 - train_Acc: 5.37%
+- 1s - test_Loss: 10.0679 - test_Acc: 8.46%
+* Epoch 121/300
+- 2s - train_Loss: 8.6977 - train_Acc: 5.74%
+- 1s - test_Loss: 9.5629 - test_Acc: 7.46%
+* Epoch 141/300
+- 2s - train_Loss: 8.4752 - train_Acc: 6.12%
+- 1s - test_Loss: 9.1830 - test_Acc: 7.96%
+* Epoch 161/300
+- 2s - train_Loss: 8.3963 - train_Acc: 5.74%
+- 1s - test_Loss: 10.3182 - test_Acc: 7.96%
+* Epoch 181/300
+- 2s - train_Loss: 7.9909 - train_Acc: 6.62%
+- 1s - test_Loss: 9.9374 - test_Acc: 6.97%
+* Epoch 201/300
+- 2s - train_Loss: 7.8894 - train_Acc: 6.99%
+- 1s - test_Loss: 9.2224 - test_Acc: 6.47%
+* Epoch 221/300
+- 2s - train_Loss: 7.6686 - train_Acc: 7.74%
+- 1s - test_Loss: 9.5980 - test_Acc: 6.97%
+* Epoch 241/300
+- 2s - train_Loss: 7.3382 - train_Acc: 6.37%
+- 1s - test_Loss: 10.2167 - test_Acc: 6.47%
+* Epoch 261/300
+- 2s - train_Loss: 7.5917 - train_Acc: 8.11%
+- 1s - test_Loss: 10.0152 - test_Acc: 7.46%
+* Epoch 281/300
+- 2s - train_Loss: 7.1112 - train_Acc: 9.49%
+- 1s - test_Loss: 9.7461 - test_Acc: 6.47%
+dataset: FGNET, loss_fn: UnimodalNet_absdistance, non_pre_weighted
+batch_size: 4, lr: 0.0001, epochs: 300
+time: 784.75s, model: resnet18
+lamda: 2.0
+batch_size: 4
+Running: dataset=FGNET, loss=UnimodalNet_absdistance, model=resnet18_GaussianFC, lr=1e-3, lamda=2
+FGNET train: 801 images, 62 age classes
+FGNET test: 201 images, 45 age classes
+* Epoch 1/300
+- 2s - train_Loss: 2816.5842 - train_Acc: 1.87%
+- 1s - test_Loss: 5020.2396 - test_Acc: 2.99%
+* Epoch 21/300
+- 2s - train_Loss: 103.3501 - train_Acc: 3.25%
+- 1s - test_Loss: 44.9565 - test_Acc: 3.48%
+* Epoch 41/300
+- 2s - train_Loss: 55.2054 - train_Acc: 3.37%
+- 1s - test_Loss: 42.7545 - test_Acc: 4.98%
+* Epoch 61/300
+- 2s - train_Loss: 47.0303 - train_Acc: 3.62%
+- 1s - test_Loss: 42.4996 - test_Acc: 5.47%
+* Epoch 81/300
+- 2s - train_Loss: 41.6026 - train_Acc: 3.87%
+- 1s - test_Loss: 41.0322 - test_Acc: 6.47%
+* Epoch 101/300
+- 2s - train_Loss: 39.0120 - train_Acc: 3.75%
+- 1s - test_Loss: 39.6697 - test_Acc: 6.47%
+* Epoch 121/300
+- 2s - train_Loss: 37.1097 - train_Acc: 3.75%
+- 1s - test_Loss: 38.3987 - test_Acc: 6.47%
+* Epoch 141/300
+- 2s - train_Loss: 36.0377 - train_Acc: 3.75%
+- 1s - test_Loss: 37.2073 - test_Acc: 6.47%
+* Epoch 161/300
+- 2s - train_Loss: 33.7223 - train_Acc: 3.75%
+- 1s - test_Loss: 35.9031 - test_Acc: 6.47%
+* Epoch 181/300
+- 2s - train_Loss: 34.4582 - train_Acc: 3.75%
+- 1s - test_Loss: 34.6937 - test_Acc: 6.47%
+* Epoch 201/300
+- 2s - train_Loss: 32.8248 - train_Acc: 3.75%
+- 1s - test_Loss: 33.6999 - test_Acc: 6.47%
+* Epoch 221/300
+- 2s - train_Loss: 31.7690 - train_Acc: 3.75%
+- 1s - test_Loss: 32.7545 - test_Acc: 6.47%
+* Epoch 241/300
+- 2s - train_Loss: 32.3789 - train_Acc: 3.75%
+- 1s - test_Loss: 31.8146 - test_Acc: 6.47%
+* Epoch 261/300
+- 2s - train_Loss: 32.3466 - train_Acc: 3.75%
+- 1s - test_Loss: 31.9376 - test_Acc: 6.47%
+* Epoch 281/300
+- 2s - train_Loss: 30.3222 - train_Acc: 3.75%
+- 1s - test_Loss: 30.4902 - test_Acc: 6.47%
+dataset: FGNET, loss_fn: UnimodalNet_absdistance, non_pre_weighted
+batch_size: 4, lr: 0.001, epochs: 300
+time: 787.77s, model: resnet18_GaussianFC
+lamda: 2.0
+batch_size: 4
+Running: dataset=FGNET, loss=UnimodalNet_absdistance, model=resnet18_GaussianFC, lr=5e-4, lamda=2
+FGNET train: 801 images, 62 age classes
+FGNET test: 201 images, 45 age classes
+* Epoch 1/300
+- 2s - train_Loss: 3098.8491 - train_Acc: 2.25%
+- 1s - test_Loss: 3561.8796 - test_Acc: 2.49%
+* Epoch 21/300
+- 2s - train_Loss: 80.4528 - train_Acc: 2.37%
+- 1s - test_Loss: 45.2934 - test_Acc: 2.49%
+* Epoch 41/300
+- 2s - train_Loss: 87.3744 - train_Acc: 2.87%
+- 1s - test_Loss: 44.2438 - test_Acc: 2.49%
+* Epoch 61/300
+- 2s - train_Loss: 54.8692 - train_Acc: 3.25%
+- 1s - test_Loss: 43.5011 - test_Acc: 2.49%
+* Epoch 81/300
+- 2s - train_Loss: 48.2361 - train_Acc: 3.87%
+- 1s - test_Loss: 42.7165 - test_Acc: 5.97%
+* Epoch 101/300
+- 2s - train_Loss: 48.5802 - train_Acc: 3.37%
+- 1s - test_Loss: 42.4963 - test_Acc: 6.47%
+* Epoch 121/300
+- 2s - train_Loss: 42.9806 - train_Acc: 3.87%
+- 1s - test_Loss: 41.7846 - test_Acc: 6.47%
+* Epoch 141/300
+- 2s - train_Loss: 62.2540 - train_Acc: 3.75%
+- 1s - test_Loss: 41.5626 - test_Acc: 6.47%
+* Epoch 161/300
+- 2s - train_Loss: 47.0704 - train_Acc: 3.50%
+- 1s - test_Loss: 40.8078 - test_Acc: 6.47%
+* Epoch 181/300
+- 2s - train_Loss: 43.4853 - train_Acc: 3.75%
+- 1s - test_Loss: 39.7690 - test_Acc: 6.47%
+* Epoch 201/300
+- 2s - train_Loss: 39.0638 - train_Acc: 3.75%
+- 1s - test_Loss: 39.1254 - test_Acc: 6.47%
+* Epoch 221/300
+- 2s - train_Loss: 37.3722 - train_Acc: 3.75%
+- 1s - test_Loss: 38.4741 - test_Acc: 6.47%
+* Epoch 241/300
+- 2s - train_Loss: 36.5578 - train_Acc: 3.75%
+- 1s - test_Loss: 37.9029 - test_Acc: 6.47%
+* Epoch 261/300
+- 2s - train_Loss: 36.2137 - train_Acc: 3.75%
+- 1s - test_Loss: 37.4727 - test_Acc: 6.47%
+* Epoch 281/300
+- 2s - train_Loss: 35.5471 - train_Acc: 3.75%
+- 1s - test_Loss: 37.0486 - test_Acc: 6.47%
+dataset: FGNET, loss_fn: UnimodalNet_absdistance, non_pre_weighted
+batch_size: 4, lr: 0.0005, epochs: 300
+time: 783.05s, model: resnet18_GaussianFC
+lamda: 2.0
+batch_size: 4
+Running: dataset=FGNET, loss=UnimodalNet_absdistance, model=resnet18_GaussianFC, lr=1e-4, lamda=2
+FGNET train: 801 images, 62 age classes
+FGNET test: 201 images, 45 age classes
+* Epoch 1/300
+- 2s - train_Loss: 5007.6735 - train_Acc: 0.87%
+- 1s - test_Loss: 2470.0930 - test_Acc: 0.50%
+* Epoch 21/300
+- 2s - train_Loss: 335.4356 - train_Acc: 3.25%
+- 1s - test_Loss: 333.5721 - test_Acc: 2.99%
+* Epoch 41/300
+- 2s - train_Loss: 160.9246 - train_Acc: 3.62%
+- 1s - test_Loss: 81.9161 - test_Acc: 5.47%
+* Epoch 61/300
+- 2s - train_Loss: 154.1573 - train_Acc: 3.50%
+- 1s - test_Loss: 72.5200 - test_Acc: 3.98%
+* Epoch 81/300
+- 2s - train_Loss: 144.4932 - train_Acc: 3.50%
+- 1s - test_Loss: 51.1112 - test_Acc: 2.49%
+* Epoch 101/300
+- 2s - train_Loss: 98.3041 - train_Acc: 3.37%
+- 1s - test_Loss: 52.2675 - test_Acc: 2.49%
+* Epoch 121/300
+- 2s - train_Loss: 95.1186 - train_Acc: 3.62%
+- 1s - test_Loss: 45.4568 - test_Acc: 1.99%
+* Epoch 141/300
+- 2s - train_Loss: 104.2642 - train_Acc: 2.62%
+- 1s - test_Loss: 43.8381 - test_Acc: 2.49%
+* Epoch 161/300
+- 2s - train_Loss: 49.3951 - train_Acc: 2.62%
+- 1s - test_Loss: 43.4649 - test_Acc: 1.99%
+* Epoch 181/300
+- 2s - train_Loss: 69.6861 - train_Acc: 2.62%
+- 1s - test_Loss: 43.5617 - test_Acc: 1.99%
+* Epoch 201/300
+- 2s - train_Loss: 53.9014 - train_Acc: 2.87%
+- 1s - test_Loss: 43.8409 - test_Acc: 2.99%
+* Epoch 221/300
+- 2s - train_Loss: 104.3632 - train_Acc: 3.12%
+- 1s - test_Loss: 45.9358 - test_Acc: 2.99%
+* Epoch 241/300
+- 2s - train_Loss: 73.2309 - train_Acc: 3.00%
+- 1s - test_Loss: 44.3107 - test_Acc: 2.99%
+* Epoch 261/300
+- 2s - train_Loss: 60.4482 - train_Acc: 2.75%
+- 1s - test_Loss: 43.4809 - test_Acc: 2.99%
+* Epoch 281/300
+- 2s - train_Loss: 72.1888 - train_Acc: 2.75%
+- 1s - test_Loss: 42.8651 - test_Acc: 4.48%
+dataset: FGNET, loss_fn: UnimodalNet_absdistance, non_pre_weighted
+batch_size: 4, lr: 0.0001, epochs: 300
+time: 786.14s, model: resnet18_GaussianFC
+lamda: 2.0
+batch_size: 4
+Running: dataset=FGNET, loss=UnimodalNet_absdistance, model=resnet18_weights, lr=1e-3, lamda=2
+FGNET train: 801 images, 62 age classes
+FGNET test: 201 images, 45 age classes
+* Epoch 1/300
+- 2s - train_Loss: 17.7509 - train_Acc: 3.25%
+- 1s - test_Loss: 12.2263 - test_Acc: 2.99%
+* Epoch 21/300
+- 2s - train_Loss: 9.5564 - train_Acc: 4.49%
+- 1s - test_Loss: 9.3391 - test_Acc: 6.47%
+* Epoch 41/300
+- 2s - train_Loss: 9.2586 - train_Acc: 5.49%
+- 1s - test_Loss: 10.5062 - test_Acc: 6.47%
+* Epoch 61/300
+- 2s - train_Loss: 8.9310 - train_Acc: 5.49%
+- 1s - test_Loss: 9.1134 - test_Acc: 7.96%
+* Epoch 81/300
+- 2s - train_Loss: 8.2379 - train_Acc: 4.74%
+- 1s - test_Loss: 8.7526 - test_Acc: 7.46%
+* Epoch 101/300
+- 2s - train_Loss: 8.3253 - train_Acc: 5.62%
+- 1s - test_Loss: 9.6291 - test_Acc: 7.46%
+* Epoch 121/300
+- 2s - train_Loss: 8.0119 - train_Acc: 5.49%
+- 1s - test_Loss: 8.7700 - test_Acc: 8.96%
+* Epoch 141/300
+- 2s - train_Loss: 8.0950 - train_Acc: 5.12%
+- 1s - test_Loss: 8.7969 - test_Acc: 8.46%
+* Epoch 161/300
+- 2s - train_Loss: 7.5054 - train_Acc: 6.49%
+- 1s - test_Loss: 9.3596 - test_Acc: 7.96%
+* Epoch 181/300
+- 2s - train_Loss: 7.2385 - train_Acc: 7.37%
+- 1s - test_Loss: 9.6030 - test_Acc: 7.96%
+* Epoch 201/300
+- 2s - train_Loss: 7.1194 - train_Acc: 8.74%
+- 1s - test_Loss: 9.6265 - test_Acc: 9.45%
+* Epoch 221/300
+- 2s - train_Loss: 6.6192 - train_Acc: 9.36%
+- 1s - test_Loss: 9.9823 - test_Acc: 6.97%
+* Epoch 241/300
+- 2s - train_Loss: 6.8615 - train_Acc: 9.74%
+- 1s - test_Loss: 9.7726 - test_Acc: 9.45%
+* Epoch 261/300
+- 2s - train_Loss: 6.1281 - train_Acc: 13.86%
+- 1s - test_Loss: 11.2013 - test_Acc: 8.46%
+* Epoch 281/300
+- 2s - train_Loss: 5.6773 - train_Acc: 17.35%
+- 1s - test_Loss: 10.9573 - test_Acc: 10.95%
+dataset: FGNET, loss_fn: UnimodalNet_absdistance, non_pre_weighted
+batch_size: 4, lr: 0.001, epochs: 300
+time: 784.94s, model: resnet18_weights
+lamda: 2.0
+batch_size: 4
+Running: dataset=FGNET, loss=UnimodalNet_absdistance, model=resnet18_weights, lr=5e-4, lamda=2
+FGNET train: 801 images, 62 age classes
+FGNET test: 201 images, 45 age classes
+* Epoch 1/300
+- 2s - train_Loss: 18.8650 - train_Acc: 3.87%
+- 1s - test_Loss: 14.4980 - test_Acc: 5.47%
+* Epoch 21/300
+- 2s - train_Loss: 9.1110 - train_Acc: 7.24%
+- 1s - test_Loss: 8.8671 - test_Acc: 9.45%
+* Epoch 41/300
+- 2s - train_Loss: 8.1360 - train_Acc: 7.49%
+- 1s - test_Loss: 8.5480 - test_Acc: 8.96%
+* Epoch 61/300
+- 2s - train_Loss: 7.9517 - train_Acc: 9.49%
+- 1s - test_Loss: 9.7496 - test_Acc: 10.45%
+* Epoch 81/300
+- 2s - train_Loss: 7.1920 - train_Acc: 11.49%
+- 1s - test_Loss: 9.3113 - test_Acc: 10.45%
+* Epoch 101/300
+- 2s - train_Loss: 7.2911 - train_Acc: 14.11%
+- 1s - test_Loss: 10.3115 - test_Acc: 7.96%
+* Epoch 121/300
+- 2s - train_Loss: 6.0700 - train_Acc: 16.98%
+- 1s - test_Loss: 10.7645 - test_Acc: 11.44%
+* Epoch 141/300
+- 2s - train_Loss: 5.6228 - train_Acc: 25.84%
+- 1s - test_Loss: 11.0924 - test_Acc: 10.45%
+* Epoch 161/300
+- 2s - train_Loss: 5.1449 - train_Acc: 33.21%
+- 1s - test_Loss: 11.5260 - test_Acc: 12.94%
+* Epoch 181/300
+- 2s - train_Loss: 5.0538 - train_Acc: 39.45%
+- 1s - test_Loss: 11.3993 - test_Acc: 9.45%
+* Epoch 201/300
+- 2s - train_Loss: 4.5705 - train_Acc: 45.19%
+- 1s - test_Loss: 12.0870 - test_Acc: 11.44%
+* Epoch 221/300
+- 2s - train_Loss: 3.7595 - train_Acc: 55.68%
+- 1s - test_Loss: 11.6145 - test_Acc: 11.94%
+* Epoch 241/300
+- 2s - train_Loss: 3.4240 - train_Acc: 59.18%
+- 1s - test_Loss: 12.3896 - test_Acc: 9.45%
+* Epoch 261/300
+- 2s - train_Loss: 3.1600 - train_Acc: 61.67%
+- 1s - test_Loss: 13.0932 - test_Acc: 8.96%
+* Epoch 281/300
+- 2s - train_Loss: 3.1973 - train_Acc: 65.79%
+- 1s - test_Loss: 13.0171 - test_Acc: 9.95%
+dataset: FGNET, loss_fn: UnimodalNet_absdistance, non_pre_weighted
+batch_size: 4, lr: 0.0005, epochs: 300
+time: 785.00s, model: resnet18_weights
+lamda: 2.0
+batch_size: 4
+Running: dataset=FGNET, loss=UnimodalNet_absdistance, model=resnet18_weights, lr=1e-4, lamda=2
+FGNET train: 801 images, 62 age classes
+FGNET test: 201 images, 45 age classes
+* Epoch 1/300
+- 2s - train_Loss: 35.2090 - train_Acc: 4.00%
+- 1s - test_Loss: 25.8270 - test_Acc: 4.98%
+* Epoch 21/300
+- 2s - train_Loss: 7.8827 - train_Acc: 5.49%
+- 1s - test_Loss: 8.6751 - test_Acc: 7.96%
+* Epoch 41/300
+- 2s - train_Loss: 7.2296 - train_Acc: 13.73%
+- 1s - test_Loss: 8.9658 - test_Acc: 9.45%
+* Epoch 61/300
+- 2s - train_Loss: 6.5392 - train_Acc: 21.60%
+- 1s - test_Loss: 9.2561 - test_Acc: 9.95%
+* Epoch 81/300
+- 2s - train_Loss: 5.3503 - train_Acc: 35.08%
+- 1s - test_Loss: 10.0125 - test_Acc: 10.45%
+* Epoch 101/300
+- 2s - train_Loss: 4.3105 - train_Acc: 49.56%
+- 1s - test_Loss: 9.1700 - test_Acc: 9.45%
+* Epoch 121/300
+- 2s - train_Loss: 3.5515 - train_Acc: 58.80%
+- 1s - test_Loss: 9.7347 - test_Acc: 9.95%
+* Epoch 141/300
+- 2s - train_Loss: 3.1130 - train_Acc: 66.29%
+- 1s - test_Loss: 9.8460 - test_Acc: 10.45%
+* Epoch 161/300
+- 2s - train_Loss: 3.1031 - train_Acc: 70.79%
+- 1s - test_Loss: 10.8792 - test_Acc: 10.45%
+* Epoch 181/300
+- 2s - train_Loss: 2.3490 - train_Acc: 75.78%
+- 1s - test_Loss: 10.4686 - test_Acc: 9.95%
+* Epoch 201/300
+- 2s - train_Loss: 2.1244 - train_Acc: 80.40%
+- 1s - test_Loss: 10.3778 - test_Acc: 11.44%
+* Epoch 221/300
+- 2s - train_Loss: 2.1245 - train_Acc: 83.15%
+- 1s - test_Loss: 10.5188 - test_Acc: 11.94%
+* Epoch 241/300
+- 2s - train_Loss: 1.8830 - train_Acc: 86.64%
+- 1s - test_Loss: 10.8240 - test_Acc: 10.95%
+* Epoch 261/300
+- 2s - train_Loss: 2.1012 - train_Acc: 82.65%
+- 1s - test_Loss: 10.9982 - test_Acc: 11.94%
+* Epoch 281/300
+- 2s - train_Loss: 1.4670 - train_Acc: 87.77%
+- 1s - test_Loss: 11.1138 - test_Acc: 12.44%
+dataset: FGNET, loss_fn: UnimodalNet_absdistance, non_pre_weighted
+batch_size: 4, lr: 0.0001, epochs: 300
+time: 782.94s, model: resnet18_weights
+lamda: 2.0
+batch_size: 4
+Running: dataset=FGNET, loss=UnimodalNet_absdistance, model=resnet18_GaussianFC_weights, lr=1e-3, lamda=2
+FGNET train: 801 images, 62 age classes
+FGNET test: 201 images, 45 age classes
+* Epoch 1/300
+- 2s - train_Loss: 4859.0261 - train_Acc: 1.87%
+- 1s - test_Loss: 1573804.2857 - test_Acc: 1.00%
+* Epoch 21/300
+- 2s - train_Loss: 153.1502 - train_Acc: 4.62%
+- 1s - test_Loss: 121.0655 - test_Acc: 3.48%
+* Epoch 41/300
+- 2s - train_Loss: 63.3046 - train_Acc: 3.00%
+- 1s - test_Loss: 71.0018 - test_Acc: 2.99%
+* Epoch 61/300
+- 2s - train_Loss: 51.7253 - train_Acc: 4.00%
+- 1s - test_Loss: 48.5734 - test_Acc: 5.47%
+* Epoch 81/300
+- 2s - train_Loss: 44.1201 - train_Acc: 3.75%
+- 1s - test_Loss: 43.0500 - test_Acc: 5.97%
+* Epoch 101/300
+- 2s - train_Loss: 39.6445 - train_Acc: 3.75%
+- 1s - test_Loss: 41.8939 - test_Acc: 6.47%
+* Epoch 121/300
+- 2s - train_Loss: 42.8391 - train_Acc: 3.62%
+- 1s - test_Loss: 41.5603 - test_Acc: 6.47%
+* Epoch 141/300
+- 2s - train_Loss: 37.2316 - train_Acc: 3.75%
+- 1s - test_Loss: 38.3885 - test_Acc: 6.47%
+* Epoch 161/300
+- 2s - train_Loss: 22.2591 - train_Acc: 3.75%
+- 1s - test_Loss: 23.2394 - test_Acc: 6.47%
+* Epoch 181/300
+- 2s - train_Loss: 17.6124 - train_Acc: 3.75%
+- 1s - test_Loss: 17.3956 - test_Acc: 6.47%
+* Epoch 201/300
+- 2s - train_Loss: 14.9032 - train_Acc: 3.75%
+- 1s - test_Loss: 15.7372 - test_Acc: 6.47%
+* Epoch 221/300
+- 2s - train_Loss: 14.0531 - train_Acc: 3.75%
+- 1s - test_Loss: 14.7502 - test_Acc: 6.47%
+* Epoch 241/300
+- 2s - train_Loss: 57.3792 - train_Acc: 3.75%
+- 1s - test_Loss: 14.7741 - test_Acc: 6.47%
+* Epoch 261/300
+- 2s - train_Loss: 12.8540 - train_Acc: 3.75%
+- 1s - test_Loss: 13.2117 - test_Acc: 6.47%
+* Epoch 281/300
+- 2s - train_Loss: 12.5469 - train_Acc: 3.75%
+- 1s - test_Loss: 12.8733 - test_Acc: 6.47%
+dataset: FGNET, loss_fn: UnimodalNet_absdistance, non_pre_weighted
+batch_size: 4, lr: 0.001, epochs: 300
+time: 789.62s, model: resnet18_GaussianFC_weights
+lamda: 2.0
+batch_size: 4
+Running: dataset=FGNET, loss=UnimodalNet_absdistance, model=resnet18_GaussianFC_weights, lr=5e-4, lamda=2
+FGNET train: 801 images, 62 age classes
+FGNET test: 201 images, 45 age classes
+* Epoch 1/300
+- 2s - train_Loss: 5227.6921 - train_Acc: 1.50%
+- 1s - test_Loss: 1243.4362 - test_Acc: 0.00%
+* Epoch 21/300
+- 2s - train_Loss: 1139.9928 - train_Acc: 4.62%
+- 1s - test_Loss: 467.3011 - test_Acc: 5.47%
+* Epoch 41/300
+- 2s - train_Loss: 112.3371 - train_Acc: 4.62%
+- 1s - test_Loss: 102.6054 - test_Acc: 2.49%
+* Epoch 61/300
+- 2s - train_Loss: 58.0580 - train_Acc: 3.37%
+- 1s - test_Loss: 65.5456 - test_Acc: 3.48%
+* Epoch 81/300
+- 2s - train_Loss: 51.9313 - train_Acc: 2.50%
+- 1s - test_Loss: 73.2665 - test_Acc: 3.48%
+* Epoch 101/300
+- 2s - train_Loss: 50.5272 - train_Acc: 3.87%
+- 1s - test_Loss: 51.2050 - test_Acc: 6.97%
+* Epoch 121/300
+- 2s - train_Loss: 47.7843 - train_Acc: 4.12%
+- 1s - test_Loss: 46.8605 - test_Acc: 4.98%
+* Epoch 141/300
+- 2s - train_Loss: 61.8439 - train_Acc: 4.00%
+- 1s - test_Loss: 43.7030 - test_Acc: 5.97%
+* Epoch 161/300
+- 2s - train_Loss: 46.8560 - train_Acc: 3.50%
+- 1s - test_Loss: 41.0294 - test_Acc: 6.47%
+* Epoch 181/300
+- 2s - train_Loss: 42.6694 - train_Acc: 3.25%
+- 1s - test_Loss: 41.0550 - test_Acc: 5.97%
+* Epoch 201/300
+- 2s - train_Loss: 41.7409 - train_Acc: 3.62%
+- 1s - test_Loss: 39.8756 - test_Acc: 6.47%
+* Epoch 221/300
+- 2s - train_Loss: 38.4633 - train_Acc: 3.75%
+- 1s - test_Loss: 39.9824 - test_Acc: 6.47%
+* Epoch 241/300
+- 2s - train_Loss: 35.1234 - train_Acc: 3.75%
+- 1s - test_Loss: 33.3067 - test_Acc: 6.47%
+* Epoch 261/300
+- 2s - train_Loss: 23.7823 - train_Acc: 3.75%
+- 1s - test_Loss: 25.3119 - test_Acc: 6.47%
+* Epoch 281/300
+- 2s - train_Loss: 18.2753 - train_Acc: 3.75%
+- 1s - test_Loss: 19.4947 - test_Acc: 6.47%
+dataset: FGNET, loss_fn: UnimodalNet_absdistance, non_pre_weighted
+batch_size: 4, lr: 0.0005, epochs: 300
+time: 790.29s, model: resnet18_GaussianFC_weights
+lamda: 2.0
+batch_size: 4
+Running: dataset=FGNET, loss=UnimodalNet_absdistance, model=resnet18_GaussianFC_weights, lr=1e-4, lamda=2
+FGNET train: 801 images, 62 age classes
+FGNET test: 201 images, 45 age classes
+* Epoch 1/300
+- 2s - train_Loss: 7653.6893 - train_Acc: 2.00%
+- 1s - test_Loss: 10494.1670 - test_Acc: 1.49%
+* Epoch 21/300
+- 2s - train_Loss: 1025.3788 - train_Acc: 3.37%
+- 1s - test_Loss: 2109.7849 - test_Acc: 5.47%
+* Epoch 41/300
+- 2s - train_Loss: 751.8142 - train_Acc: 2.87%
+- 1s - test_Loss: 332.7613 - test_Acc: 2.99%
+* Epoch 61/300
+- 2s - train_Loss: 673.5675 - train_Acc: 3.37%
+- 1s - test_Loss: 338.8899 - test_Acc: 5.97%
+* Epoch 81/300
+- 2s - train_Loss: 608.5189 - train_Acc: 4.49%
+- 1s - test_Loss: 255.9430 - test_Acc: 4.48%
+* Epoch 101/300
+- 2s - train_Loss: 394.2478 - train_Acc: 3.87%
+- 1s - test_Loss: 159.4025 - test_Acc: 3.48%
+* Epoch 121/300
+- 2s - train_Loss: 340.9840 - train_Acc: 3.37%
+- 1s - test_Loss: 142.2440 - test_Acc: 4.48%
+* Epoch 141/300
+- 2s - train_Loss: 338.8227 - train_Acc: 4.12%
+- 1s - test_Loss: 146.3030 - test_Acc: 3.98%
+* Epoch 161/300
+- 2s - train_Loss: 391.2401 - train_Acc: 3.75%
+- 1s - test_Loss: 238.5263 - test_Acc: 5.97%
+* Epoch 181/300
+- 2s - train_Loss: 295.8703 - train_Acc: 3.37%
+- 1s - test_Loss: 88.3186 - test_Acc: 2.49%
+* Epoch 201/300
+- 2s - train_Loss: 253.0810 - train_Acc: 3.25%
+- 1s - test_Loss: 284.0577 - test_Acc: 4.98%
+* Epoch 221/300
+- 2s - train_Loss: 246.6550 - train_Acc: 3.25%
+- 1s - test_Loss: 97.0499 - test_Acc: 2.49%
+* Epoch 241/300
+- 2s - train_Loss: 104.2877 - train_Acc: 3.12%
+- 1s - test_Loss: 107.3369 - test_Acc: 4.48%
+* Epoch 261/300
+- 2s - train_Loss: 100.9021 - train_Acc: 3.12%
+- 1s - test_Loss: 122.0746 - test_Acc: 2.49%
+* Epoch 281/300
+- 2s - train_Loss: 107.7549 - train_Acc: 3.25%
+- 1s - test_Loss: 237.0038 - test_Acc: 3.48%
+dataset: FGNET, loss_fn: UnimodalNet_absdistance, non_pre_weighted
+batch_size: 4, lr: 0.0001, epochs: 300
+time: 785.45s, model: resnet18_GaussianFC_weights
+lamda: 2.0
+batch_size: 4
+Running: dataset=FGNET, loss=UnimodalNet, model=resnet18, lr=1e-3, lamda=5
+FGNET train: 801 images, 62 age classes
+FGNET test: 201 images, 45 age classes
+* Epoch 1/300
+- 2s - train_Loss: 5.4683 - train_Acc: 2.75%
+- 1s - test_Loss: 3.9729 - test_Acc: 4.48%
+* Epoch 21/300
+- 2s - train_Loss: 3.6740 - train_Acc: 3.75%
+- 1s - test_Loss: 3.6017 - test_Acc: 6.47%
+* Epoch 41/300
+- 2s - train_Loss: 3.6786 - train_Acc: 3.75%
+- 1s - test_Loss: 3.5970 - test_Acc: 6.47%
+* Epoch 61/300
+- 2s - train_Loss: 3.6022 - train_Acc: 3.87%
+- 1s - test_Loss: 3.6728 - test_Acc: 5.97%
+* Epoch 81/300
+- 2s - train_Loss: 3.5213 - train_Acc: 4.00%
+- 1s - test_Loss: 3.3702 - test_Acc: 6.47%
+* Epoch 101/300
+- 2s - train_Loss: 3.3455 - train_Acc: 4.49%
+- 1s - test_Loss: 3.2985 - test_Acc: 7.46%
+* Epoch 121/300
+- 2s - train_Loss: 3.2450 - train_Acc: 4.87%
+- 1s - test_Loss: 3.1791 - test_Acc: 9.45%
+* Epoch 141/300
+- 2s - train_Loss: 3.2139 - train_Acc: 6.24%
+- 1s - test_Loss: 3.2826 - test_Acc: 8.46%
+* Epoch 161/300
+- 2s - train_Loss: 3.1269 - train_Acc: 4.87%
+- 1s - test_Loss: 3.2241 - test_Acc: 7.96%
+* Epoch 181/300
+- 2s - train_Loss: 3.0156 - train_Acc: 5.62%
+- 1s - test_Loss: 3.1825 - test_Acc: 7.46%
+* Epoch 201/300
+- 2s - train_Loss: 2.9885 - train_Acc: 5.12%
+- 1s - test_Loss: 3.1710 - test_Acc: 7.46%
+* Epoch 221/300
+- 2s - train_Loss: 2.8801 - train_Acc: 5.99%
+- 1s - test_Loss: 3.0831 - test_Acc: 7.96%
+* Epoch 241/300
+- 2s - train_Loss: 2.7935 - train_Acc: 6.62%
+- 1s - test_Loss: 3.1639 - test_Acc: 6.97%
+* Epoch 261/300
+- 2s - train_Loss: 2.6988 - train_Acc: 5.87%
+- 1s - test_Loss: 3.0907 - test_Acc: 6.47%
+* Epoch 281/300
+- 2s - train_Loss: 2.6628 - train_Acc: 5.62%
+- 1s - test_Loss: 2.9728 - test_Acc: 7.96%
+dataset: FGNET, loss_fn: UnimodalNet, non_pre_weighted
+batch_size: 4, lr: 0.001, epochs: 300
+time: 782.11s, model: resnet18
+lamda: 5.0
+batch_size: 4
+Running: dataset=FGNET, loss=UnimodalNet, model=resnet18, lr=5e-4, lamda=5
+FGNET train: 801 images, 62 age classes
+FGNET test: 201 images, 45 age classes
+* Epoch 1/300
+- 2s - train_Loss: 6.1713 - train_Acc: 3.87%
+- 1s - test_Loss: 4.1177 - test_Acc: 6.47%
+* Epoch 21/300
+- 2s - train_Loss: 3.6264 - train_Acc: 3.87%
+- 1s - test_Loss: 3.6720 - test_Acc: 6.47%
+* Epoch 41/300
+- 2s - train_Loss: 3.5869 - train_Acc: 4.12%
+- 1s - test_Loss: 3.5694 - test_Acc: 6.47%
+* Epoch 61/300
+- 2s - train_Loss: 3.3186 - train_Acc: 4.24%
+- 1s - test_Loss: 3.2394 - test_Acc: 6.97%
+* Epoch 81/300
+- 2s - train_Loss: 3.2593 - train_Acc: 4.74%
+- 1s - test_Loss: 3.2022 - test_Acc: 8.46%
+* Epoch 101/300
+- 2s - train_Loss: 3.1194 - train_Acc: 4.37%
+- 1s - test_Loss: 3.2059 - test_Acc: 6.97%
+* Epoch 121/300
+- 2s - train_Loss: 3.0825 - train_Acc: 5.74%
+- 1s - test_Loss: 3.1523 - test_Acc: 7.96%
+* Epoch 141/300
+- 2s - train_Loss: 3.0128 - train_Acc: 5.12%
+- 1s - test_Loss: 3.1466 - test_Acc: 7.46%
+* Epoch 161/300
+- 2s - train_Loss: 2.8895 - train_Acc: 5.87%
+- 1s - test_Loss: 3.0066 - test_Acc: 6.97%
+* Epoch 181/300
+- 2s - train_Loss: 2.8567 - train_Acc: 5.24%
+- 1s - test_Loss: 2.9205 - test_Acc: 6.47%
+* Epoch 201/300
+- 2s - train_Loss: 2.7788 - train_Acc: 4.99%
+- 1s - test_Loss: 3.0126 - test_Acc: 6.97%
+* Epoch 221/300
+- 2s - train_Loss: 2.7514 - train_Acc: 5.24%
+- 1s - test_Loss: 3.1308 - test_Acc: 7.46%
+* Epoch 241/300
+- 2s - train_Loss: 2.5868 - train_Acc: 5.37%
+- 1s - test_Loss: 3.3414 - test_Acc: 7.46%
+* Epoch 261/300
+- 2s - train_Loss: 2.6064 - train_Acc: 5.49%
+- 1s - test_Loss: 2.9056 - test_Acc: 7.46%
+* Epoch 281/300
+- 2s - train_Loss: 2.4427 - train_Acc: 7.37%
+- 1s - test_Loss: 3.1540 - test_Acc: 7.96%
+dataset: FGNET, loss_fn: UnimodalNet, non_pre_weighted
+batch_size: 4, lr: 0.0005, epochs: 300
+time: 781.16s, model: resnet18
+lamda: 5.0
+batch_size: 4
+Running: dataset=FGNET, loss=UnimodalNet, model=resnet18, lr=1e-4, lamda=5
+FGNET train: 801 images, 62 age classes
+FGNET test: 201 images, 45 age classes
+* Epoch 1/300
+- 2s - train_Loss: 9.5581 - train_Acc: 3.50%
+- 1s - test_Loss: 6.2861 - test_Acc: 5.97%
+* Epoch 21/300
+- 2s - train_Loss: 3.5681 - train_Acc: 3.87%
+- 1s - test_Loss: 3.4734 - test_Acc: 6.97%
+* Epoch 41/300
+- 2s - train_Loss: 3.3877 - train_Acc: 4.62%
+- 1s - test_Loss: 3.3762 - test_Acc: 8.46%
+* Epoch 61/300
+- 2s - train_Loss: 3.2825 - train_Acc: 4.74%
+- 1s - test_Loss: 3.1999 - test_Acc: 7.46%
+* Epoch 81/300
+- 2s - train_Loss: 3.1642 - train_Acc: 4.37%
+- 1s - test_Loss: 3.0685 - test_Acc: 7.96%
+* Epoch 101/300
+- 2s - train_Loss: 3.0693 - train_Acc: 4.87%
+- 1s - test_Loss: 3.0525 - test_Acc: 7.96%
+* Epoch 121/300
+- 2s - train_Loss: 2.9713 - train_Acc: 5.49%
+- 1s - test_Loss: 3.2832 - test_Acc: 6.97%
+* Epoch 141/300
+- 2s - train_Loss: 2.8584 - train_Acc: 4.99%
+- 1s - test_Loss: 3.3575 - test_Acc: 7.46%
+* Epoch 161/300
+- 2s - train_Loss: 2.7317 - train_Acc: 5.24%
+- 1s - test_Loss: 3.0977 - test_Acc: 6.47%
+* Epoch 181/300
+- 2s - train_Loss: 2.7010 - train_Acc: 5.74%
+- 1s - test_Loss: 3.1136 - test_Acc: 7.46%
+* Epoch 201/300
+- 2s - train_Loss: 2.5307 - train_Acc: 5.87%
+- 1s - test_Loss: 3.0514 - test_Acc: 7.46%
+* Epoch 221/300
+- 2s - train_Loss: 2.4590 - train_Acc: 6.87%
+- 1s - test_Loss: 2.9500 - test_Acc: 6.97%
+* Epoch 241/300
+- 2s - train_Loss: 2.4310 - train_Acc: 7.12%
+- 1s - test_Loss: 3.1335 - test_Acc: 6.97%
+* Epoch 261/300
+- 2s - train_Loss: 2.4294 - train_Acc: 8.24%
+- 1s - test_Loss: 3.3649 - test_Acc: 6.97%
+* Epoch 281/300
+- 2s - train_Loss: 2.3359 - train_Acc: 8.49%
+- 1s - test_Loss: 3.2062 - test_Acc: 6.47%
+dataset: FGNET, loss_fn: UnimodalNet, non_pre_weighted
+batch_size: 4, lr: 0.0001, epochs: 300
+time: 781.12s, model: resnet18
+lamda: 5.0
+batch_size: 4
+Running: dataset=FGNET, loss=UnimodalNet, model=resnet18_GaussianFC, lr=1e-3, lamda=5
+FGNET train: 801 images, 62 age classes
+FGNET test: 201 images, 45 age classes
+* Epoch 1/300
+- 2s - train_Loss: 859.2088 - train_Acc: 3.87%
+- 1s - test_Loss: 567.8940 - test_Acc: 4.48%
+* Epoch 21/300
+- 2s - train_Loss: 17.2942 - train_Acc: 2.87%
+- 1s - test_Loss: 14.5661 - test_Acc: 1.99%
+* Epoch 41/300
+- 2s - train_Loss: 22.2739 - train_Acc: 2.75%
+- 1s - test_Loss: 14.2007 - test_Acc: 5.47%
+* Epoch 61/300
+- 2s - train_Loss: 13.5588 - train_Acc: 3.50%
+- 1s - test_Loss: 14.1837 - test_Acc: 4.98%
+* Epoch 81/300
+- 2s - train_Loss: 13.4368 - train_Acc: 3.75%
+- 1s - test_Loss: 13.5031 - test_Acc: 6.47%
+* Epoch 101/300
+- 2s - train_Loss: 12.7982 - train_Acc: 3.75%
+- 1s - test_Loss: 13.0412 - test_Acc: 6.47%
+* Epoch 121/300
+- 2s - train_Loss: 12.0573 - train_Acc: 3.75%
+- 1s - test_Loss: 12.7697 - test_Acc: 6.47%
+* Epoch 141/300
+- 2s - train_Loss: 12.9798 - train_Acc: 3.75%
+- 1s - test_Loss: 12.3991 - test_Acc: 6.47%
+* Epoch 161/300
+- 2s - train_Loss: 13.1272 - train_Acc: 3.75%
+- 1s - test_Loss: 12.3473 - test_Acc: 6.47%
+* Epoch 181/300
+- 2s - train_Loss: 12.1253 - train_Acc: 3.75%
+- 1s - test_Loss: 11.3355 - test_Acc: 6.47%
+* Epoch 201/300
+- 2s - train_Loss: 11.4991 - train_Acc: 3.75%
+- 1s - test_Loss: 11.0348 - test_Acc: 6.47%
+* Epoch 221/300
+- 2s - train_Loss: 10.6046 - train_Acc: 3.75%
+- 1s - test_Loss: 10.7196 - test_Acc: 6.47%
+* Epoch 241/300
+- 2s - train_Loss: 9.8740 - train_Acc: 3.75%
+- 1s - test_Loss: 10.4209 - test_Acc: 6.47%
+* Epoch 261/300
+- 2s - train_Loss: 10.0117 - train_Acc: 3.75%
+- 1s - test_Loss: 10.2912 - test_Acc: 6.47%
+* Epoch 281/300
+- 2s - train_Loss: 9.6976 - train_Acc: 3.75%
+- 1s - test_Loss: 10.0013 - test_Acc: 6.47%
+dataset: FGNET, loss_fn: UnimodalNet, non_pre_weighted
+batch_size: 4, lr: 0.001, epochs: 300
+time: 787.77s, model: resnet18_GaussianFC
+lamda: 5.0
+batch_size: 4
+Running: dataset=FGNET, loss=UnimodalNet, model=resnet18_GaussianFC, lr=5e-4, lamda=5
+FGNET train: 801 images, 62 age classes
+FGNET test: 201 images, 45 age classes
+* Epoch 1/300
+- 2s - train_Loss: 996.8485 - train_Acc: 1.75%
+- 1s - test_Loss: 253.1863 - test_Acc: 1.00%
+* Epoch 21/300
+- 2s - train_Loss: 41.6831 - train_Acc: 4.24%
+- 1s - test_Loss: 15.1377 - test_Acc: 2.49%
+* Epoch 41/300
+- 2s - train_Loss: 24.2966 - train_Acc: 3.50%
+- 1s - test_Loss: 14.6939 - test_Acc: 2.99%
+* Epoch 61/300
+- 2s - train_Loss: 23.0196 - train_Acc: 3.25%
+- 1s - test_Loss: 14.5370 - test_Acc: 2.99%
+* Epoch 81/300
+- 2s - train_Loss: 17.6954 - train_Acc: 2.62%
+- 1s - test_Loss: 14.5188 - test_Acc: 1.99%
+* Epoch 101/300
+- 2s - train_Loss: 13.8399 - train_Acc: 3.25%
+- 1s - test_Loss: 14.1072 - test_Acc: 5.47%
+* Epoch 121/300
+- 2s - train_Loss: 19.4726 - train_Acc: 3.75%
+- 1s - test_Loss: 14.4190 - test_Acc: 5.97%
+* Epoch 141/300
+- 2s - train_Loss: 15.3197 - train_Acc: 3.37%
+- 1s - test_Loss: 13.9104 - test_Acc: 6.97%
+* Epoch 161/300
+- 2s - train_Loss: 13.5170 - train_Acc: 3.75%
+- 1s - test_Loss: 13.6109 - test_Acc: 6.47%
+* Epoch 181/300
+- 2s - train_Loss: 14.3305 - train_Acc: 3.75%
+- 1s - test_Loss: 13.3598 - test_Acc: 6.47%
+* Epoch 201/300
+- 2s - train_Loss: 17.3750 - train_Acc: 3.75%
+- 1s - test_Loss: 13.0556 - test_Acc: 6.47%
+* Epoch 221/300
+- 2s - train_Loss: 14.3182 - train_Acc: 3.75%
+- 1s - test_Loss: 13.1621 - test_Acc: 6.47%
+* Epoch 241/300
+- 2s - train_Loss: 12.6423 - train_Acc: 3.75%
+- 1s - test_Loss: 12.6330 - test_Acc: 6.47%
+* Epoch 261/300
+- 2s - train_Loss: 11.7775 - train_Acc: 3.75%
+- 1s - test_Loss: 12.4091 - test_Acc: 6.47%
+* Epoch 281/300
+- 2s - train_Loss: 12.7253 - train_Acc: 3.75%
+- 1s - test_Loss: 12.3051 - test_Acc: 6.47%
+dataset: FGNET, loss_fn: UnimodalNet, non_pre_weighted
+batch_size: 4, lr: 0.0005, epochs: 300
+time: 786.21s, model: resnet18_GaussianFC
+lamda: 5.0
+batch_size: 4
+Running: dataset=FGNET, loss=UnimodalNet, model=resnet18_GaussianFC, lr=1e-4, lamda=5
+FGNET train: 801 images, 62 age classes
+FGNET test: 201 images, 45 age classes
+* Epoch 1/300
+- 2s - train_Loss: 1585.9761 - train_Acc: 0.75%
+- 1s - test_Loss: 506.7583 - test_Acc: 0.50%
+* Epoch 21/300
+- 2s - train_Loss: 105.0971 - train_Acc: 3.00%
+- 1s - test_Loss: 63.4393 - test_Acc: 3.48%
+* Epoch 41/300
+- 2s - train_Loss: 25.5959 - train_Acc: 4.49%
+- 1s - test_Loss: 28.1301 - test_Acc: 4.48%
+* Epoch 61/300
+- 2s - train_Loss: 39.4447 - train_Acc: 3.87%
+- 1s - test_Loss: 24.5176 - test_Acc: 3.98%
+* Epoch 81/300
+- 2s - train_Loss: 37.0310 - train_Acc: 3.25%
+- 1s - test_Loss: 20.8184 - test_Acc: 3.48%
+* Epoch 101/300
+- 2s - train_Loss: 25.4424 - train_Acc: 3.00%
+- 1s - test_Loss: 16.2492 - test_Acc: 3.98%
+* Epoch 121/300
+- 2s - train_Loss: 23.1933 - train_Acc: 3.50%
+- 1s - test_Loss: 15.0610 - test_Acc: 1.99%
+* Epoch 141/300
+- 2s - train_Loss: 19.0767 - train_Acc: 3.87%
+- 1s - test_Loss: 14.6242 - test_Acc: 2.49%
+* Epoch 161/300
+- 2s - train_Loss: 27.3523 - train_Acc: 3.25%
+- 1s - test_Loss: 14.6828 - test_Acc: 2.99%
+* Epoch 181/300
+- 2s - train_Loss: 33.3064 - train_Acc: 3.25%
+- 1s - test_Loss: 15.2745 - test_Acc: 2.99%
+* Epoch 201/300
+- 2s - train_Loss: 28.6039 - train_Acc: 2.37%
+- 1s - test_Loss: 15.8454 - test_Acc: 2.99%
+* Epoch 221/300
+- 2s - train_Loss: 14.4071 - train_Acc: 2.75%
+- 1s - test_Loss: 14.6185 - test_Acc: 2.99%
+* Epoch 241/300
+- 2s - train_Loss: 20.1974 - train_Acc: 2.87%
+- 1s - test_Loss: 14.4641 - test_Acc: 2.49%
+* Epoch 261/300
+- 2s - train_Loss: 18.9614 - train_Acc: 2.62%
+- 1s - test_Loss: 14.3182 - test_Acc: 2.49%
+* Epoch 281/300
+- 2s - train_Loss: 17.9125 - train_Acc: 2.75%
+- 1s - test_Loss: 14.3336 - test_Acc: 2.49%
+dataset: FGNET, loss_fn: UnimodalNet, non_pre_weighted
+batch_size: 4, lr: 0.0001, epochs: 300
+time: 787.37s, model: resnet18_GaussianFC
+lamda: 5.0
+batch_size: 4
+Running: dataset=FGNET, loss=UnimodalNet, model=resnet18_weights, lr=1e-3, lamda=5
+FGNET train: 801 images, 62 age classes
+FGNET test: 201 images, 45 age classes
+* Epoch 1/300
+- 2s - train_Loss: 5.4061 - train_Acc: 3.50%
+- 1s - test_Loss: 4.1237 - test_Acc: 3.98%
+* Epoch 21/300
+- 2s - train_Loss: 3.2536 - train_Acc: 5.62%
+- 1s - test_Loss: 3.2054 - test_Acc: 6.97%
+* Epoch 41/300
+- 2s - train_Loss: 3.0226 - train_Acc: 6.24%
+- 1s - test_Loss: 3.1166 - test_Acc: 9.45%
+* Epoch 61/300
+- 2s - train_Loss: 2.8541 - train_Acc: 6.62%
+- 1s - test_Loss: 2.9890 - test_Acc: 9.45%
+* Epoch 81/300
+- 2s - train_Loss: 2.8492 - train_Acc: 5.62%
+- 1s - test_Loss: 3.1382 - test_Acc: 8.96%
+* Epoch 101/300
+- 2s - train_Loss: 2.7762 - train_Acc: 6.62%
+- 1s - test_Loss: 3.1769 - test_Acc: 8.96%
+* Epoch 121/300
+- 2s - train_Loss: 2.5218 - train_Acc: 6.74%
+- 1s - test_Loss: 3.1658 - test_Acc: 8.96%
+* Epoch 141/300
+- 2s - train_Loss: 2.5530 - train_Acc: 7.74%
+- 1s - test_Loss: 3.0875 - test_Acc: 7.96%
+* Epoch 161/300
+- 2s - train_Loss: 2.4911 - train_Acc: 8.74%
+- 1s - test_Loss: 3.4107 - test_Acc: 9.95%
+* Epoch 181/300
+- 2s - train_Loss: 2.3363 - train_Acc: 8.61%
+- 1s - test_Loss: 3.0476 - test_Acc: 7.46%
+* Epoch 201/300
+- 2s - train_Loss: 2.2260 - train_Acc: 12.73%
+- 1s - test_Loss: 3.2138 - test_Acc: 9.95%
+* Epoch 221/300
+- 2s - train_Loss: 2.1124 - train_Acc: 12.73%
+- 1s - test_Loss: 3.3919 - test_Acc: 7.96%
+* Epoch 241/300
+- 2s - train_Loss: 1.9799 - train_Acc: 17.23%
+- 1s - test_Loss: 3.6069 - test_Acc: 9.45%
+* Epoch 261/300
+- 2s - train_Loss: 1.8736 - train_Acc: 20.72%
+- 1s - test_Loss: 3.8320 - test_Acc: 9.95%
+* Epoch 281/300
+- 2s - train_Loss: 1.7441 - train_Acc: 25.22%
+- 1s - test_Loss: 3.7428 - test_Acc: 9.45%
+dataset: FGNET, loss_fn: UnimodalNet, non_pre_weighted
+batch_size: 4, lr: 0.001, epochs: 300
+time: 782.10s, model: resnet18_weights
+lamda: 5.0
+batch_size: 4
+Running: dataset=FGNET, loss=UnimodalNet, model=resnet18_weights, lr=5e-4, lamda=5
+FGNET train: 801 images, 62 age classes
+FGNET test: 201 images, 45 age classes
+* Epoch 1/300
+- 2s - train_Loss: 6.0723 - train_Acc: 3.87%
+- 1s - test_Loss: 3.9117 - test_Acc: 6.47%
+* Epoch 21/300
+- 2s - train_Loss: 3.0174 - train_Acc: 5.87%
+- 1s - test_Loss: 2.7849 - test_Acc: 9.45%
+* Epoch 41/300
+- 2s - train_Loss: 2.8563 - train_Acc: 10.11%
+- 1s - test_Loss: 3.6294 - test_Acc: 8.46%
+* Epoch 61/300
+- 2s - train_Loss: 2.6068 - train_Acc: 11.36%
+- 1s - test_Loss: 3.1995 - test_Acc: 9.45%
+* Epoch 81/300
+- 2s - train_Loss: 2.5057 - train_Acc: 14.23%
+- 1s - test_Loss: 3.2427 - test_Acc: 9.95%
+* Epoch 101/300
+- 2s - train_Loss: 2.2560 - train_Acc: 19.10%
+- 1s - test_Loss: 3.2970 - test_Acc: 10.45%
+* Epoch 121/300
+- 2s - train_Loss: 1.9688 - train_Acc: 31.84%
+- 1s - test_Loss: 3.7450 - test_Acc: 9.45%
+* Epoch 141/300
+- 2s - train_Loss: 1.9277 - train_Acc: 31.84%
+- 1s - test_Loss: 3.5047 - test_Acc: 10.95%
+* Epoch 161/300
+- 2s - train_Loss: 1.8028 - train_Acc: 40.45%
+- 1s - test_Loss: 3.7068 - test_Acc: 8.46%
+* Epoch 181/300
+- 2s - train_Loss: 1.6152 - train_Acc: 49.56%
+- 1s - test_Loss: 3.6855 - test_Acc: 11.44%
+* Epoch 201/300
+- 2s - train_Loss: 1.3052 - train_Acc: 55.18%
+- 1s - test_Loss: 3.7113 - test_Acc: 9.45%
+* Epoch 221/300
+- 2s - train_Loss: 1.2529 - train_Acc: 59.43%
+- 1s - test_Loss: 3.7552 - test_Acc: 10.45%
+* Epoch 241/300
+- 2s - train_Loss: 1.2204 - train_Acc: 61.30%
+- 1s - test_Loss: 3.6580 - test_Acc: 9.95%
+* Epoch 261/300
+- 2s - train_Loss: 1.0554 - train_Acc: 67.67%
+- 1s - test_Loss: 3.8984 - test_Acc: 10.45%
+* Epoch 281/300
+- 2s - train_Loss: 0.8511 - train_Acc: 76.03%
+- 1s - test_Loss: 3.9986 - test_Acc: 12.44%
+dataset: FGNET, loss_fn: UnimodalNet, non_pre_weighted
+batch_size: 4, lr: 0.0005, epochs: 300
+time: 780.93s, model: resnet18_weights
+lamda: 5.0
+batch_size: 4
+Running: dataset=FGNET, loss=UnimodalNet, model=resnet18_weights, lr=1e-4, lamda=5
+FGNET train: 801 images, 62 age classes
+FGNET test: 201 images, 45 age classes
+* Epoch 1/300
+- 2s - train_Loss: 9.6218 - train_Acc: 4.00%
+- 1s - test_Loss: 6.0261 - test_Acc: 4.48%
+* Epoch 21/300
+- 2s - train_Loss: 2.7479 - train_Acc: 5.24%
+- 1s - test_Loss: 2.9963 - test_Acc: 8.46%
+* Epoch 41/300
+- 2s - train_Loss: 2.4160 - train_Acc: 11.36%
+- 1s - test_Loss: 3.2206 - test_Acc: 8.96%
+* Epoch 61/300
+- 2s - train_Loss: 2.0563 - train_Acc: 24.09%
+- 1s - test_Loss: 3.3648 - test_Acc: 10.45%
+* Epoch 81/300
+- 2s - train_Loss: 1.7934 - train_Acc: 32.83%
+- 1s - test_Loss: 3.1739 - test_Acc: 7.46%
+* Epoch 101/300
+- 2s - train_Loss: 1.4983 - train_Acc: 47.44%
+- 1s - test_Loss: 3.3195 - test_Acc: 10.45%
+* Epoch 121/300
+- 2s - train_Loss: 1.2554 - train_Acc: 60.17%
+- 1s - test_Loss: 3.4047 - test_Acc: 11.94%
+* Epoch 141/300
+- 2s - train_Loss: 1.1707 - train_Acc: 65.92%
+- 1s - test_Loss: 3.4682 - test_Acc: 10.95%
+* Epoch 161/300
+- 2s - train_Loss: 0.9730 - train_Acc: 72.16%
+- 1s - test_Loss: 3.3799 - test_Acc: 11.94%
+* Epoch 181/300
+- 2s - train_Loss: 0.8879 - train_Acc: 74.53%
+- 1s - test_Loss: 3.3564 - test_Acc: 9.45%
+* Epoch 201/300
+- 2s - train_Loss: 0.7570 - train_Acc: 80.40%
+- 1s - test_Loss: 3.1574 - test_Acc: 11.44%
+* Epoch 221/300
+- 2s - train_Loss: 0.6403 - train_Acc: 82.40%
+- 1s - test_Loss: 3.4027 - test_Acc: 11.94%
+* Epoch 241/300
+- 2s - train_Loss: 0.6655 - train_Acc: 82.77%
+- 1s - test_Loss: 3.3759 - test_Acc: 9.45%
+* Epoch 261/300
+- 2s - train_Loss: 0.6123 - train_Acc: 85.14%
+- 1s - test_Loss: 3.8262 - test_Acc: 8.96%
+* Epoch 281/300
+- 2s - train_Loss: 0.4730 - train_Acc: 90.14%
+- 1s - test_Loss: 3.4652 - test_Acc: 11.44%
+dataset: FGNET, loss_fn: UnimodalNet, non_pre_weighted
+batch_size: 4, lr: 0.0001, epochs: 300
+time: 782.10s, model: resnet18_weights
+lamda: 5.0
+batch_size: 4
+Running: dataset=FGNET, loss=UnimodalNet, model=resnet18_GaussianFC_weights, lr=1e-3, lamda=5
+FGNET train: 801 images, 62 age classes
+FGNET test: 201 images, 45 age classes
+* Epoch 1/300
+- 2s - train_Loss: 1503.6891 - train_Acc: 2.25%
+- 1s - test_Loss: 45194.4263 - test_Acc: 1.99%
+* Epoch 21/300
+- 2s - train_Loss: 121.2852 - train_Acc: 4.99%
+- 1s - test_Loss: 285.1977 - test_Acc: 2.49%
+* Epoch 41/300
+- 2s - train_Loss: 18.9078 - train_Acc: 3.62%
+- 1s - test_Loss: 20.5210 - test_Acc: 3.48%
+* Epoch 61/300
+- 2s - train_Loss: 20.6268 - train_Acc: 2.87%
+- 1s - test_Loss: 25.4910 - test_Acc: 1.99%
+* Epoch 81/300
+- 2s - train_Loss: 15.7141 - train_Acc: 2.75%
+- 1s - test_Loss: 14.7319 - test_Acc: 5.47%
+* Epoch 101/300
+- 2s - train_Loss: 12.8527 - train_Acc: 3.50%
+- 1s - test_Loss: 13.6548 - test_Acc: 5.47%
+* Epoch 121/300
+- 2s - train_Loss: 8.1638 - train_Acc: 3.75%
+- 1s - test_Loss: 8.7792 - test_Acc: 6.47%
+* Epoch 141/300
+- 2s - train_Loss: 5.8055 - train_Acc: 3.75%
+- 1s - test_Loss: 6.2032 - test_Acc: 6.47%
+* Epoch 161/300
+- 2s - train_Loss: 5.1381 - train_Acc: 3.75%
+- 1s - test_Loss: 5.5393 - test_Acc: 6.47%
+* Epoch 181/300
+- 2s - train_Loss: 4.7889 - train_Acc: 3.75%
+- 1s - test_Loss: 5.0488 - test_Acc: 6.47%
+* Epoch 201/300
+- 2s - train_Loss: 4.7443 - train_Acc: 3.75%
+- 1s - test_Loss: 4.8098 - test_Acc: 6.47%
+* Epoch 221/300
+- 2s - train_Loss: 4.4182 - train_Acc: 3.75%
+- 1s - test_Loss: 4.6444 - test_Acc: 6.47%
+* Epoch 241/300
+- 2s - train_Loss: 4.2769 - train_Acc: 3.75%
+- 1s - test_Loss: 4.4850 - test_Acc: 6.47%
+* Epoch 261/300
+- 2s - train_Loss: 4.2595 - train_Acc: 3.75%
+- 1s - test_Loss: 4.3463 - test_Acc: 6.47%
+* Epoch 281/300
+- 2s - train_Loss: 4.1415 - train_Acc: 3.75%
+- 1s - test_Loss: 4.1704 - test_Acc: 6.47%
+dataset: FGNET, loss_fn: UnimodalNet, non_pre_weighted
+batch_size: 4, lr: 0.001, epochs: 300
+time: 783.07s, model: resnet18_GaussianFC_weights
+lamda: 5.0
+batch_size: 4
+Running: dataset=FGNET, loss=UnimodalNet, model=resnet18_GaussianFC_weights, lr=5e-4, lamda=5
+FGNET train: 801 images, 62 age classes
+FGNET test: 201 images, 45 age classes
+* Epoch 1/300
+- 2s - train_Loss: 1806.4943 - train_Acc: 2.37%
+- 1s - test_Loss: 245.9580 - test_Acc: 1.99%
+* Epoch 21/300
+- 2s - train_Loss: 298.0733 - train_Acc: 4.87%
+- 1s - test_Loss: 289.6979 - test_Acc: 4.48%
+* Epoch 41/300
+- 2s - train_Loss: 38.2688 - train_Acc: 5.62%
+- 1s - test_Loss: 30.7219 - test_Acc: 2.49%
+* Epoch 61/300
+- 2s - train_Loss: 18.7758 - train_Acc: 3.62%
+- 1s - test_Loss: 19.2486 - test_Acc: 3.98%
+* Epoch 81/300
+- 2s - train_Loss: 19.7693 - train_Acc: 3.37%
+- 1s - test_Loss: 17.1536 - test_Acc: 3.98%
+* Epoch 101/300
+- 2s - train_Loss: 16.6370 - train_Acc: 3.00%
+- 1s - test_Loss: 17.0017 - test_Acc: 3.98%
+* Epoch 121/300
+- 2s - train_Loss: 16.0329 - train_Acc: 3.62%
+- 1s - test_Loss: 15.3603 - test_Acc: 6.47%
+* Epoch 141/300
+- 2s - train_Loss: 35.6755 - train_Acc: 4.49%
+- 1s - test_Loss: 50.3265 - test_Acc: 4.48%
+* Epoch 161/300
+- 2s - train_Loss: 15.8233 - train_Acc: 3.62%
+- 1s - test_Loss: 15.5550 - test_Acc: 6.47%
+* Epoch 181/300
+- 2s - train_Loss: 14.0003 - train_Acc: 3.75%
+- 1s - test_Loss: 14.2740 - test_Acc: 6.47%
+* Epoch 201/300
+- 2s - train_Loss: 11.2897 - train_Acc: 3.75%
+- 1s - test_Loss: 11.9813 - test_Acc: 6.47%
+* Epoch 221/300
+- 2s - train_Loss: 9.5447 - train_Acc: 3.75%
+- 1s - test_Loss: 10.2537 - test_Acc: 6.97%
+* Epoch 241/300
+- 2s - train_Loss: 7.2037 - train_Acc: 3.75%
+- 1s - test_Loss: 7.0779 - test_Acc: 6.97%
+* Epoch 261/300
+- 2s - train_Loss: 5.7627 - train_Acc: 3.75%
+- 1s - test_Loss: 5.8933 - test_Acc: 6.47%
+* Epoch 281/300
+- 2s - train_Loss: 5.1583 - train_Acc: 3.75%
+- 1s - test_Loss: 5.4357 - test_Acc: 6.47%
+dataset: FGNET, loss_fn: UnimodalNet, non_pre_weighted
+batch_size: 4, lr: 0.0005, epochs: 300
+time: 787.51s, model: resnet18_GaussianFC_weights
+lamda: 5.0
+batch_size: 4
+Running: dataset=FGNET, loss=UnimodalNet, model=resnet18_GaussianFC_weights, lr=1e-4, lamda=5
+FGNET train: 801 images, 62 age classes
+FGNET test: 201 images, 45 age classes
+* Epoch 1/300
+- 2s - train_Loss: 2672.6078 - train_Acc: 1.12%
+- 1s - test_Loss: 4752.5411 - test_Acc: 1.00%
+* Epoch 21/300
+- 2s - train_Loss: 402.2034 - train_Acc: 3.00%
+- 1s - test_Loss: 266.8220 - test_Acc: 3.48%
+* Epoch 41/300
+- 2s - train_Loss: 284.0853 - train_Acc: 3.75%
+- 1s - test_Loss: 148.0093 - test_Acc: 3.98%
+* Epoch 61/300
+- 2s - train_Loss: 213.0411 - train_Acc: 2.75%
+- 1s - test_Loss: 616.5931 - test_Acc: 1.49%
+* Epoch 81/300
+- 2s - train_Loss: 148.7109 - train_Acc: 4.12%
+- 1s - test_Loss: 428.0757 - test_Acc: 3.98%
+* Epoch 101/300
+- 2s - train_Loss: 181.2116 - train_Acc: 3.87%
+- 1s - test_Loss: 64.4538 - test_Acc: 2.49%
+* Epoch 121/300
+- 2s - train_Loss: 171.8308 - train_Acc: 3.00%
+- 1s - test_Loss: 507.8028 - test_Acc: 4.98%
+* Epoch 141/300
+- 2s - train_Loss: 122.8665 - train_Acc: 4.99%
+- 1s - test_Loss: 24.8516 - test_Acc: 2.99%
+* Epoch 161/300
+- 2s - train_Loss: 93.3755 - train_Acc: 2.87%
+- 1s - test_Loss: 57.1649 - test_Acc: 3.98%
+* Epoch 181/300
+- 2s - train_Loss: 141.5386 - train_Acc: 3.37%
+- 1s - test_Loss: 63.0298 - test_Acc: 2.49%
+* Epoch 201/300
+- 2s - train_Loss: 85.0842 - train_Acc: 3.87%
+- 1s - test_Loss: 51.1933 - test_Acc: 5.47%
+* Epoch 221/300
+- 2s - train_Loss: 41.8176 - train_Acc: 2.87%
+- 1s - test_Loss: 89.1420 - test_Acc: 3.98%
+* Epoch 241/300
+- 2s - train_Loss: 63.1151 - train_Acc: 2.87%
+- 1s - test_Loss: 39.3922 - test_Acc: 4.48%
+* Epoch 261/300
+- 2s - train_Loss: 28.9993 - train_Acc: 3.00%
+- 1s - test_Loss: 24.4629 - test_Acc: 2.99%
+* Epoch 281/300
+- 2s - train_Loss: 34.7648 - train_Acc: 4.24%
+- 1s - test_Loss: 25.9145 - test_Acc: 1.99%
+dataset: FGNET, loss_fn: UnimodalNet, non_pre_weighted
+batch_size: 4, lr: 0.0001, epochs: 300
+time: 788.00s, model: resnet18_GaussianFC_weights
+lamda: 5.0
+batch_size: 4
+Running: dataset=FGNET, loss=UnimodalNet_absdistance, model=resnet18, lr=1e-3, lamda=5
+FGNET train: 801 images, 62 age classes
+FGNET test: 201 images, 45 age classes
+* Epoch 1/300
+- 2s - train_Loss: 16.0265 - train_Acc: 4.00%
+- 1s - test_Loss: 13.4720 - test_Acc: 6.47%
+* Epoch 21/300
+- 2s - train_Loss: 11.0918 - train_Acc: 3.75%
+- 1s - test_Loss: 10.8959 - test_Acc: 6.47%
+* Epoch 41/300
+- 2s - train_Loss: 11.1205 - train_Acc: 4.24%
+- 1s - test_Loss: 10.7203 - test_Acc: 7.46%
+* Epoch 61/300
+- 2s - train_Loss: 10.6367 - train_Acc: 4.37%
+- 1s - test_Loss: 10.4562 - test_Acc: 7.46%
+* Epoch 81/300
+- 2s - train_Loss: 10.3021 - train_Acc: 4.87%
+- 1s - test_Loss: 10.4841 - test_Acc: 6.97%
+* Epoch 101/300
+- 2s - train_Loss: 10.1513 - train_Acc: 4.37%
+- 1s - test_Loss: 9.7697 - test_Acc: 6.47%
+* Epoch 121/300
+- 2s - train_Loss: 9.8642 - train_Acc: 4.87%
+- 1s - test_Loss: 9.6200 - test_Acc: 7.46%
+* Epoch 141/300
+- 2s - train_Loss: 9.5247 - train_Acc: 5.87%
+- 1s - test_Loss: 9.2064 - test_Acc: 6.47%
+* Epoch 161/300
+- 2s - train_Loss: 9.5114 - train_Acc: 7.49%
+- 1s - test_Loss: 9.4091 - test_Acc: 6.47%
+* Epoch 181/300
+- 2s - train_Loss: 9.2023 - train_Acc: 5.74%
+- 1s - test_Loss: 9.5257 - test_Acc: 7.96%
+* Epoch 201/300
+- 2s - train_Loss: 8.7779 - train_Acc: 6.12%
+- 1s - test_Loss: 9.2116 - test_Acc: 6.97%
+* Epoch 221/300
+- 2s - train_Loss: 8.9527 - train_Acc: 6.74%
+- 1s - test_Loss: 9.8833 - test_Acc: 8.46%
+* Epoch 241/300
+- 2s - train_Loss: 8.3876 - train_Acc: 5.87%
+- 1s - test_Loss: 9.7409 - test_Acc: 6.97%
+* Epoch 261/300
+- 2s - train_Loss: 8.5615 - train_Acc: 7.49%
+- 1s - test_Loss: 9.8267 - test_Acc: 6.97%
+* Epoch 281/300
+- 2s - train_Loss: 7.8172 - train_Acc: 6.87%
+- 1s - test_Loss: 9.6033 - test_Acc: 8.46%
+dataset: FGNET, loss_fn: UnimodalNet_absdistance, non_pre_weighted
+batch_size: 4, lr: 0.001, epochs: 300
+time: 784.23s, model: resnet18
+lamda: 5.0
+batch_size: 4
+Running: dataset=FGNET, loss=UnimodalNet_absdistance, model=resnet18, lr=5e-4, lamda=5
+FGNET train: 801 images, 62 age classes
+FGNET test: 201 images, 45 age classes
+* Epoch 1/300
+- 2s - train_Loss: 17.6921 - train_Acc: 3.75%
+- 1s - test_Loss: 12.2554 - test_Acc: 6.47%
+* Epoch 21/300
+- 2s - train_Loss: 11.1910 - train_Acc: 3.87%
+- 1s - test_Loss: 10.8838 - test_Acc: 6.47%
+* Epoch 41/300
+- 2s - train_Loss: 10.5128 - train_Acc: 4.37%
+- 1s - test_Loss: 11.0165 - test_Acc: 6.47%
+* Epoch 61/300
+- 2s - train_Loss: 10.2363 - train_Acc: 4.37%
+- 1s - test_Loss: 9.8914 - test_Acc: 6.47%
+* Epoch 81/300
+- 2s - train_Loss: 10.1308 - train_Acc: 4.24%
+- 1s - test_Loss: 9.9543 - test_Acc: 6.97%
+* Epoch 101/300
+- 2s - train_Loss: 9.7226 - train_Acc: 5.37%
+- 1s - test_Loss: 9.4590 - test_Acc: 8.46%
+* Epoch 121/300
+- 2s - train_Loss: 9.6092 - train_Acc: 5.12%
+- 1s - test_Loss: 9.2706 - test_Acc: 6.97%
+* Epoch 141/300
+- 2s - train_Loss: 9.2921 - train_Acc: 4.74%
+- 1s - test_Loss: 9.2754 - test_Acc: 6.97%
+* Epoch 161/300
+- 2s - train_Loss: 9.2087 - train_Acc: 5.87%
+- 1s - test_Loss: 9.0915 - test_Acc: 8.46%
+* Epoch 181/300
+- 2s - train_Loss: 8.8971 - train_Acc: 5.74%
+- 1s - test_Loss: 9.1084 - test_Acc: 7.46%
+* Epoch 201/300
+- 2s - train_Loss: 8.3928 - train_Acc: 5.74%
+- 1s - test_Loss: 9.5352 - test_Acc: 7.46%
+* Epoch 221/300
+- 2s - train_Loss: 8.4431 - train_Acc: 5.37%
+- 1s - test_Loss: 9.8556 - test_Acc: 7.46%
+* Epoch 241/300
+- 2s - train_Loss: 8.0344 - train_Acc: 5.37%
+- 1s - test_Loss: 9.7445 - test_Acc: 8.46%
+* Epoch 261/300
+- 2s - train_Loss: 7.8290 - train_Acc: 5.87%
+- 1s - test_Loss: 9.3904 - test_Acc: 6.97%
+* Epoch 281/300
+- 2s - train_Loss: 7.9254 - train_Acc: 6.74%
+- 1s - test_Loss: 9.7553 - test_Acc: 7.46%
+dataset: FGNET, loss_fn: UnimodalNet_absdistance, non_pre_weighted
+batch_size: 4, lr: 0.0005, epochs: 300
+time: 783.08s, model: resnet18
+lamda: 5.0
+batch_size: 4
+Running: dataset=FGNET, loss=UnimodalNet_absdistance, model=resnet18, lr=1e-4, lamda=5
+FGNET train: 801 images, 62 age classes
+FGNET test: 201 images, 45 age classes
+* Epoch 1/300
+- 2s - train_Loss: 29.5904 - train_Acc: 3.75%
+- 1s - test_Loss: 17.3259 - test_Acc: 6.97%
+* Epoch 21/300
+- 2s - train_Loss: 11.0797 - train_Acc: 3.87%
+- 1s - test_Loss: 10.8469 - test_Acc: 5.97%
+* Epoch 41/300
+- 2s - train_Loss: 10.3478 - train_Acc: 3.87%
+- 1s - test_Loss: 10.4922 - test_Acc: 6.47%
+* Epoch 61/300
+- 2s - train_Loss: 9.8654 - train_Acc: 5.12%
+- 1s - test_Loss: 9.7554 - test_Acc: 6.47%
+* Epoch 81/300
+- 2s - train_Loss: 9.3860 - train_Acc: 4.37%
+- 1s - test_Loss: 9.2527 - test_Acc: 7.96%
+* Epoch 101/300
+- 2s - train_Loss: 9.3763 - train_Acc: 4.12%
+- 1s - test_Loss: 9.9609 - test_Acc: 6.47%
+* Epoch 121/300
+- 2s - train_Loss: 8.7803 - train_Acc: 5.24%
+- 1s - test_Loss: 9.3653 - test_Acc: 6.97%
+* Epoch 141/300
+- 2s - train_Loss: 8.3350 - train_Acc: 5.12%
+- 1s - test_Loss: 9.2920 - test_Acc: 6.97%
+* Epoch 161/300
+- 2s - train_Loss: 8.1667 - train_Acc: 4.99%
+- 1s - test_Loss: 9.6461 - test_Acc: 7.46%
+* Epoch 181/300
+- 2s - train_Loss: 8.0431 - train_Acc: 4.24%
+- 1s - test_Loss: 10.3414 - test_Acc: 6.97%
+* Epoch 201/300
+- 2s - train_Loss: 8.1384 - train_Acc: 5.24%
+- 1s - test_Loss: 9.7713 - test_Acc: 6.47%
+* Epoch 221/300
+- 2s - train_Loss: 7.5884 - train_Acc: 7.12%
+- 1s - test_Loss: 9.8492 - test_Acc: 7.46%
+* Epoch 241/300
+- 2s - train_Loss: 8.0014 - train_Acc: 6.37%
+- 1s - test_Loss: 10.2879 - test_Acc: 7.96%
+* Epoch 261/300
+- 2s - train_Loss: 7.2045 - train_Acc: 8.11%
+- 1s - test_Loss: 10.2424 - test_Acc: 8.46%
+* Epoch 281/300
+- 2s - train_Loss: 6.8866 - train_Acc: 8.74%
+- 1s - test_Loss: 9.4785 - test_Acc: 6.47%
+dataset: FGNET, loss_fn: UnimodalNet_absdistance, non_pre_weighted
+batch_size: 4, lr: 0.0001, epochs: 300
+time: 784.32s, model: resnet18
+lamda: 5.0
+batch_size: 4
+Running: dataset=FGNET, loss=UnimodalNet_absdistance, model=resnet18_GaussianFC, lr=1e-3, lamda=5
+FGNET train: 801 images, 62 age classes
+FGNET test: 201 images, 45 age classes
+* Epoch 1/300
+- 2s - train_Loss: 2566.1117 - train_Acc: 2.50%
+- 1s - test_Loss: 93445.4821 - test_Acc: 0.00%
+* Epoch 21/300
+- 2s - train_Loss: 77.7452 - train_Acc: 2.75%
+- 1s - test_Loss: 45.4475 - test_Acc: 3.48%
+* Epoch 41/300
+- 2s - train_Loss: 69.2447 - train_Acc: 3.75%
+- 1s - test_Loss: 49.6977 - test_Acc: 1.99%
+* Epoch 61/300
+- 2s - train_Loss: 54.8451 - train_Acc: 3.62%
+- 1s - test_Loss: 41.8198 - test_Acc: 6.47%
+* Epoch 81/300
+- 2s - train_Loss: 38.7674 - train_Acc: 3.75%
+- 1s - test_Loss: 40.3799 - test_Acc: 6.47%
+* Epoch 101/300
+- 2s - train_Loss: 38.8827 - train_Acc: 3.75%
+- 1s - test_Loss: 39.4044 - test_Acc: 6.47%
+* Epoch 121/300
+- 2s - train_Loss: 36.7822 - train_Acc: 3.75%
+- 1s - test_Loss: 38.2888 - test_Acc: 6.47%
+* Epoch 141/300
+- 2s - train_Loss: 36.1403 - train_Acc: 3.75%
+- 1s - test_Loss: 37.2381 - test_Acc: 6.47%
+* Epoch 161/300
+- 2s - train_Loss: 36.4069 - train_Acc: 3.75%
+- 1s - test_Loss: 35.5332 - test_Acc: 6.47%
+* Epoch 181/300
+- 2s - train_Loss: 32.8542 - train_Acc: 3.75%
+- 1s - test_Loss: 34.5067 - test_Acc: 6.47%
+* Epoch 201/300
+- 2s - train_Loss: 32.9018 - train_Acc: 3.75%
+- 1s - test_Loss: 33.5604 - test_Acc: 6.47%
+* Epoch 221/300
+- 2s - train_Loss: 31.2396 - train_Acc: 3.75%
+- 1s - test_Loss: 32.5655 - test_Acc: 6.47%
+* Epoch 241/300
+- 2s - train_Loss: 31.2345 - train_Acc: 3.75%
+- 1s - test_Loss: 31.5939 - test_Acc: 6.47%
+* Epoch 261/300
+- 2s - train_Loss: 30.2239 - train_Acc: 3.75%
+- 1s - test_Loss: 30.4326 - test_Acc: 6.47%
+* Epoch 281/300
+- 2s - train_Loss: 29.6770 - train_Acc: 3.75%
+- 1s - test_Loss: 30.3161 - test_Acc: 6.47%
+dataset: FGNET, loss_fn: UnimodalNet_absdistance, non_pre_weighted
+batch_size: 4, lr: 0.001, epochs: 300
+time: 788.48s, model: resnet18_GaussianFC
+lamda: 5.0
+batch_size: 4
+Running: dataset=FGNET, loss=UnimodalNet_absdistance, model=resnet18_GaussianFC, lr=5e-4, lamda=5
+FGNET train: 801 images, 62 age classes
+FGNET test: 201 images, 45 age classes
+* Epoch 1/300
+- 2s - train_Loss: 2952.2106 - train_Acc: 3.12%
+- 1s - test_Loss: 8610.4551 - test_Acc: 1.49%
+* Epoch 21/300
+- 2s - train_Loss: 53.1008 - train_Acc: 3.87%
+- 1s - test_Loss: 59.0162 - test_Acc: 4.48%
+* Epoch 41/300
+- 2s - train_Loss: 56.1000 - train_Acc: 2.87%
+- 1s - test_Loss: 45.3930 - test_Acc: 1.49%
+* Epoch 61/300
+- 2s - train_Loss: 56.3505 - train_Acc: 2.50%
+- 1s - test_Loss: 43.0460 - test_Acc: 2.49%
+* Epoch 81/300
+- 2s - train_Loss: 61.1686 - train_Acc: 3.75%
+- 1s - test_Loss: 42.4527 - test_Acc: 4.98%
+* Epoch 101/300
+- 2s - train_Loss: 41.6706 - train_Acc: 4.12%
+- 1s - test_Loss: 42.5617 - test_Acc: 5.47%
+* Epoch 121/300
+- 2s - train_Loss: 87.8924 - train_Acc: 4.12%
+- 1s - test_Loss: 41.8715 - test_Acc: 5.47%
+* Epoch 141/300
+- 2s - train_Loss: 49.8991 - train_Acc: 4.00%
+- 1s - test_Loss: 41.1927 - test_Acc: 6.47%
+* Epoch 161/300
+- 2s - train_Loss: 38.6808 - train_Acc: 3.75%
+- 1s - test_Loss: 40.5528 - test_Acc: 6.47%
+* Epoch 181/300
+- 2s - train_Loss: 40.7480 - train_Acc: 3.75%
+- 1s - test_Loss: 40.1075 - test_Acc: 6.47%
+* Epoch 201/300
+- 2s - train_Loss: 40.5528 - train_Acc: 3.75%
+- 1s - test_Loss: 39.6823 - test_Acc: 6.47%
+* Epoch 221/300
+- 2s - train_Loss: 37.7497 - train_Acc: 3.75%
+- 1s - test_Loss: 38.9285 - test_Acc: 6.47%
+* Epoch 241/300
+- 2s - train_Loss: 39.9339 - train_Acc: 3.75%
+- 1s - test_Loss: 38.8757 - test_Acc: 6.47%
+* Epoch 261/300
+- 2s - train_Loss: 37.6013 - train_Acc: 3.75%
+- 1s - test_Loss: 37.8692 - test_Acc: 6.47%
+* Epoch 281/300
+- 2s - train_Loss: 37.7450 - train_Acc: 3.75%
+- 1s - test_Loss: 37.3153 - test_Acc: 6.47%
+dataset: FGNET, loss_fn: UnimodalNet_absdistance, non_pre_weighted
+batch_size: 4, lr: 0.0005, epochs: 300
+time: 786.95s, model: resnet18_GaussianFC
+lamda: 5.0
+batch_size: 4
+Running: dataset=FGNET, loss=UnimodalNet_absdistance, model=resnet18_GaussianFC, lr=1e-4, lamda=5
+FGNET train: 801 images, 62 age classes
+FGNET test: 201 images, 45 age classes
+* Epoch 1/300
+- 2s - train_Loss: 4963.8474 - train_Acc: 1.37%
+- 1s - test_Loss: 2696.7362 - test_Acc: 1.99%
+* Epoch 21/300
+- 2s - train_Loss: 336.6095 - train_Acc: 3.75%
+- 1s - test_Loss: 369.8040 - test_Acc: 1.49%
+* Epoch 41/300
+- 2s - train_Loss: 105.0883 - train_Acc: 4.62%
+- 1s - test_Loss: 99.8396 - test_Acc: 4.98%
+* Epoch 61/300
+- 2s - train_Loss: 83.8406 - train_Acc: 4.12%
+- 1s - test_Loss: 49.9468 - test_Acc: 2.49%
+* Epoch 81/300
+- 2s - train_Loss: 95.6897 - train_Acc: 3.37%
+- 1s - test_Loss: 48.1411 - test_Acc: 2.49%
+* Epoch 101/300
+- 2s - train_Loss: 78.3187 - train_Acc: 2.75%
+- 1s - test_Loss: 71.2114 - test_Acc: 4.48%
+* Epoch 121/300
+- 2s - train_Loss: 45.9572 - train_Acc: 2.50%
+- 1s - test_Loss: 45.7161 - test_Acc: 2.49%
+* Epoch 141/300
+- 2s - train_Loss: 62.7499 - train_Acc: 2.87%
+- 1s - test_Loss: 43.6519 - test_Acc: 2.49%
+* Epoch 161/300
+- 2s - train_Loss: 89.0541 - train_Acc: 3.62%
+- 1s - test_Loss: 48.3535 - test_Acc: 2.99%
+* Epoch 181/300
+- 2s - train_Loss: 65.6655 - train_Acc: 2.87%
+- 1s - test_Loss: 43.9509 - test_Acc: 1.99%
+* Epoch 201/300
+- 2s - train_Loss: 51.6230 - train_Acc: 3.12%
+- 1s - test_Loss: 43.5361 - test_Acc: 2.49%
+* Epoch 221/300
+- 2s - train_Loss: 56.7523 - train_Acc: 2.25%
+- 1s - test_Loss: 43.1950 - test_Acc: 2.99%
+* Epoch 241/300
+- 2s - train_Loss: 42.7674 - train_Acc: 2.50%
+- 1s - test_Loss: 43.1645 - test_Acc: 2.49%
+* Epoch 261/300
+- 2s - train_Loss: 44.2123 - train_Acc: 2.50%
+- 1s - test_Loss: 43.0969 - test_Acc: 2.49%
+* Epoch 281/300
+- 2s - train_Loss: 46.9299 - train_Acc: 3.75%
+- 1s - test_Loss: 45.1291 - test_Acc: 4.98%
+dataset: FGNET, loss_fn: UnimodalNet_absdistance, non_pre_weighted
+batch_size: 4, lr: 0.0001, epochs: 300
+time: 787.10s, model: resnet18_GaussianFC
+lamda: 5.0
+batch_size: 4
+Running: dataset=FGNET, loss=UnimodalNet_absdistance, model=resnet18_weights, lr=1e-3, lamda=5
+FGNET train: 801 images, 62 age classes
+FGNET test: 201 images, 45 age classes
+* Epoch 1/300
+- 2s - train_Loss: 15.9386 - train_Acc: 4.62%
+- 1s - test_Loss: 12.0358 - test_Acc: 6.47%
+* Epoch 21/300
+- 2s - train_Loss: 10.0343 - train_Acc: 5.24%
+- 1s - test_Loss: 9.9272 - test_Acc: 7.96%
+* Epoch 41/300
+- 2s - train_Loss: 9.7240 - train_Acc: 4.12%
+- 1s - test_Loss: 8.9020 - test_Acc: 6.97%
+* Epoch 61/300
+- 2s - train_Loss: 8.9712 - train_Acc: 5.12%
+- 1s - test_Loss: 9.4291 - test_Acc: 7.96%
+* Epoch 81/300
+- 2s - train_Loss: 8.7927 - train_Acc: 5.24%
+- 1s - test_Loss: 9.2173 - test_Acc: 8.46%
+* Epoch 101/300
+- 2s - train_Loss: 8.4746 - train_Acc: 4.87%
+- 1s - test_Loss: 9.3315 - test_Acc: 6.97%
+* Epoch 121/300
+- 2s - train_Loss: 8.0363 - train_Acc: 4.87%
+- 1s - test_Loss: 8.8560 - test_Acc: 7.96%
+* Epoch 141/300
+- 2s - train_Loss: 7.7168 - train_Acc: 5.49%
+- 1s - test_Loss: 10.7235 - test_Acc: 6.47%
+* Epoch 161/300
+- 2s - train_Loss: 7.4917 - train_Acc: 5.87%
+- 1s - test_Loss: 9.4851 - test_Acc: 7.46%
+* Epoch 181/300
+- 2s - train_Loss: 7.2585 - train_Acc: 6.37%
+- 1s - test_Loss: 9.2989 - test_Acc: 8.96%
+* Epoch 201/300
+- 2s - train_Loss: 6.9002 - train_Acc: 8.24%
+- 1s - test_Loss: 9.5033 - test_Acc: 7.96%
+* Epoch 221/300
+- 2s - train_Loss: 6.8911 - train_Acc: 8.36%
+- 1s - test_Loss: 9.8621 - test_Acc: 7.96%
+* Epoch 241/300
+- 2s - train_Loss: 6.3446 - train_Acc: 13.23%
+- 1s - test_Loss: 9.8715 - test_Acc: 9.45%
+* Epoch 261/300
+- 2s - train_Loss: 5.9014 - train_Acc: 13.86%
+- 1s - test_Loss: 10.6615 - test_Acc: 7.96%
+* Epoch 281/300
+- 2s - train_Loss: 5.4700 - train_Acc: 19.85%
+- 1s - test_Loss: 10.9622 - test_Acc: 9.45%
+dataset: FGNET, loss_fn: UnimodalNet_absdistance, non_pre_weighted
+batch_size: 4, lr: 0.001, epochs: 300
+time: 783.12s, model: resnet18_weights
+lamda: 5.0
+batch_size: 4
+Running: dataset=FGNET, loss=UnimodalNet_absdistance, model=resnet18_weights, lr=5e-4, lamda=5
+FGNET train: 801 images, 62 age classes
+FGNET test: 201 images, 45 age classes
+* Epoch 1/300
+- 2s - train_Loss: 18.4603 - train_Acc: 4.12%
+- 1s - test_Loss: 13.8471 - test_Acc: 4.98%
+* Epoch 21/300
+- 2s - train_Loss: 8.7436 - train_Acc: 6.87%
+- 1s - test_Loss: 8.9236 - test_Acc: 7.46%
+* Epoch 41/300
+- 2s - train_Loss: 8.5695 - train_Acc: 6.74%
+- 1s - test_Loss: 9.5583 - test_Acc: 7.96%
+* Epoch 61/300
+- 2s - train_Loss: 8.0015 - train_Acc: 7.87%
+- 1s - test_Loss: 9.4648 - test_Acc: 8.96%
+* Epoch 81/300
+- 2s - train_Loss: 7.1601 - train_Acc: 13.23%
+- 1s - test_Loss: 9.0485 - test_Acc: 8.96%
+* Epoch 101/300
+- 2s - train_Loss: 6.5130 - train_Acc: 15.11%
+- 1s - test_Loss: 10.0092 - test_Acc: 8.46%
+* Epoch 121/300
+- 2s - train_Loss: 6.4321 - train_Acc: 18.23%
+- 1s - test_Loss: 9.8308 - test_Acc: 9.45%
+* Epoch 141/300
+- 2s - train_Loss: 5.6831 - train_Acc: 25.22%
+- 1s - test_Loss: 11.4198 - test_Acc: 8.96%
+* Epoch 161/300
+- 2s - train_Loss: 5.1508 - train_Acc: 31.71%
+- 1s - test_Loss: 11.4916 - test_Acc: 10.45%
+* Epoch 181/300
+- 2s - train_Loss: 4.6486 - train_Acc: 41.32%
+- 1s - test_Loss: 11.7648 - test_Acc: 8.46%
+* Epoch 201/300
+- 2s - train_Loss: 4.3960 - train_Acc: 48.44%
+- 1s - test_Loss: 11.2708 - test_Acc: 8.96%
+* Epoch 221/300
+- 2s - train_Loss: 3.9277 - train_Acc: 54.68%
+- 1s - test_Loss: 12.2957 - test_Acc: 10.95%
+* Epoch 241/300
+- 2s - train_Loss: 3.5493 - train_Acc: 59.18%
+- 1s - test_Loss: 13.0272 - test_Acc: 11.44%
+* Epoch 261/300
+- 2s - train_Loss: 3.2502 - train_Acc: 64.79%
+- 1s - test_Loss: 11.9429 - test_Acc: 9.95%
+* Epoch 281/300
+- 2s - train_Loss: 2.7640 - train_Acc: 67.54%
+- 1s - test_Loss: 11.2020 - test_Acc: 8.96%
+dataset: FGNET, loss_fn: UnimodalNet_absdistance, non_pre_weighted
+batch_size: 4, lr: 0.0005, epochs: 300
+time: 785.94s, model: resnet18_weights
+lamda: 5.0
+batch_size: 4
+Running: dataset=FGNET, loss=UnimodalNet_absdistance, model=resnet18_weights, lr=1e-4, lamda=5
+FGNET train: 801 images, 62 age classes
+FGNET test: 201 images, 45 age classes
+* Epoch 1/300
+- 2s - train_Loss: 33.7982 - train_Acc: 4.00%
+- 1s - test_Loss: 22.7449 - test_Acc: 6.97%
+* Epoch 21/300
+- 2s - train_Loss: 8.3785 - train_Acc: 4.74%
+- 1s - test_Loss: 8.6616 - test_Acc: 6.97%
+* Epoch 41/300
+- 2s - train_Loss: 6.9959 - train_Acc: 9.74%
+- 1s - test_Loss: 9.5730 - test_Acc: 6.97%
+* Epoch 61/300
+- 2s - train_Loss: 5.9392 - train_Acc: 20.97%
+- 1s - test_Loss: 9.2860 - test_Acc: 8.46%
+* Epoch 81/300
+- 2s - train_Loss: 5.7772 - train_Acc: 31.84%
+- 1s - test_Loss: 10.3495 - test_Acc: 8.46%
+* Epoch 101/300
+- 2s - train_Loss: 4.5895 - train_Acc: 45.69%
+- 1s - test_Loss: 10.9739 - test_Acc: 9.45%
+* Epoch 121/300
+- 2s - train_Loss: 3.7911 - train_Acc: 56.68%
+- 1s - test_Loss: 10.0161 - test_Acc: 7.96%
+* Epoch 141/300
+- 2s - train_Loss: 3.1440 - train_Acc: 67.04%
+- 1s - test_Loss: 10.7576 - test_Acc: 7.96%
+* Epoch 161/300
+- 2s - train_Loss: 2.7485 - train_Acc: 71.91%
+- 1s - test_Loss: 11.3402 - test_Acc: 9.45%
+* Epoch 181/300
+- 2s - train_Loss: 2.3551 - train_Acc: 78.03%
+- 1s - test_Loss: 11.1427 - test_Acc: 10.45%
+* Epoch 201/300
+- 2s - train_Loss: 2.3552 - train_Acc: 79.28%
+- 1s - test_Loss: 11.0232 - test_Acc: 11.94%
+* Epoch 221/300
+- 2s - train_Loss: 2.3553 - train_Acc: 78.65%
+- 1s - test_Loss: 10.9359 - test_Acc: 7.96%
+* Epoch 241/300
+- 2s - train_Loss: 2.0975 - train_Acc: 82.27%
+- 1s - test_Loss: 10.6857 - test_Acc: 10.95%
+* Epoch 261/300
+- 2s - train_Loss: 1.8143 - train_Acc: 83.65%
+- 1s - test_Loss: 10.7004 - test_Acc: 9.95%
+* Epoch 281/300
+- 2s - train_Loss: 1.6102 - train_Acc: 87.27%
+- 1s - test_Loss: 10.9301 - test_Acc: 11.94%
+dataset: FGNET, loss_fn: UnimodalNet_absdistance, non_pre_weighted
+batch_size: 4, lr: 0.0001, epochs: 300
+time: 786.10s, model: resnet18_weights
+lamda: 5.0
+batch_size: 4
+Running: dataset=FGNET, loss=UnimodalNet_absdistance, model=resnet18_GaussianFC_weights, lr=1e-3, lamda=5
+FGNET train: 801 images, 62 age classes
+FGNET test: 201 images, 45 age classes
+* Epoch 1/300
+- 2s - train_Loss: 4898.0983 - train_Acc: 2.50%
+- 1s - test_Loss: 1741633.5179 - test_Acc: 0.00%
+* Epoch 21/300
+- 2s - train_Loss: 147.5608 - train_Acc: 4.87%
+- 1s - test_Loss: 538.1601 - test_Acc: 0.50%
+* Epoch 41/300
+- 2s - train_Loss: 70.2765 - train_Acc: 3.62%
+- 1s - test_Loss: 61.1858 - test_Acc: 4.48%
+* Epoch 61/300
+- 2s - train_Loss: 52.7070 - train_Acc: 3.12%
+- 1s - test_Loss: 56.7455 - test_Acc: 3.98%
+* Epoch 81/300
+- 2s - train_Loss: 58.2916 - train_Acc: 2.50%
+- 1s - test_Loss: 42.7021 - test_Acc: 2.49%
+* Epoch 101/300
+- 2s - train_Loss: 47.6381 - train_Acc: 4.12%
+- 1s - test_Loss: 41.6805 - test_Acc: 6.47%
+* Epoch 121/300
+- 2s - train_Loss: 40.1697 - train_Acc: 3.75%
+- 1s - test_Loss: 40.1069 - test_Acc: 6.47%
+* Epoch 141/300
+- 2s - train_Loss: 24.8252 - train_Acc: 3.75%
+- 1s - test_Loss: 26.1367 - test_Acc: 6.47%
+* Epoch 161/300
+- 2s - train_Loss: 19.0135 - train_Acc: 3.75%
+- 1s - test_Loss: 20.4403 - test_Acc: 6.47%
+* Epoch 181/300
+- 2s - train_Loss: 16.4400 - train_Acc: 3.75%
+- 1s - test_Loss: 17.7669 - test_Acc: 6.47%
+* Epoch 201/300
+- 2s - train_Loss: 103.1263 - train_Acc: 3.75%
+- 1s - test_Loss: 159.1873 - test_Acc: 0.50%
+* Epoch 221/300
+- 2s - train_Loss: 14.5322 - train_Acc: 3.75%
+- 1s - test_Loss: 15.0636 - test_Acc: 6.47%
+* Epoch 241/300
+- 2s - train_Loss: 13.8477 - train_Acc: 3.75%
+- 1s - test_Loss: 14.5884 - test_Acc: 6.47%
+* Epoch 261/300
+- 2s - train_Loss: 13.4333 - train_Acc: 3.75%
+- 1s - test_Loss: 14.0636 - test_Acc: 6.47%
+* Epoch 281/300
+- 2s - train_Loss: 12.9612 - train_Acc: 3.75%
+- 1s - test_Loss: 13.6424 - test_Acc: 6.47%
+dataset: FGNET, loss_fn: UnimodalNet_absdistance, non_pre_weighted
+batch_size: 4, lr: 0.001, epochs: 300
+time: 787.30s, model: resnet18_GaussianFC_weights
+lamda: 5.0
+batch_size: 4
+Running: dataset=FGNET, loss=UnimodalNet_absdistance, model=resnet18_GaussianFC_weights, lr=5e-4, lamda=5
+FGNET train: 801 images, 62 age classes
+FGNET test: 201 images, 45 age classes
+* Epoch 1/300
+- 2s - train_Loss: 5569.3674 - train_Acc: 2.37%
+- 1s - test_Loss: 115424.3052 - test_Acc: 1.99%
+* Epoch 21/300
+- 2s - train_Loss: 838.5297 - train_Acc: 3.62%
+- 1s - test_Loss: 597.0816 - test_Acc: 4.48%
+* Epoch 41/300
+- 2s - train_Loss: 111.0956 - train_Acc: 4.37%
+- 1s - test_Loss: 113.2662 - test_Acc: 2.99%
+* Epoch 61/300
+- 2s - train_Loss: 207.1475 - train_Acc: 4.37%
+- 1s - test_Loss: 137.2747 - test_Acc: 5.47%
+* Epoch 81/300
+- 2s - train_Loss: 54.1652 - train_Acc: 2.62%
+- 1s - test_Loss: 44.2597 - test_Acc: 2.99%
+* Epoch 101/300
+- 2s - train_Loss: 52.3644 - train_Acc: 2.12%
+- 1s - test_Loss: 44.4522 - test_Acc: 2.99%
+* Epoch 121/300
+- 2s - train_Loss: 45.7943 - train_Acc: 4.00%
+- 1s - test_Loss: 44.1401 - test_Acc: 5.97%
+* Epoch 141/300
+- 2s - train_Loss: 45.5347 - train_Acc: 3.75%
+- 1s - test_Loss: 42.6886 - test_Acc: 5.47%
+* Epoch 161/300
+- 2s - train_Loss: 41.6578 - train_Acc: 3.75%
+- 1s - test_Loss: 42.0273 - test_Acc: 5.97%
+* Epoch 181/300
+- 2s - train_Loss: 40.9615 - train_Acc: 3.87%
+- 1s - test_Loss: 40.9909 - test_Acc: 6.47%
+* Epoch 201/300
+- 2s - train_Loss: 39.1561 - train_Acc: 3.75%
+- 1s - test_Loss: 40.3671 - test_Acc: 6.47%
+* Epoch 221/300
+- 2s - train_Loss: 39.5784 - train_Acc: 3.75%
+- 1s - test_Loss: 39.5252 - test_Acc: 6.47%
+* Epoch 241/300
+- 2s - train_Loss: 37.8049 - train_Acc: 3.75%
+- 1s - test_Loss: 38.8936 - test_Acc: 6.47%
+* Epoch 261/300
+- 2s - train_Loss: 38.1327 - train_Acc: 3.75%
+- 1s - test_Loss: 37.0564 - test_Acc: 6.47%
+* Epoch 281/300
+- 2s - train_Loss: 21.3796 - train_Acc: 3.75%
+- 1s - test_Loss: 21.8481 - test_Acc: 6.47%
+dataset: FGNET, loss_fn: UnimodalNet_absdistance, non_pre_weighted
+batch_size: 4, lr: 0.0005, epochs: 300
+time: 786.36s, model: resnet18_GaussianFC_weights
+lamda: 5.0
+batch_size: 4
+Running: dataset=FGNET, loss=UnimodalNet_absdistance, model=resnet18_GaussianFC_weights, lr=1e-4, lamda=5
+FGNET train: 801 images, 62 age classes
+FGNET test: 201 images, 45 age classes
+* Epoch 1/300
+- 2s - train_Loss: 8696.8367 - train_Acc: 0.12%
+- 1s - test_Loss: 13503.1288 - test_Acc: 1.00%
+* Epoch 21/300
+- 2s - train_Loss: 1212.8186 - train_Acc: 3.00%
+- 1s - test_Loss: 1364.1755 - test_Acc: 5.47%
+* Epoch 41/300
+- 2s - train_Loss: 1067.7508 - train_Acc: 2.87%
+- 1s - test_Loss: 1099.1688 - test_Acc: 1.00%
+* Epoch 61/300
+- 2s - train_Loss: 817.5846 - train_Acc: 2.50%
+- 1s - test_Loss: 1761.2245 - test_Acc: 5.97%
+* Epoch 81/300
+- 2s - train_Loss: 563.2056 - train_Acc: 3.75%
+- 1s - test_Loss: 219.5333 - test_Acc: 5.97%
+* Epoch 101/300
+- 2s - train_Loss: 690.3595 - train_Acc: 3.37%
+- 1s - test_Loss: 436.5131 - test_Acc: 4.98%
+* Epoch 121/300
+- 2s - train_Loss: 435.1128 - train_Acc: 2.50%
+- 1s - test_Loss: 232.6498 - test_Acc: 3.98%
+* Epoch 141/300
+- 2s - train_Loss: 342.0101 - train_Acc: 4.49%
+- 1s - test_Loss: 797.7559 - test_Acc: 5.47%
+* Epoch 161/300
+- 2s - train_Loss: 352.0091 - train_Acc: 4.24%
+- 1s - test_Loss: 110.6330 - test_Acc: 2.49%
+* Epoch 181/300
+- 2s - train_Loss: 318.4840 - train_Acc: 3.75%
+- 1s - test_Loss: 238.0312 - test_Acc: 3.98%
+* Epoch 201/300
+- 2s - train_Loss: 269.6883 - train_Acc: 3.50%
+- 1s - test_Loss: 308.1652 - test_Acc: 3.98%
+* Epoch 221/300
+- 2s - train_Loss: 175.5698 - train_Acc: 3.25%
+- 1s - test_Loss: 161.8036 - test_Acc: 3.98%
+* Epoch 241/300
+- 2s - train_Loss: 164.0399 - train_Acc: 3.00%
+- 1s - test_Loss: 174.1725 - test_Acc: 3.98%
+* Epoch 261/300
+- 2s - train_Loss: 74.6583 - train_Acc: 3.00%
+- 1s - test_Loss: 188.8152 - test_Acc: 3.98%
+* Epoch 281/300
+- 2s - train_Loss: 187.1066 - train_Acc: 3.25%
+- 1s - test_Loss: 200.9762 - test_Acc: 3.98%
+dataset: FGNET, loss_fn: UnimodalNet_absdistance, non_pre_weighted
+batch_size: 4, lr: 0.0001, epochs: 300
+time: 788.00s, model: resnet18_GaussianFC_weights
+lamda: 5.0
+batch_size: 4

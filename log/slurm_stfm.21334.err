@@ -1,0 +1,165 @@
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 106, in <module>
+    fc_layer = GaussianFC()
+TypeError: GaussianFC.__init__() missing 2 required positional arguments: 'in_features' and 'out_features'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 106, in <module>
+    fc_layer = GaussianFC()
+TypeError: GaussianFC.__init__() missing 2 required positional arguments: 'in_features' and 'out_features'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 106, in <module>
+    fc_layer = GaussianFC()
+TypeError: GaussianFC.__init__() missing 2 required positional arguments: 'in_features' and 'out_features'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 106, in <module>
+    fc_layer = GaussianFC()
+TypeError: GaussianFC.__init__() missing 2 required positional arguments: 'in_features' and 'out_features'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 106, in <module>
+    fc_layer = GaussianFC()
+TypeError: GaussianFC.__init__() missing 2 required positional arguments: 'in_features' and 'out_features'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 106, in <module>
+    fc_layer = GaussianFC()
+TypeError: GaussianFC.__init__() missing 2 required positional arguments: 'in_features' and 'out_features'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 106, in <module>
+    fc_layer = GaussianFC()
+TypeError: GaussianFC.__init__() missing 2 required positional arguments: 'in_features' and 'out_features'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 106, in <module>
+    fc_layer = GaussianFC()
+TypeError: GaussianFC.__init__() missing 2 required positional arguments: 'in_features' and 'out_features'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 106, in <module>
+    fc_layer = GaussianFC()
+TypeError: GaussianFC.__init__() missing 2 required positional arguments: 'in_features' and 'out_features'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 106, in <module>
+    fc_layer = GaussianFC()
+TypeError: GaussianFC.__init__() missing 2 required positional arguments: 'in_features' and 'out_features'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 106, in <module>
+    fc_layer = GaussianFC()
+TypeError: GaussianFC.__init__() missing 2 required positional arguments: 'in_features' and 'out_features'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 106, in <module>
+    fc_layer = GaussianFC()
+TypeError: GaussianFC.__init__() missing 2 required positional arguments: 'in_features' and 'out_features'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 106, in <module>
+    fc_layer = GaussianFC()
+TypeError: GaussianFC.__init__() missing 2 required positional arguments: 'in_features' and 'out_features'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 106, in <module>
+    fc_layer = GaussianFC()
+TypeError: GaussianFC.__init__() missing 2 required positional arguments: 'in_features' and 'out_features'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 106, in <module>
+    fc_layer = GaussianFC()
+TypeError: GaussianFC.__init__() missing 2 required positional arguments: 'in_features' and 'out_features'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 106, in <module>
+    fc_layer = GaussianFC()
+TypeError: GaussianFC.__init__() missing 2 required positional arguments: 'in_features' and 'out_features'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 106, in <module>
+    fc_layer = GaussianFC()
+TypeError: GaussianFC.__init__() missing 2 required positional arguments: 'in_features' and 'out_features'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 106, in <module>
+    fc_layer = GaussianFC()
+TypeError: GaussianFC.__init__() missing 2 required positional arguments: 'in_features' and 'out_features'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 106, in <module>
+    fc_layer = GaussianFC()
+TypeError: GaussianFC.__init__() missing 2 required positional arguments: 'in_features' and 'out_features'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 106, in <module>
+    fc_layer = GaussianFC()
+TypeError: GaussianFC.__init__() missing 2 required positional arguments: 'in_features' and 'out_features'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 106, in <module>
+    fc_layer = GaussianFC()
+TypeError: GaussianFC.__init__() missing 2 required positional arguments: 'in_features' and 'out_features'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 106, in <module>
+    fc_layer = GaussianFC()
+TypeError: GaussianFC.__init__() missing 2 required positional arguments: 'in_features' and 'out_features'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 106, in <module>
+    fc_layer = GaussianFC()
+TypeError: GaussianFC.__init__() missing 2 required positional arguments: 'in_features' and 'out_features'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 106, in <module>
+    fc_layer = GaussianFC()
+TypeError: GaussianFC.__init__() missing 2 required positional arguments: 'in_features' and 'out_features'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 106, in <module>
+    fc_layer = GaussianFC()
+TypeError: GaussianFC.__init__() missing 2 required positional arguments: 'in_features' and 'out_features'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 106, in <module>
+    fc_layer = GaussianFC()
+TypeError: GaussianFC.__init__() missing 2 required positional arguments: 'in_features' and 'out_features'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 106, in <module>
+    fc_layer = GaussianFC()
+TypeError: GaussianFC.__init__() missing 2 required positional arguments: 'in_features' and 'out_features'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 106, in <module>
+    fc_layer = GaussianFC()
+TypeError: GaussianFC.__init__() missing 2 required positional arguments: 'in_features' and 'out_features'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 106, in <module>
+    fc_layer = GaussianFC()
+TypeError: GaussianFC.__init__() missing 2 required positional arguments: 'in_features' and 'out_features'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 106, in <module>
+    fc_layer = GaussianFC()
+TypeError: GaussianFC.__init__() missing 2 required positional arguments: 'in_features' and 'out_features'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 106, in <module>
+    fc_layer = GaussianFC()
+TypeError: GaussianFC.__init__() missing 2 required positional arguments: 'in_features' and 'out_features'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 106, in <module>
+    fc_layer = GaussianFC()
+TypeError: GaussianFC.__init__() missing 2 required positional arguments: 'in_features' and 'out_features'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 106, in <module>
+    fc_layer = GaussianFC()
+TypeError: GaussianFC.__init__() missing 2 required positional arguments: 'in_features' and 'out_features'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 106, in <module>
+    fc_layer = GaussianFC()
+TypeError: GaussianFC.__init__() missing 2 required positional arguments: 'in_features' and 'out_features'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 106, in <module>
+    fc_layer = GaussianFC()
+TypeError: GaussianFC.__init__() missing 2 required positional arguments: 'in_features' and 'out_features'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 106, in <module>
+    fc_layer = GaussianFC()
+TypeError: GaussianFC.__init__() missing 2 required positional arguments: 'in_features' and 'out_features'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 106, in <module>
+    fc_layer = GaussianFC()
+TypeError: GaussianFC.__init__() missing 2 required positional arguments: 'in_features' and 'out_features'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 106, in <module>
+    fc_layer = GaussianFC()
+TypeError: GaussianFC.__init__() missing 2 required positional arguments: 'in_features' and 'out_features'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 106, in <module>
+    fc_layer = GaussianFC()
+TypeError: GaussianFC.__init__() missing 2 required positional arguments: 'in_features' and 'out_features'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 106, in <module>
+    fc_layer = GaussianFC()
+TypeError: GaussianFC.__init__() missing 2 required positional arguments: 'in_features' and 'out_features'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 106, in <module>
+    """根据层名称返回对应的层实例"""
+TypeError: GaussianFC.__init__() missing 2 required positional arguments: 'in_features' and 'out_features'
+slurmstepd-02.ctm-deep-05: error: *** JOB 21334 ON 02.ctm-deep-05 CANCELLED AT 2025-08-27T03:17:29 ***

@@ -1,0 +1,153 @@
+Running: dataset=cifar100, loss=UnimodalNet, model=resnet18, lr=1e-3, lamda=1
+* Epoch 1/30
+- 80s - train_Loss: 4.6123 - train_Acc: 1.05%
+- 6s - test_Loss: 4.6052 - test_Acc: 1.31%
+dataset: cifar100, loss_fn: UnimodalNet, non_pre_weighted
+batch_size: 4, lr: 0.001, epochs: 30
+time: 2523.90s, model: resnet18
+lamda: 1.0
+batch_size: 4,Best_test_acc: 1.73
+
+Running: dataset=cifar100, loss=UnimodalNet, model=resnet18, lr=5e-4, lamda=1
+* Epoch 1/30
+- 80s - train_Loss: 4.6215 - train_Acc: 1.10%
+- 6s - test_Loss: 4.6051 - test_Acc: 0.87%
+dataset: cifar100, loss_fn: UnimodalNet, non_pre_weighted
+batch_size: 4, lr: 0.0005, epochs: 30
+time: 2507.43s, model: resnet18
+lamda: 1.0
+batch_size: 4,Best_test_acc: 1.67
+
+Running: dataset=cifar100, loss=UnimodalNet, model=resnet18, lr=1e-4, lamda=1
+* Epoch 1/30
+- 79s - train_Loss: 4.6722 - train_Acc: 1.57%
+- 6s - test_Loss: 4.6489 - test_Acc: 2.13%
+dataset: cifar100, loss_fn: UnimodalNet, non_pre_weighted
+batch_size: 4, lr: 0.0001, epochs: 30
+time: 2494.54s, model: resnet18
+lamda: 1.0
+batch_size: 4,Best_test_acc: 14.1
+
+Running: dataset=cifar100, loss=UnimodalNet, model=resnet18_GaussianFC, lr=1e-3, lamda=1
+* Epoch 1/30
+- 84s - train_Loss: 74.1111 - train_Acc: 0.95%
+- 6s - test_Loss: 18.5431 - test_Acc: 0.99%
+dataset: cifar100, loss_fn: UnimodalNet, non_pre_weighted
+batch_size: 4, lr: 0.001, epochs: 30
+time: 2622.81s, model: resnet18_GaussianFC
+lamda: 1.0
+batch_size: 4,Best_test_acc: 1.33
+
+Running: dataset=cifar100, loss=UnimodalNet, model=resnet18_GaussianFC, lr=5e-4, lamda=1
+* Epoch 1/30
+- 82s - train_Loss: 116.2820 - train_Acc: 0.95%
+- 6s - test_Loss: 22.1797 - test_Acc: 0.96%
+dataset: cifar100, loss_fn: UnimodalNet, non_pre_weighted
+batch_size: 4, lr: 0.0005, epochs: 30
+time: 2620.71s, model: resnet18_GaussianFC
+lamda: 1.0
+batch_size: 4,Best_test_acc: 1.23
+
+Running: dataset=cifar100, loss=UnimodalNet, model=resnet18_GaussianFC, lr=1e-4, lamda=1
+* Epoch 1/30
+- 82s - train_Loss: 440.7686 - train_Acc: 1.09%
+- 6s - test_Loss: 102.5132 - test_Acc: 0.93%
+dataset: cifar100, loss_fn: UnimodalNet, non_pre_weighted
+batch_size: 4, lr: 0.0001, epochs: 30
+time: 2616.99s, model: resnet18_GaussianFC
+lamda: 1.0
+batch_size: 4,Best_test_acc: 1.85
+
+Running: dataset=cifar100, loss=UnimodalNet, model=resnet18_weights, lr=1e-3, lamda=1
+* Epoch 1/300
+- 79s - train_Loss: 4.6130 - train_Acc: 1.19%
+- 5s - test_Loss: 4.6052 - test_Acc: 1.13%
+* Epoch 31/300
+- 78s - train_Loss: 4.6052 - train_Acc: 1.07%
+- 6s - test_Loss: 4.6052 - test_Acc: 0.89%
+* Epoch 61/300
+- 79s - train_Loss: 4.6052 - train_Acc: 1.19%
+- 5s - test_Loss: 4.6052 - test_Acc: 1.41%
+* Epoch 91/300
+- 79s - train_Loss: 4.6052 - train_Acc: 0.91%
+- 6s - test_Loss: 4.6052 - test_Acc: 1.12%
+* Epoch 121/300
+- 77s - train_Loss: 4.6052 - train_Acc: 1.08%
+- 6s - test_Loss: 4.6052 - test_Acc: 1.07%
+* Epoch 151/300
+- 81s - train_Loss: 4.6052 - train_Acc: 0.86%
+- 6s - test_Loss: 4.6052 - test_Acc: 0.72%
+* Epoch 181/300
+- 81s - train_Loss: 4.6052 - train_Acc: 1.15%
+- 6s - test_Loss: 4.6052 - test_Acc: 0.78%
+* Epoch 211/300
+- 80s - train_Loss: 4.6052 - train_Acc: 0.92%
+- 6s - test_Loss: 4.6052 - test_Acc: 0.71%
+* Epoch 241/300
+- 80s - train_Loss: 4.6052 - train_Acc: 1.26%
+- 6s - test_Loss: 4.6052 - test_Acc: 1.04%
+* Epoch 271/300
+- 81s - train_Loss: 4.6052 - train_Acc: 1.31%
+- 6s - test_Loss: 4.6052 - test_Acc: 0.98%
+dataset: cifar100, loss_fn: UnimodalNet, non_pre_weighted
+batch_size: 4, lr: 0.001, epochs: 300
+time: 25454.93s, model: resnet18_weights
+lamda: 1.0
+batch_size: 4,Best_test_acc: 1.69
+
+Running: dataset=cifar100, loss=UnimodalNet, model=resnet18_weights, lr=5e-4, lamda=1
+* Epoch 1/300
+- 80s - train_Loss: 4.6225 - train_Acc: 1.22%
+- 6s - test_Loss: 4.6052 - test_Acc: 0.95%
+* Epoch 31/300
+- 80s - train_Loss: 4.6052 - train_Acc: 1.04%
+- 6s - test_Loss: 4.6052 - test_Acc: 1.09%
+* Epoch 61/300
+- 80s - train_Loss: 4.6052 - train_Acc: 1.23%
+- 6s - test_Loss: 4.6052 - test_Acc: 1.26%
+* Epoch 91/300
+- 80s - train_Loss: 4.4817 - train_Acc: 4.96%
+- 6s - test_Loss: 4.4703 - test_Acc: 5.81%
+* Epoch 121/300
+- 80s - train_Loss: 4.3511 - train_Acc: 8.99%
+- 6s - test_Loss: 4.3267 - test_Acc: 11.17%
+* Epoch 151/300
+- 80s - train_Loss: 4.2658 - train_Acc: 10.49%
+- 6s - test_Loss: 4.4254 - test_Acc: 12.34%
+* Epoch 181/300
+- 81s - train_Loss: 4.1885 - train_Acc: 12.32%
+- 6s - test_Loss: 4.2243 - test_Acc: 13.94%
+* Epoch 211/300
+- 80s - train_Loss: 4.1236 - train_Acc: 13.78%
+- 6s - test_Loss: 4.1902 - test_Acc: 14.18%
+* Epoch 241/300
+- 81s - train_Loss: 4.0753 - train_Acc: 14.61%
+- 6s - test_Loss: 4.1161 - test_Acc: 16.05%
+* Epoch 271/300
+- 80s - train_Loss: 3.9760 - train_Acc: 16.70%
+- 6s - test_Loss: 4.0950 - test_Acc: 16.84%
+dataset: cifar100, loss_fn: UnimodalNet, non_pre_weighted
+batch_size: 4, lr: 0.0005, epochs: 300
+time: 25686.94s, model: resnet18_weights
+lamda: 1.0
+batch_size: 4,Best_test_acc: 19.3
+
+Running: dataset=cifar100, loss=UnimodalNet, model=resnet18_weights, lr=1e-4, lamda=1
+* Epoch 1/300
+- 80s - train_Loss: 4.6616 - train_Acc: 2.44%
+- 6s - test_Loss: 5.1451 - test_Acc: 3.08%
+* Epoch 31/300
+- 81s - train_Loss: 4.0055 - train_Acc: 16.87%
+- 6s - test_Loss: 5.7954 - test_Acc: 14.94%
+* Epoch 61/300
+- 81s - train_Loss: 3.7055 - train_Acc: 23.37%
+- 6s - test_Loss: 6.6052 - test_Acc: 20.64%
+* Epoch 91/300
+- 79s - train_Loss: 3.5127 - train_Acc: 27.96%
+- 6s - test_Loss: 5.3675 - test_Acc: 25.26%
+* Epoch 121/300
+- 86s - train_Loss: 3.3959 - train_Acc: 30.13%
+- 6s - test_Loss: 4.6340 - test_Acc: 28.34%
+* Epoch 151/300
+- 86s - train_Loss: 3.3200 - train_Acc: 31.20%
+- 6s - test_Loss: 4.9467 - test_Acc: 29.17%

@@ -1,0 +1,25 @@
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 201, in <module>
+    model.fc = get_fc_layer(args.use_leaky_gaussianfc,  512, num_classes, args.fc_layer_name)
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 152, in get_fc_layer
+    gaussian_layer = create_layer_instance(layer_class, out_features, out_features)
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 132, in create_layer_instance
+    if layer_name in layers_with_learnable_params and learnable_params is not None:
+NameError: name 'learnable_params' is not defined
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 201, in <module>
+    model.fc = get_fc_layer(args.use_leaky_gaussianfc,  512, num_classes, args.fc_layer_name)
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 152, in get_fc_layer
+    gaussian_layer = create_layer_instance(layer_class, out_features, out_features)
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 132, in create_layer_instance
+    if layer_name in layers_with_learnable_params and learnable_params is not None:
+NameError: name 'learnable_params' is not defined
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 201, in <module>
+    model.fc = get_fc_layer(args.use_leaky_gaussianfc,  512, num_classes, args.fc_layer_name)
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 152, in get_fc_layer
+    gaussian_layer = create_layer_instance(layer_class, out_features, out_features)
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 132, in create_layer_instance
+    if layer_name in layers_with_learnable_params and learnable_params is not None:
+NameError: name 'learnable_params' is not defined
+slurmstepd-02.ctm-deep-05: error: *** JOB 21548 ON 02.ctm-deep-05 CANCELLED AT 2025-08-28T19:14:14 ***

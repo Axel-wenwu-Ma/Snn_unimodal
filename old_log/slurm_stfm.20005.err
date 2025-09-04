@@ -1,0 +1,432 @@
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 12, in <module>
+    from model import GaussianFC
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/model.py", line 3, in <module>
+    import snntorch as snn
+ModuleNotFoundError: No module named 'snntorch'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 12, in <module>
+    from model import GaussianFC
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/model.py", line 3, in <module>
+    import snntorch as snn
+ModuleNotFoundError: No module named 'snntorch'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 12, in <module>
+    from model import GaussianFC
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/model.py", line 3, in <module>
+    import snntorch as snn
+ModuleNotFoundError: No module named 'snntorch'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 12, in <module>
+    from model import GaussianFC
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/model.py", line 3, in <module>
+    import snntorch as snn
+ModuleNotFoundError: No module named 'snntorch'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 12, in <module>
+    from model import GaussianFC
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/model.py", line 3, in <module>
+    import snntorch as snn
+ModuleNotFoundError: No module named 'snntorch'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 12, in <module>
+    from model import GaussianFC
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/model.py", line 3, in <module>
+    import snntorch as snn
+ModuleNotFoundError: No module named 'snntorch'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 12, in <module>
+    from model import GaussianFC
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/model.py", line 3, in <module>
+    import snntorch as snn
+ModuleNotFoundError: No module named 'snntorch'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 12, in <module>
+    from model import GaussianFC
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/model.py", line 3, in <module>
+    import snntorch as snn
+ModuleNotFoundError: No module named 'snntorch'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 12, in <module>
+    from model import GaussianFC
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/model.py", line 3, in <module>
+    import snntorch as snn
+ModuleNotFoundError: No module named 'snntorch'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 12, in <module>
+    from model import GaussianFC
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/model.py", line 3, in <module>
+    import snntorch as snn
+ModuleNotFoundError: No module named 'snntorch'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 12, in <module>
+    from model import GaussianFC
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/model.py", line 3, in <module>
+    import snntorch as snn
+ModuleNotFoundError: No module named 'snntorch'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 12, in <module>
+    from model import GaussianFC
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/model.py", line 3, in <module>
+    import snntorch as snn
+ModuleNotFoundError: No module named 'snntorch'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 12, in <module>
+    from model import GaussianFC
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/model.py", line 3, in <module>
+    import snntorch as snn
+ModuleNotFoundError: No module named 'snntorch'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 12, in <module>
+    from model import GaussianFC
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/model.py", line 3, in <module>
+    import snntorch as snn
+ModuleNotFoundError: No module named 'snntorch'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 12, in <module>
+    from model import GaussianFC
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/model.py", line 3, in <module>
+    import snntorch as snn
+ModuleNotFoundError: No module named 'snntorch'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 12, in <module>
+    from model import GaussianFC
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/model.py", line 3, in <module>
+    import snntorch as snn
+ModuleNotFoundError: No module named 'snntorch'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 12, in <module>
+    from model import GaussianFC
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/model.py", line 3, in <module>
+    import snntorch as snn
+ModuleNotFoundError: No module named 'snntorch'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 12, in <module>
+    from model import GaussianFC
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/model.py", line 3, in <module>
+    import snntorch as snn
+ModuleNotFoundError: No module named 'snntorch'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 12, in <module>
+    from model import GaussianFC
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/model.py", line 3, in <module>
+    import snntorch as snn
+ModuleNotFoundError: No module named 'snntorch'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 12, in <module>
+    from model import GaussianFC
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/model.py", line 3, in <module>
+    import snntorch as snn
+ModuleNotFoundError: No module named 'snntorch'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 12, in <module>
+    from model import GaussianFC
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/model.py", line 3, in <module>
+    import snntorch as snn
+ModuleNotFoundError: No module named 'snntorch'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 12, in <module>
+    from model import GaussianFC
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/model.py", line 3, in <module>
+    import snntorch as snn
+ModuleNotFoundError: No module named 'snntorch'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 12, in <module>
+    from model import GaussianFC
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/model.py", line 3, in <module>
+    import snntorch as snn
+ModuleNotFoundError: No module named 'snntorch'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 12, in <module>
+    from model import GaussianFC
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/model.py", line 3, in <module>
+    import snntorch as snn
+ModuleNotFoundError: No module named 'snntorch'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 12, in <module>
+    from model import GaussianFC
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/model.py", line 3, in <module>
+    import snntorch as snn
+ModuleNotFoundError: No module named 'snntorch'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 12, in <module>
+    from model import GaussianFC
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/model.py", line 3, in <module>
+    import snntorch as snn
+ModuleNotFoundError: No module named 'snntorch'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 12, in <module>
+    from model import GaussianFC
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/model.py", line 3, in <module>
+    import snntorch as snn
+ModuleNotFoundError: No module named 'snntorch'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 12, in <module>
+    from model import GaussianFC
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/model.py", line 3, in <module>
+    import snntorch as snn
+ModuleNotFoundError: No module named 'snntorch'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 12, in <module>
+    from model import GaussianFC
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/model.py", line 3, in <module>
+    import snntorch as snn
+ModuleNotFoundError: No module named 'snntorch'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 12, in <module>
+    from model import GaussianFC
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/model.py", line 3, in <module>
+    import snntorch as snn
+ModuleNotFoundError: No module named 'snntorch'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 12, in <module>
+    from model import GaussianFC
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/model.py", line 3, in <module>
+    import snntorch as snn
+ModuleNotFoundError: No module named 'snntorch'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 12, in <module>
+    from model import GaussianFC
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/model.py", line 3, in <module>
+    import snntorch as snn
+ModuleNotFoundError: No module named 'snntorch'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 12, in <module>
+    from model import GaussianFC
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/model.py", line 3, in <module>
+    import snntorch as snn
+ModuleNotFoundError: No module named 'snntorch'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 12, in <module>
+    from model import GaussianFC
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/model.py", line 3, in <module>
+    import snntorch as snn
+ModuleNotFoundError: No module named 'snntorch'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 12, in <module>
+    from model import GaussianFC
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/model.py", line 3, in <module>
+    import snntorch as snn
+ModuleNotFoundError: No module named 'snntorch'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 12, in <module>
+    from model import GaussianFC
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/model.py", line 3, in <module>
+    import snntorch as snn
+ModuleNotFoundError: No module named 'snntorch'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 12, in <module>
+    from model import GaussianFC
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/model.py", line 3, in <module>
+    import snntorch as snn
+ModuleNotFoundError: No module named 'snntorch'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 12, in <module>
+    from model import GaussianFC
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/model.py", line 3, in <module>
+    import snntorch as snn
+ModuleNotFoundError: No module named 'snntorch'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 12, in <module>
+    from model import GaussianFC
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/model.py", line 3, in <module>
+    import snntorch as snn
+ModuleNotFoundError: No module named 'snntorch'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 12, in <module>
+    from model import GaussianFC
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/model.py", line 3, in <module>
+    import snntorch as snn
+ModuleNotFoundError: No module named 'snntorch'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 12, in <module>
+    from model import GaussianFC
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/model.py", line 3, in <module>
+    import snntorch as snn
+ModuleNotFoundError: No module named 'snntorch'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 12, in <module>
+    from model import GaussianFC
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/model.py", line 3, in <module>
+    import snntorch as snn
+ModuleNotFoundError: No module named 'snntorch'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 12, in <module>
+    from model import GaussianFC
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/model.py", line 3, in <module>
+    import snntorch as snn
+ModuleNotFoundError: No module named 'snntorch'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 12, in <module>
+    from model import GaussianFC
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/model.py", line 3, in <module>
+    import snntorch as snn
+ModuleNotFoundError: No module named 'snntorch'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 12, in <module>
+    from model import GaussianFC
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/model.py", line 3, in <module>
+    import snntorch as snn
+ModuleNotFoundError: No module named 'snntorch'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 12, in <module>
+    from model import GaussianFC
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/model.py", line 3, in <module>
+    import snntorch as snn
+ModuleNotFoundError: No module named 'snntorch'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 12, in <module>
+    from model import GaussianFC
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/model.py", line 3, in <module>
+    import snntorch as snn
+ModuleNotFoundError: No module named 'snntorch'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 12, in <module>
+    from model import GaussianFC
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/model.py", line 3, in <module>
+    import snntorch as snn
+ModuleNotFoundError: No module named 'snntorch'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 12, in <module>
+    from model import GaussianFC
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/model.py", line 3, in <module>
+    import snntorch as snn
+ModuleNotFoundError: No module named 'snntorch'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 12, in <module>
+    from model import GaussianFC
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/model.py", line 3, in <module>
+    import snntorch as snn
+ModuleNotFoundError: No module named 'snntorch'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 12, in <module>
+    from model import GaussianFC
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/model.py", line 3, in <module>
+    import snntorch as snn
+ModuleNotFoundError: No module named 'snntorch'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 12, in <module>
+    from model import GaussianFC
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/model.py", line 3, in <module>
+    import snntorch as snn
+ModuleNotFoundError: No module named 'snntorch'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 12, in <module>
+    from model import GaussianFC
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/model.py", line 3, in <module>
+    import snntorch as snn
+ModuleNotFoundError: No module named 'snntorch'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 12, in <module>
+    from model import GaussianFC
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/model.py", line 3, in <module>
+    import snntorch as snn
+ModuleNotFoundError: No module named 'snntorch'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 12, in <module>
+    from model import GaussianFC
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/model.py", line 3, in <module>
+    import snntorch as snn
+ModuleNotFoundError: No module named 'snntorch'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 12, in <module>
+    from model import GaussianFC
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/model.py", line 3, in <module>
+    import snntorch as snn
+ModuleNotFoundError: No module named 'snntorch'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 12, in <module>
+    from model import GaussianFC
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/model.py", line 3, in <module>
+    import snntorch as snn
+ModuleNotFoundError: No module named 'snntorch'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 12, in <module>
+    from model import GaussianFC
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/model.py", line 3, in <module>
+    import snntorch as snn
+ModuleNotFoundError: No module named 'snntorch'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 12, in <module>
+    from model import GaussianFC
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/model.py", line 3, in <module>
+    import snntorch as snn
+ModuleNotFoundError: No module named 'snntorch'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 12, in <module>
+    from model import GaussianFC
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/model.py", line 3, in <module>
+    import snntorch as snn
+ModuleNotFoundError: No module named 'snntorch'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 12, in <module>
+    from model import GaussianFC
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/model.py", line 3, in <module>
+    import snntorch as snn
+ModuleNotFoundError: No module named 'snntorch'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 12, in <module>
+    from model import GaussianFC
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/model.py", line 3, in <module>
+    import snntorch as snn
+ModuleNotFoundError: No module named 'snntorch'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 12, in <module>
+    from model import GaussianFC
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/model.py", line 3, in <module>
+    import snntorch as snn
+ModuleNotFoundError: No module named 'snntorch'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 12, in <module>
+    from model import GaussianFC
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/model.py", line 3, in <module>
+    import snntorch as snn
+ModuleNotFoundError: No module named 'snntorch'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 12, in <module>
+    from model import GaussianFC
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/model.py", line 3, in <module>
+    import snntorch as snn
+ModuleNotFoundError: No module named 'snntorch'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 12, in <module>
+    from model import GaussianFC
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/model.py", line 3, in <module>
+    import snntorch as snn
+ModuleNotFoundError: No module named 'snntorch'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 12, in <module>
+    from model import GaussianFC
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/model.py", line 3, in <module>
+    import snntorch as snn
+ModuleNotFoundError: No module named 'snntorch'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 12, in <module>
+    from model import GaussianFC
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/model.py", line 3, in <module>
+    import snntorch as snn
+ModuleNotFoundError: No module named 'snntorch'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 12, in <module>
+    from model import GaussianFC
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/model.py", line 3, in <module>
+    import snntorch as snn
+ModuleNotFoundError: No module named 'snntorch'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 12, in <module>
+    from model import GaussianFC
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/model.py", line 3, in <module>
+    import snntorch as snn
+ModuleNotFoundError: No module named 'snntorch'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 12, in <module>
+    from model import GaussianFC
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/model.py", line 3, in <module>
+    import snntorch as snn
+ModuleNotFoundError: No module named 'snntorch'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 12, in <module>
+    from model import GaussianFC
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/model.py", line 3, in <module>
+    import snntorch as snn
+ModuleNotFoundError: No module named 'snntorch'

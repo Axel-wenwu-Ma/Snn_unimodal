@@ -1,0 +1,83 @@
+=========================================
+Experiment Parameters:
+=========================================
+datasets: FGNET
+losses: UnimodalNet_absdistance UnimodalNet
+models: resnet18_GaussianFC resnet18_GaussianFC_weights resnet18 resnet18_weights
+lrs: 1e-3 5e-4 1e-4
+lamdas: 1 2 5
+=========================================
+Starting experiments at: Mon Aug 18 19:54:35 WEST 2025
+=========================================
+Running: dataset=FGNET, loss=UnimodalNet_absdistance, model=resnet18_GaussianFC, lr=1e-3, lamda=1
+Running: dataset=FGNET, loss=UnimodalNet_absdistance, model=resnet18_GaussianFC, lr=5e-4, lamda=1
+Running: dataset=FGNET, loss=UnimodalNet_absdistance, model=resnet18_GaussianFC, lr=1e-4, lamda=1
+Running: dataset=FGNET, loss=UnimodalNet_absdistance, model=resnet18_GaussianFC_weights, lr=1e-3, lamda=1
+Running: dataset=FGNET, loss=UnimodalNet_absdistance, model=resnet18_GaussianFC_weights, lr=5e-4, lamda=1
+Running: dataset=FGNET, loss=UnimodalNet_absdistance, model=resnet18_GaussianFC_weights, lr=1e-4, lamda=1
+Running: dataset=FGNET, loss=UnimodalNet_absdistance, model=resnet18, lr=1e-3, lamda=1
+Running: dataset=FGNET, loss=UnimodalNet_absdistance, model=resnet18, lr=5e-4, lamda=1
+Running: dataset=FGNET, loss=UnimodalNet_absdistance, model=resnet18, lr=1e-4, lamda=1
+Running: dataset=FGNET, loss=UnimodalNet_absdistance, model=resnet18_weights, lr=1e-3, lamda=1
+Running: dataset=FGNET, loss=UnimodalNet_absdistance, model=resnet18_weights, lr=5e-4, lamda=1
+Running: dataset=FGNET, loss=UnimodalNet_absdistance, model=resnet18_weights, lr=1e-4, lamda=1
+Running: dataset=FGNET, loss=UnimodalNet, model=resnet18_GaussianFC, lr=1e-3, lamda=1
+Running: dataset=FGNET, loss=UnimodalNet, model=resnet18_GaussianFC, lr=5e-4, lamda=1
+Running: dataset=FGNET, loss=UnimodalNet, model=resnet18_GaussianFC, lr=1e-4, lamda=1
+Running: dataset=FGNET, loss=UnimodalNet, model=resnet18_GaussianFC_weights, lr=1e-3, lamda=1
+Running: dataset=FGNET, loss=UnimodalNet, model=resnet18_GaussianFC_weights, lr=5e-4, lamda=1
+Running: dataset=FGNET, loss=UnimodalNet, model=resnet18_GaussianFC_weights, lr=1e-4, lamda=1
+Running: dataset=FGNET, loss=UnimodalNet, model=resnet18, lr=1e-3, lamda=1
+Running: dataset=FGNET, loss=UnimodalNet, model=resnet18, lr=5e-4, lamda=1
+Running: dataset=FGNET, loss=UnimodalNet, model=resnet18, lr=1e-4, lamda=1
+Running: dataset=FGNET, loss=UnimodalNet, model=resnet18_weights, lr=1e-3, lamda=1
+Running: dataset=FGNET, loss=UnimodalNet, model=resnet18_weights, lr=5e-4, lamda=1
+Running: dataset=FGNET, loss=UnimodalNet, model=resnet18_weights, lr=1e-4, lamda=1
+Running: dataset=FGNET, loss=UnimodalNet_absdistance, model=resnet18_GaussianFC, lr=1e-3, lamda=2
+Running: dataset=FGNET, loss=UnimodalNet_absdistance, model=resnet18_GaussianFC, lr=5e-4, lamda=2
+Running: dataset=FGNET, loss=UnimodalNet_absdistance, model=resnet18_GaussianFC, lr=1e-4, lamda=2
+Running: dataset=FGNET, loss=UnimodalNet_absdistance, model=resnet18_GaussianFC_weights, lr=1e-3, lamda=2
+Running: dataset=FGNET, loss=UnimodalNet_absdistance, model=resnet18_GaussianFC_weights, lr=5e-4, lamda=2
+Running: dataset=FGNET, loss=UnimodalNet_absdistance, model=resnet18_GaussianFC_weights, lr=1e-4, lamda=2
+Running: dataset=FGNET, loss=UnimodalNet_absdistance, model=resnet18, lr=1e-3, lamda=2
+Running: dataset=FGNET, loss=UnimodalNet_absdistance, model=resnet18, lr=5e-4, lamda=2
+Running: dataset=FGNET, loss=UnimodalNet_absdistance, model=resnet18, lr=1e-4, lamda=2
+Running: dataset=FGNET, loss=UnimodalNet_absdistance, model=resnet18_weights, lr=1e-3, lamda=2
+Running: dataset=FGNET, loss=UnimodalNet_absdistance, model=resnet18_weights, lr=5e-4, lamda=2
+Running: dataset=FGNET, loss=UnimodalNet_absdistance, model=resnet18_weights, lr=1e-4, lamda=2
+Running: dataset=FGNET, loss=UnimodalNet, model=resnet18_GaussianFC, lr=1e-3, lamda=2
+Running: dataset=FGNET, loss=UnimodalNet, model=resnet18_GaussianFC, lr=5e-4, lamda=2
+Running: dataset=FGNET, loss=UnimodalNet, model=resnet18_GaussianFC, lr=1e-4, lamda=2
+Running: dataset=FGNET, loss=UnimodalNet, model=resnet18_GaussianFC_weights, lr=1e-3, lamda=2
+Running: dataset=FGNET, loss=UnimodalNet, model=resnet18_GaussianFC_weights, lr=5e-4, lamda=2
+Running: dataset=FGNET, loss=UnimodalNet, model=resnet18_GaussianFC_weights, lr=1e-4, lamda=2
+Running: dataset=FGNET, loss=UnimodalNet, model=resnet18, lr=1e-3, lamda=2
+Running: dataset=FGNET, loss=UnimodalNet, model=resnet18, lr=5e-4, lamda=2
+Running: dataset=FGNET, loss=UnimodalNet, model=resnet18, lr=1e-4, lamda=2
+Running: dataset=FGNET, loss=UnimodalNet, model=resnet18_weights, lr=1e-3, lamda=2
+Running: dataset=FGNET, loss=UnimodalNet, model=resnet18_weights, lr=5e-4, lamda=2
+Running: dataset=FGNET, loss=UnimodalNet, model=resnet18_weights, lr=1e-4, lamda=2
+Running: dataset=FGNET, loss=UnimodalNet_absdistance, model=resnet18_GaussianFC, lr=1e-3, lamda=5
+Running: dataset=FGNET, loss=UnimodalNet_absdistance, model=resnet18_GaussianFC, lr=5e-4, lamda=5
+Running: dataset=FGNET, loss=UnimodalNet_absdistance, model=resnet18_GaussianFC, lr=1e-4, lamda=5
+Running: dataset=FGNET, loss=UnimodalNet_absdistance, model=resnet18_GaussianFC_weights, lr=1e-3, lamda=5
+Running: dataset=FGNET, loss=UnimodalNet_absdistance, model=resnet18_GaussianFC_weights, lr=5e-4, lamda=5
+Running: dataset=FGNET, loss=UnimodalNet_absdistance, model=resnet18_GaussianFC_weights, lr=1e-4, lamda=5
+Running: dataset=FGNET, loss=UnimodalNet_absdistance, model=resnet18, lr=1e-3, lamda=5
+Running: dataset=FGNET, loss=UnimodalNet_absdistance, model=resnet18, lr=5e-4, lamda=5
+Running: dataset=FGNET, loss=UnimodalNet_absdistance, model=resnet18, lr=1e-4, lamda=5
+Running: dataset=FGNET, loss=UnimodalNet_absdistance, model=resnet18_weights, lr=1e-3, lamda=5
+Running: dataset=FGNET, loss=UnimodalNet_absdistance, model=resnet18_weights, lr=5e-4, lamda=5
+Running: dataset=FGNET, loss=UnimodalNet_absdistance, model=resnet18_weights, lr=1e-4, lamda=5
+Running: dataset=FGNET, loss=UnimodalNet, model=resnet18_GaussianFC, lr=1e-3, lamda=5
+Running: dataset=FGNET, loss=UnimodalNet, model=resnet18_GaussianFC, lr=5e-4, lamda=5
+Running: dataset=FGNET, loss=UnimodalNet, model=resnet18_GaussianFC, lr=1e-4, lamda=5
+Running: dataset=FGNET, loss=UnimodalNet, model=resnet18_GaussianFC_weights, lr=1e-3, lamda=5
+Running: dataset=FGNET, loss=UnimodalNet, model=resnet18_GaussianFC_weights, lr=5e-4, lamda=5
+Running: dataset=FGNET, loss=UnimodalNet, model=resnet18_GaussianFC_weights, lr=1e-4, lamda=5
+Running: dataset=FGNET, loss=UnimodalNet, model=resnet18, lr=1e-3, lamda=5
+Running: dataset=FGNET, loss=UnimodalNet, model=resnet18, lr=5e-4, lamda=5
+Running: dataset=FGNET, loss=UnimodalNet, model=resnet18, lr=1e-4, lamda=5
+Running: dataset=FGNET, loss=UnimodalNet, model=resnet18_weights, lr=1e-3, lamda=5
+Running: dataset=FGNET, loss=UnimodalNet, model=resnet18_weights, lr=5e-4, lamda=5
+Running: dataset=FGNET, loss=UnimodalNet, model=resnet18_weights, lr=1e-4, lamda=5

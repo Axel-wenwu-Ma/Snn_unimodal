@@ -1,0 +1,903 @@
+FGNET train: 801 images, 62 age classes
+FGNET test: 201 images, 45 age classes
+* Epoch 1/300
+- 2s - train_Loss: 17.9249 - train_Acc: 3.75%
+- 1s - test_Loss: 17.9249 - test_Acc: 3.75%
+* Epoch 2/300
+- 2s - train_Loss: 11.4670 - train_Acc: 3.62%
+- 1s - test_Loss: 11.4670 - test_Acc: 3.62%
+* Epoch 3/300
+- 2s - train_Loss: 10.5173 - train_Acc: 3.75%
+- 1s - test_Loss: 10.5173 - test_Acc: 3.75%
+* Epoch 4/300
+- 2s - train_Loss: 10.2493 - train_Acc: 4.37%
+- 1s - test_Loss: 10.2493 - test_Acc: 4.37%
+* Epoch 5/300
+- 2s - train_Loss: 10.1035 - train_Acc: 4.99%
+- 1s - test_Loss: 10.1035 - test_Acc: 4.99%
+* Epoch 6/300
+- 2s - train_Loss: 10.2928 - train_Acc: 4.24%
+- 1s - test_Loss: 10.2928 - test_Acc: 4.24%
+* Epoch 7/300
+- 2s - train_Loss: 9.8945 - train_Acc: 4.62%
+- 1s - test_Loss: 9.8945 - test_Acc: 4.62%
+* Epoch 8/300
+- 2s - train_Loss: 9.7561 - train_Acc: 4.99%
+- 1s - test_Loss: 9.7561 - test_Acc: 4.99%
+* Epoch 9/300
+- 2s - train_Loss: 9.6699 - train_Acc: 4.87%
+- 1s - test_Loss: 9.6699 - test_Acc: 4.87%
+* Epoch 10/300
+- 2s - train_Loss: 9.8504 - train_Acc: 4.49%
+- 1s - test_Loss: 9.8504 - test_Acc: 4.49%
+* Epoch 11/300
+- 2s - train_Loss: 9.5838 - train_Acc: 5.74%
+- 1s - test_Loss: 9.5838 - test_Acc: 5.74%
+* Epoch 12/300
+- 2s - train_Loss: 9.2047 - train_Acc: 5.74%
+- 1s - test_Loss: 9.2047 - test_Acc: 5.74%
+* Epoch 13/300
+- 2s - train_Loss: 9.3772 - train_Acc: 5.62%
+- 1s - test_Loss: 9.3772 - test_Acc: 5.62%
+* Epoch 14/300
+- 2s - train_Loss: 9.1859 - train_Acc: 6.74%
+- 1s - test_Loss: 9.1859 - test_Acc: 6.74%
+* Epoch 15/300
+- 2s - train_Loss: 9.2978 - train_Acc: 5.12%
+- 1s - test_Loss: 9.2978 - test_Acc: 5.12%
+* Epoch 16/300
+- 2s - train_Loss: 9.1541 - train_Acc: 5.87%
+- 1s - test_Loss: 9.1541 - test_Acc: 5.87%
+* Epoch 17/300
+- 2s - train_Loss: 9.0848 - train_Acc: 6.62%
+- 1s - test_Loss: 9.0848 - test_Acc: 6.62%
+* Epoch 18/300
+- 2s - train_Loss: 8.9126 - train_Acc: 5.37%
+- 1s - test_Loss: 8.9126 - test_Acc: 5.37%
+* Epoch 19/300
+- 2s - train_Loss: 9.2617 - train_Acc: 5.74%
+- 1s - test_Loss: 9.2617 - test_Acc: 5.74%
+* Epoch 20/300
+- 2s - train_Loss: 9.2258 - train_Acc: 6.12%
+- 1s - test_Loss: 9.2258 - test_Acc: 6.12%
+* Epoch 21/300
+- 2s - train_Loss: 9.0543 - train_Acc: 6.62%
+- 1s - test_Loss: 9.0543 - test_Acc: 6.62%
+* Epoch 22/300
+- 2s - train_Loss: 8.9102 - train_Acc: 6.49%
+- 1s - test_Loss: 8.9102 - test_Acc: 6.49%
+* Epoch 23/300
+- 2s - train_Loss: 8.7762 - train_Acc: 6.87%
+- 1s - test_Loss: 8.7762 - test_Acc: 6.87%
+* Epoch 24/300
+- 2s - train_Loss: 8.8127 - train_Acc: 6.87%
+- 1s - test_Loss: 8.8127 - test_Acc: 6.87%
+* Epoch 25/300
+- 2s - train_Loss: 8.8178 - train_Acc: 6.74%
+- 1s - test_Loss: 8.8178 - test_Acc: 6.74%
+* Epoch 26/300
+- 2s - train_Loss: 8.7656 - train_Acc: 6.49%
+- 1s - test_Loss: 8.7656 - test_Acc: 6.49%
+* Epoch 27/300
+- 2s - train_Loss: 8.8777 - train_Acc: 5.99%
+- 1s - test_Loss: 8.8777 - test_Acc: 5.99%
+* Epoch 28/300
+- 2s - train_Loss: 9.0148 - train_Acc: 6.87%
+- 1s - test_Loss: 9.0148 - test_Acc: 6.87%
+* Epoch 29/300
+- 2s - train_Loss: 8.5602 - train_Acc: 6.62%
+- 1s - test_Loss: 8.5602 - test_Acc: 6.62%
+* Epoch 30/300
+- 2s - train_Loss: 8.4933 - train_Acc: 7.12%
+- 1s - test_Loss: 8.4933 - test_Acc: 7.12%
+* Epoch 31/300
+- 2s - train_Loss: 8.8031 - train_Acc: 7.49%
+- 1s - test_Loss: 8.8031 - test_Acc: 7.49%
+* Epoch 32/300
+- 2s - train_Loss: 8.5848 - train_Acc: 7.12%
+- 1s - test_Loss: 8.5848 - test_Acc: 7.12%
+* Epoch 33/300
+- 2s - train_Loss: 8.5812 - train_Acc: 7.12%
+- 1s - test_Loss: 8.5812 - test_Acc: 7.12%
+* Epoch 34/300
+- 2s - train_Loss: 8.4121 - train_Acc: 7.74%
+- 1s - test_Loss: 8.4121 - test_Acc: 7.74%
+* Epoch 35/300
+- 2s - train_Loss: 8.5383 - train_Acc: 6.37%
+- 1s - test_Loss: 8.5383 - test_Acc: 6.37%
+* Epoch 36/300
+- 2s - train_Loss: 8.4059 - train_Acc: 6.49%
+- 1s - test_Loss: 8.4059 - test_Acc: 6.49%
+* Epoch 37/300
+- 2s - train_Loss: 8.6135 - train_Acc: 6.37%
+- 1s - test_Loss: 8.6135 - test_Acc: 6.37%
+* Epoch 38/300
+- 2s - train_Loss: 8.6062 - train_Acc: 6.24%
+- 1s - test_Loss: 8.6062 - test_Acc: 6.24%
+* Epoch 39/300
+- 2s - train_Loss: 8.4904 - train_Acc: 7.99%
+- 1s - test_Loss: 8.4904 - test_Acc: 7.99%
+* Epoch 40/300
+- 2s - train_Loss: 8.3830 - train_Acc: 8.24%
+- 1s - test_Loss: 8.3830 - test_Acc: 8.24%
+* Epoch 41/300
+- 2s - train_Loss: 8.2239 - train_Acc: 7.24%
+- 1s - test_Loss: 8.2239 - test_Acc: 7.24%
+* Epoch 42/300
+- 2s - train_Loss: 8.4493 - train_Acc: 8.11%
+- 1s - test_Loss: 8.4493 - test_Acc: 8.11%
+* Epoch 43/300
+- 2s - train_Loss: 8.2421 - train_Acc: 8.74%
+- 1s - test_Loss: 8.2421 - test_Acc: 8.74%
+* Epoch 44/300
+- 2s - train_Loss: 8.2825 - train_Acc: 9.36%
+- 1s - test_Loss: 8.2825 - test_Acc: 9.36%
+* Epoch 45/300
+- 2s - train_Loss: 8.2177 - train_Acc: 7.74%
+- 1s - test_Loss: 8.2177 - test_Acc: 7.74%
+* Epoch 46/300
+- 2s - train_Loss: 8.1713 - train_Acc: 8.86%
+- 1s - test_Loss: 8.1713 - test_Acc: 8.86%
+* Epoch 47/300
+- 2s - train_Loss: 8.4559 - train_Acc: 9.36%
+- 1s - test_Loss: 8.4559 - test_Acc: 9.36%
+* Epoch 48/300
+- 2s - train_Loss: 8.1731 - train_Acc: 8.61%
+- 1s - test_Loss: 8.1731 - test_Acc: 8.61%
+* Epoch 49/300
+- 2s - train_Loss: 8.0397 - train_Acc: 9.11%
+- 1s - test_Loss: 8.0397 - test_Acc: 9.11%
+* Epoch 50/300
+- 2s - train_Loss: 7.9977 - train_Acc: 9.99%
+- 1s - test_Loss: 7.9977 - test_Acc: 9.99%
+* Epoch 51/300
+- 2s - train_Loss: 8.2800 - train_Acc: 8.36%
+- 1s - test_Loss: 8.2800 - test_Acc: 8.36%
+* Epoch 52/300
+- 2s - train_Loss: 8.1288 - train_Acc: 7.49%
+- 1s - test_Loss: 8.1288 - test_Acc: 7.49%
+* Epoch 53/300
+- 2s - train_Loss: 8.5444 - train_Acc: 7.24%
+- 1s - test_Loss: 8.5444 - test_Acc: 7.24%
+* Epoch 54/300
+- 2s - train_Loss: 8.2561 - train_Acc: 8.61%
+- 1s - test_Loss: 8.2561 - test_Acc: 8.61%
+* Epoch 55/300
+- 2s - train_Loss: 7.8434 - train_Acc: 9.49%
+- 1s - test_Loss: 7.8434 - test_Acc: 9.49%
+* Epoch 56/300
+- 2s - train_Loss: 7.8114 - train_Acc: 11.11%
+- 1s - test_Loss: 7.8114 - test_Acc: 11.11%
+* Epoch 57/300
+- 2s - train_Loss: 7.9307 - train_Acc: 10.36%
+- 1s - test_Loss: 7.9307 - test_Acc: 10.36%
+* Epoch 58/300
+- 2s - train_Loss: 8.0102 - train_Acc: 11.11%
+- 1s - test_Loss: 8.0102 - test_Acc: 11.11%
+* Epoch 59/300
+- 2s - train_Loss: 7.8958 - train_Acc: 8.36%
+- 1s - test_Loss: 7.8958 - test_Acc: 8.36%
+* Epoch 60/300
+- 2s - train_Loss: 7.5257 - train_Acc: 8.36%
+- 1s - test_Loss: 7.5257 - test_Acc: 8.36%
+* Epoch 61/300
+- 2s - train_Loss: 7.8393 - train_Acc: 8.36%
+- 1s - test_Loss: 7.8393 - test_Acc: 8.36%
+* Epoch 62/300
+- 2s - train_Loss: 7.6261 - train_Acc: 9.11%
+- 1s - test_Loss: 7.6261 - test_Acc: 9.11%
+* Epoch 63/300
+- 2s - train_Loss: 7.8287 - train_Acc: 8.24%
+- 1s - test_Loss: 7.8287 - test_Acc: 8.24%
+* Epoch 64/300
+- 2s - train_Loss: 7.9317 - train_Acc: 7.62%
+- 1s - test_Loss: 7.9317 - test_Acc: 7.62%
+* Epoch 65/300
+- 2s - train_Loss: 7.5586 - train_Acc: 8.49%
+- 1s - test_Loss: 7.5586 - test_Acc: 8.49%
+* Epoch 66/300
+- 2s - train_Loss: 8.1099 - train_Acc: 9.49%
+- 1s - test_Loss: 8.1099 - test_Acc: 9.49%
+* Epoch 67/300
+- 2s - train_Loss: 7.9818 - train_Acc: 8.86%
+- 1s - test_Loss: 7.9818 - test_Acc: 8.86%
+* Epoch 68/300
+- 2s - train_Loss: 7.4922 - train_Acc: 9.49%
+- 1s - test_Loss: 7.4922 - test_Acc: 9.49%
+* Epoch 69/300
+- 2s - train_Loss: 7.9049 - train_Acc: 10.99%
+- 1s - test_Loss: 7.9049 - test_Acc: 10.99%
+* Epoch 70/300
+- 2s - train_Loss: 7.7079 - train_Acc: 9.99%
+- 1s - test_Loss: 7.7079 - test_Acc: 9.99%
+* Epoch 71/300
+- 2s - train_Loss: 7.6848 - train_Acc: 9.24%
+- 1s - test_Loss: 7.6848 - test_Acc: 9.24%
+* Epoch 72/300
+- 2s - train_Loss: 7.3969 - train_Acc: 11.24%
+- 1s - test_Loss: 7.3969 - test_Acc: 11.24%
+* Epoch 73/300
+- 2s - train_Loss: 7.5188 - train_Acc: 12.36%
+- 1s - test_Loss: 7.5188 - test_Acc: 12.36%
+* Epoch 74/300
+- 2s - train_Loss: 7.7197 - train_Acc: 11.11%
+- 1s - test_Loss: 7.7197 - test_Acc: 11.11%
+* Epoch 75/300
+- 2s - train_Loss: 7.2265 - train_Acc: 9.49%
+- 1s - test_Loss: 7.2265 - test_Acc: 9.49%
+* Epoch 76/300
+- 2s - train_Loss: 7.5708 - train_Acc: 8.49%
+- 1s - test_Loss: 7.5708 - test_Acc: 8.49%
+* Epoch 77/300
+- 2s - train_Loss: 7.4091 - train_Acc: 8.11%
+- 1s - test_Loss: 7.4091 - test_Acc: 8.11%
+* Epoch 78/300
+- 2s - train_Loss: 7.7978 - train_Acc: 8.61%
+- 1s - test_Loss: 7.7978 - test_Acc: 8.61%
+* Epoch 79/300
+- 2s - train_Loss: 7.5146 - train_Acc: 11.61%
+- 1s - test_Loss: 7.5146 - test_Acc: 11.61%
+* Epoch 80/300
+- 2s - train_Loss: 7.2469 - train_Acc: 11.86%
+- 1s - test_Loss: 7.2469 - test_Acc: 11.86%
+* Epoch 81/300
+- 2s - train_Loss: 7.1910 - train_Acc: 12.11%
+- 1s - test_Loss: 7.1910 - test_Acc: 12.11%
+* Epoch 82/300
+- 2s - train_Loss: 7.4096 - train_Acc: 12.48%
+- 1s - test_Loss: 7.4096 - test_Acc: 12.48%
+* Epoch 83/300
+- 2s - train_Loss: 7.2150 - train_Acc: 11.99%
+- 1s - test_Loss: 7.2150 - test_Acc: 11.99%
+* Epoch 84/300
+- 2s - train_Loss: 7.5361 - train_Acc: 11.74%
+- 1s - test_Loss: 7.5361 - test_Acc: 11.74%
+* Epoch 85/300
+- 2s - train_Loss: 7.3740 - train_Acc: 13.48%
+- 1s - test_Loss: 7.3740 - test_Acc: 13.48%
+* Epoch 86/300
+- 2s - train_Loss: 6.9032 - train_Acc: 13.73%
+- 1s - test_Loss: 6.9032 - test_Acc: 13.73%
+* Epoch 87/300
+- 2s - train_Loss: 7.4603 - train_Acc: 12.23%
+- 1s - test_Loss: 7.4603 - test_Acc: 12.23%
+* Epoch 88/300
+- 2s - train_Loss: 7.1584 - train_Acc: 15.36%
+- 1s - test_Loss: 7.1584 - test_Acc: 15.36%
+* Epoch 89/300
+- 2s - train_Loss: 7.3014 - train_Acc: 15.23%
+- 1s - test_Loss: 7.3014 - test_Acc: 15.23%
+* Epoch 90/300
+- 2s - train_Loss: 6.9927 - train_Acc: 14.23%
+- 1s - test_Loss: 6.9927 - test_Acc: 14.23%
+* Epoch 91/300
+- 2s - train_Loss: 7.1986 - train_Acc: 13.11%
+- 1s - test_Loss: 7.1986 - test_Acc: 13.11%
+* Epoch 92/300
+- 2s - train_Loss: 6.9721 - train_Acc: 13.36%
+- 1s - test_Loss: 6.9721 - test_Acc: 13.36%
+* Epoch 93/300
+- 2s - train_Loss: 7.0399 - train_Acc: 14.73%
+- 1s - test_Loss: 7.0399 - test_Acc: 14.73%
+* Epoch 94/300
+- 2s - train_Loss: 7.0563 - train_Acc: 16.73%
+- 1s - test_Loss: 7.0563 - test_Acc: 16.73%
+* Epoch 95/300
+- 2s - train_Loss: 7.1030 - train_Acc: 14.98%
+- 1s - test_Loss: 7.1030 - test_Acc: 14.98%
+* Epoch 96/300
+- 2s - train_Loss: 6.6996 - train_Acc: 15.23%
+- 1s - test_Loss: 6.6996 - test_Acc: 15.23%
+* Epoch 97/300
+- 2s - train_Loss: 6.8144 - train_Acc: 15.36%
+- 1s - test_Loss: 6.8144 - test_Acc: 15.36%
+* Epoch 98/300
+- 2s - train_Loss: 7.1233 - train_Acc: 14.36%
+- 1s - test_Loss: 7.1233 - test_Acc: 14.36%
+* Epoch 99/300
+- 2s - train_Loss: 6.9628 - train_Acc: 17.48%
+- 1s - test_Loss: 6.9628 - test_Acc: 17.48%
+* Epoch 100/300
+- 2s - train_Loss: 6.8154 - train_Acc: 16.60%
+- 1s - test_Loss: 6.8154 - test_Acc: 16.60%
+* Epoch 101/300
+- 2s - train_Loss: 6.6751 - train_Acc: 18.35%
+- 1s - test_Loss: 6.6751 - test_Acc: 18.35%
+* Epoch 102/300
+- 2s - train_Loss: 6.9444 - train_Acc: 16.98%
+- 1s - test_Loss: 6.9444 - test_Acc: 16.98%
+* Epoch 103/300
+- 2s - train_Loss: 6.7203 - train_Acc: 17.10%
+- 1s - test_Loss: 6.7203 - test_Acc: 17.10%
+* Epoch 104/300
+- 2s - train_Loss: 6.5184 - train_Acc: 19.35%
+- 1s - test_Loss: 6.5184 - test_Acc: 19.35%
+* Epoch 105/300
+- 2s - train_Loss: 6.5740 - train_Acc: 19.60%
+- 1s - test_Loss: 6.5740 - test_Acc: 19.60%
+* Epoch 106/300
+- 2s - train_Loss: 6.6124 - train_Acc: 18.10%
+- 1s - test_Loss: 6.6124 - test_Acc: 18.10%
+* Epoch 107/300
+- 2s - train_Loss: 6.6742 - train_Acc: 19.23%
+- 1s - test_Loss: 6.6742 - test_Acc: 19.23%
+* Epoch 108/300
+- 2s - train_Loss: 6.8586 - train_Acc: 17.60%
+- 1s - test_Loss: 6.8586 - test_Acc: 17.60%
+* Epoch 109/300
+- 2s - train_Loss: 6.4012 - train_Acc: 17.35%
+- 1s - test_Loss: 6.4012 - test_Acc: 17.35%
+* Epoch 110/300
+- 2s - train_Loss: 6.4296 - train_Acc: 20.35%
+- 1s - test_Loss: 6.4296 - test_Acc: 20.35%
+* Epoch 111/300
+- 2s - train_Loss: 6.5837 - train_Acc: 17.73%
+- 1s - test_Loss: 6.5837 - test_Acc: 17.73%
+* Epoch 112/300
+- 2s - train_Loss: 6.5945 - train_Acc: 20.35%
+- 1s - test_Loss: 6.5945 - test_Acc: 20.35%
+* Epoch 113/300
+- 2s - train_Loss: 6.3075 - train_Acc: 21.72%
+- 1s - test_Loss: 6.3075 - test_Acc: 21.72%
+* Epoch 114/300
+- 2s - train_Loss: 6.5767 - train_Acc: 20.60%
+- 1s - test_Loss: 6.5767 - test_Acc: 20.60%
+* Epoch 115/300
+- 2s - train_Loss: 6.6510 - train_Acc: 20.10%
+- 1s - test_Loss: 6.6510 - test_Acc: 20.10%
+* Epoch 116/300
+- 2s - train_Loss: 6.2397 - train_Acc: 21.47%
+- 1s - test_Loss: 6.2397 - test_Acc: 21.47%
+* Epoch 117/300
+- 2s - train_Loss: 6.3497 - train_Acc: 22.47%
+- 1s - test_Loss: 6.3497 - test_Acc: 22.47%
+* Epoch 118/300
+- 2s - train_Loss: 6.3462 - train_Acc: 23.85%
+- 1s - test_Loss: 6.3462 - test_Acc: 23.85%
+* Epoch 119/300
+- 2s - train_Loss: 6.5011 - train_Acc: 25.09%
+- 1s - test_Loss: 6.5011 - test_Acc: 25.09%
+* Epoch 120/300
+- 2s - train_Loss: 6.2940 - train_Acc: 25.34%
+- 1s - test_Loss: 6.2940 - test_Acc: 25.34%
+* Epoch 121/300
+- 2s - train_Loss: 6.2373 - train_Acc: 24.34%
+- 1s - test_Loss: 6.2373 - test_Acc: 24.34%
+* Epoch 122/300
+- 2s - train_Loss: 5.9698 - train_Acc: 26.59%
+- 1s - test_Loss: 5.9698 - test_Acc: 26.59%
+* Epoch 123/300
+- 2s - train_Loss: 6.0014 - train_Acc: 25.34%
+- 1s - test_Loss: 6.0014 - test_Acc: 25.34%
+* Epoch 124/300
+- 2s - train_Loss: 6.2759 - train_Acc: 23.72%
+- 1s - test_Loss: 6.2759 - test_Acc: 23.72%
+* Epoch 125/300
+- 2s - train_Loss: 6.2036 - train_Acc: 23.97%
+- 1s - test_Loss: 6.2036 - test_Acc: 23.97%
+* Epoch 126/300
+- 2s - train_Loss: 6.2245 - train_Acc: 24.72%
+- 1s - test_Loss: 6.2245 - test_Acc: 24.72%
+* Epoch 127/300
+- 2s - train_Loss: 6.1840 - train_Acc: 24.97%
+- 1s - test_Loss: 6.1840 - test_Acc: 24.97%
+* Epoch 128/300
+- 2s - train_Loss: 6.2135 - train_Acc: 22.97%
+- 1s - test_Loss: 6.2135 - test_Acc: 22.97%
+* Epoch 129/300
+- 2s - train_Loss: 6.1849 - train_Acc: 22.60%
+- 1s - test_Loss: 6.1849 - test_Acc: 22.60%
+* Epoch 130/300
+- 2s - train_Loss: 5.7307 - train_Acc: 26.47%
+- 1s - test_Loss: 5.7307 - test_Acc: 26.47%
+* Epoch 131/300
+- 2s - train_Loss: 6.1692 - train_Acc: 26.22%
+- 1s - test_Loss: 6.1692 - test_Acc: 26.22%
+* Epoch 132/300
+- 2s - train_Loss: 5.8211 - train_Acc: 27.84%
+- 1s - test_Loss: 5.8211 - test_Acc: 27.84%
+* Epoch 133/300
+- 2s - train_Loss: 6.0034 - train_Acc: 27.47%
+- 1s - test_Loss: 6.0034 - test_Acc: 27.47%
+* Epoch 134/300
+- 2s - train_Loss: 6.0978 - train_Acc: 26.97%
+- 1s - test_Loss: 6.0978 - test_Acc: 26.97%
+* Epoch 135/300
+- 2s - train_Loss: 5.7830 - train_Acc: 29.59%
+- 1s - test_Loss: 5.7830 - test_Acc: 29.59%
+* Epoch 136/300
+- 2s - train_Loss: 6.1964 - train_Acc: 28.34%
+- 1s - test_Loss: 6.1964 - test_Acc: 28.34%
+* Epoch 137/300
+- 2s - train_Loss: 5.6960 - train_Acc: 30.84%
+- 1s - test_Loss: 5.6960 - test_Acc: 30.84%
+* Epoch 138/300
+- 2s - train_Loss: 5.5285 - train_Acc: 31.46%
+- 1s - test_Loss: 5.5285 - test_Acc: 31.46%
+* Epoch 139/300
+- 2s - train_Loss: 5.8947 - train_Acc: 29.09%
+- 1s - test_Loss: 5.8947 - test_Acc: 29.09%
+* Epoch 140/300
+- 2s - train_Loss: 5.6132 - train_Acc: 31.34%
+- 1s - test_Loss: 5.6132 - test_Acc: 31.34%
+* Epoch 141/300
+- 2s - train_Loss: 5.6005 - train_Acc: 31.96%
+- 1s - test_Loss: 5.6005 - test_Acc: 31.96%
+* Epoch 142/300
+- 2s - train_Loss: 6.0134 - train_Acc: 28.84%
+- 1s - test_Loss: 6.0134 - test_Acc: 28.84%
+* Epoch 143/300
+- 2s - train_Loss: 5.8097 - train_Acc: 32.08%
+- 1s - test_Loss: 5.8097 - test_Acc: 32.08%
+* Epoch 144/300
+- 2s - train_Loss: 5.6455 - train_Acc: 32.71%
+- 1s - test_Loss: 5.6455 - test_Acc: 32.71%
+* Epoch 145/300
+- 2s - train_Loss: 5.6632 - train_Acc: 33.83%
+- 1s - test_Loss: 5.6632 - test_Acc: 33.83%
+* Epoch 146/300
+- 2s - train_Loss: 5.4197 - train_Acc: 33.96%
+- 1s - test_Loss: 5.4197 - test_Acc: 33.96%
+* Epoch 147/300
+- 2s - train_Loss: 5.5359 - train_Acc: 33.58%
+- 1s - test_Loss: 5.5359 - test_Acc: 33.58%
+* Epoch 148/300
+- 2s - train_Loss: 5.2765 - train_Acc: 35.21%
+- 1s - test_Loss: 5.2765 - test_Acc: 35.21%
+* Epoch 149/300
+- 2s - train_Loss: 5.4151 - train_Acc: 36.58%
+- 1s - test_Loss: 5.4151 - test_Acc: 36.58%
+* Epoch 150/300
+- 2s - train_Loss: 5.4474 - train_Acc: 35.58%
+- 1s - test_Loss: 5.4474 - test_Acc: 35.58%
+* Epoch 151/300
+- 2s - train_Loss: 5.2911 - train_Acc: 38.70%
+- 1s - test_Loss: 5.2911 - test_Acc: 38.70%
+* Epoch 152/300
+- 2s - train_Loss: 4.9862 - train_Acc: 37.20%
+- 1s - test_Loss: 4.9862 - test_Acc: 37.20%
+* Epoch 153/300
+- 2s - train_Loss: 5.2396 - train_Acc: 35.83%
+- 1s - test_Loss: 5.2396 - test_Acc: 35.83%
+* Epoch 154/300
+- 2s - train_Loss: 5.1846 - train_Acc: 35.96%
+- 1s - test_Loss: 5.1846 - test_Acc: 35.96%
+* Epoch 155/300
+- 2s - train_Loss: 5.2427 - train_Acc: 33.71%
+- 1s - test_Loss: 5.2427 - test_Acc: 33.71%
+* Epoch 156/300
+- 2s - train_Loss: 5.3074 - train_Acc: 33.21%
+- 1s - test_Loss: 5.3074 - test_Acc: 33.21%
+* Epoch 157/300
+- 2s - train_Loss: 5.2550 - train_Acc: 34.08%
+- 1s - test_Loss: 5.2550 - test_Acc: 34.08%
+* Epoch 158/300
+- 2s - train_Loss: 5.1227 - train_Acc: 34.33%
+- 1s - test_Loss: 5.1227 - test_Acc: 34.33%
+* Epoch 159/300
+- 2s - train_Loss: 5.5130 - train_Acc: 34.46%
+- 1s - test_Loss: 5.5130 - test_Acc: 34.46%
+* Epoch 160/300
+- 2s - train_Loss: 4.9426 - train_Acc: 36.95%
+- 1s - test_Loss: 4.9426 - test_Acc: 36.95%
+* Epoch 161/300
+- 2s - train_Loss: 5.2327 - train_Acc: 36.20%
+- 1s - test_Loss: 5.2327 - test_Acc: 36.20%
+* Epoch 162/300
+- 2s - train_Loss: 5.2593 - train_Acc: 35.33%
+- 1s - test_Loss: 5.2593 - test_Acc: 35.33%
+* Epoch 163/300
+- 2s - train_Loss: 5.2087 - train_Acc: 37.95%
+- 1s - test_Loss: 5.2087 - test_Acc: 37.95%
+* Epoch 164/300
+- 2s - train_Loss: 5.1572 - train_Acc: 39.58%
+- 1s - test_Loss: 5.1572 - test_Acc: 39.58%
+* Epoch 165/300
+- 2s - train_Loss: 4.8044 - train_Acc: 41.32%
+- 1s - test_Loss: 4.8044 - test_Acc: 41.32%
+* Epoch 166/300
+- 2s - train_Loss: 4.9261 - train_Acc: 40.32%
+- 1s - test_Loss: 4.9261 - test_Acc: 40.32%
+* Epoch 167/300
+- 2s - train_Loss: 4.9333 - train_Acc: 39.58%
+- 1s - test_Loss: 4.9333 - test_Acc: 39.58%
+* Epoch 168/300
+- 2s - train_Loss: 5.1420 - train_Acc: 36.95%
+- 1s - test_Loss: 5.1420 - test_Acc: 36.95%
+* Epoch 169/300
+- 2s - train_Loss: 4.8441 - train_Acc: 38.33%
+- 1s - test_Loss: 4.8441 - test_Acc: 38.33%
+* Epoch 170/300
+- 2s - train_Loss: 4.8336 - train_Acc: 39.33%
+- 1s - test_Loss: 4.8336 - test_Acc: 39.33%
+* Epoch 171/300
+- 2s - train_Loss: 4.8711 - train_Acc: 37.95%
+- 1s - test_Loss: 4.8711 - test_Acc: 37.95%
+* Epoch 172/300
+- 2s - train_Loss: 5.0029 - train_Acc: 37.83%
+- 1s - test_Loss: 5.0029 - test_Acc: 37.83%
+* Epoch 173/300
+- 2s - train_Loss: 4.8653 - train_Acc: 42.57%
+- 1s - test_Loss: 4.8653 - test_Acc: 42.57%
+* Epoch 174/300
+- 2s - train_Loss: 4.6313 - train_Acc: 42.57%
+- 1s - test_Loss: 4.6313 - test_Acc: 42.57%
+* Epoch 175/300
+- 2s - train_Loss: 4.6508 - train_Acc: 43.20%
+- 1s - test_Loss: 4.6508 - test_Acc: 43.20%
+* Epoch 176/300
+- 2s - train_Loss: 4.7390 - train_Acc: 43.70%
+- 1s - test_Loss: 4.7390 - test_Acc: 43.70%
+* Epoch 177/300
+- 2s - train_Loss: 4.7728 - train_Acc: 44.07%
+- 1s - test_Loss: 4.7728 - test_Acc: 44.07%
+* Epoch 178/300
+- 2s - train_Loss: 4.7489 - train_Acc: 44.19%
+- 1s - test_Loss: 4.7489 - test_Acc: 44.19%
+* Epoch 179/300
+- 2s - train_Loss: 4.9816 - train_Acc: 47.07%
+- 1s - test_Loss: 4.9816 - test_Acc: 47.07%
+* Epoch 180/300
+- 2s - train_Loss: 4.6177 - train_Acc: 45.07%
+- 1s - test_Loss: 4.6177 - test_Acc: 45.07%
+* Epoch 181/300
+- 2s - train_Loss: 4.6111 - train_Acc: 46.07%
+- 1s - test_Loss: 4.6111 - test_Acc: 46.07%
+* Epoch 182/300
+- 2s - train_Loss: 4.6208 - train_Acc: 44.32%
+- 1s - test_Loss: 4.6208 - test_Acc: 44.32%
+* Epoch 183/300
+- 2s - train_Loss: 4.4431 - train_Acc: 44.32%
+- 1s - test_Loss: 4.4431 - test_Acc: 44.32%
+* Epoch 184/300
+- 2s - train_Loss: 4.4575 - train_Acc: 45.32%
+- 1s - test_Loss: 4.4575 - test_Acc: 45.32%
+* Epoch 185/300
+- 2s - train_Loss: 4.3382 - train_Acc: 48.44%
+- 1s - test_Loss: 4.3382 - test_Acc: 48.44%
+* Epoch 186/300
+- 2s - train_Loss: 4.5331 - train_Acc: 46.19%
+- 1s - test_Loss: 4.5331 - test_Acc: 46.19%
+* Epoch 187/300
+- 2s - train_Loss: 4.4894 - train_Acc: 46.44%
+- 1s - test_Loss: 4.4894 - test_Acc: 46.44%
+* Epoch 188/300
+- 2s - train_Loss: 4.3474 - train_Acc: 47.19%
+- 1s - test_Loss: 4.3474 - test_Acc: 47.19%
+* Epoch 189/300
+- 2s - train_Loss: 4.3196 - train_Acc: 49.94%
+- 1s - test_Loss: 4.3196 - test_Acc: 49.94%
+* Epoch 190/300
+- 2s - train_Loss: 4.5491 - train_Acc: 47.44%
+- 1s - test_Loss: 4.5491 - test_Acc: 47.44%
+* Epoch 191/300
+- 2s - train_Loss: 4.1741 - train_Acc: 50.06%
+- 1s - test_Loss: 4.1741 - test_Acc: 50.06%
+* Epoch 192/300
+- 2s - train_Loss: 4.6295 - train_Acc: 48.19%
+- 1s - test_Loss: 4.6295 - test_Acc: 48.19%
+* Epoch 193/300
+- 2s - train_Loss: 4.0898 - train_Acc: 52.56%
+- 1s - test_Loss: 4.0898 - test_Acc: 52.56%
+* Epoch 194/300
+- 2s - train_Loss: 4.0760 - train_Acc: 52.06%
+- 1s - test_Loss: 4.0760 - test_Acc: 52.06%
+* Epoch 195/300
+- 2s - train_Loss: 4.3435 - train_Acc: 51.56%
+- 1s - test_Loss: 4.3435 - test_Acc: 51.56%
+* Epoch 196/300
+- 2s - train_Loss: 4.5447 - train_Acc: 52.56%
+- 1s - test_Loss: 4.5447 - test_Acc: 52.56%
+* Epoch 197/300
+- 2s - train_Loss: 4.1772 - train_Acc: 52.81%
+- 1s - test_Loss: 4.1772 - test_Acc: 52.81%
+* Epoch 198/300
+- 2s - train_Loss: 4.2062 - train_Acc: 52.68%
+- 1s - test_Loss: 4.2062 - test_Acc: 52.68%
+* Epoch 199/300
+- 2s - train_Loss: 4.0356 - train_Acc: 51.56%
+- 1s - test_Loss: 4.0356 - test_Acc: 51.56%
+* Epoch 200/300
+- 2s - train_Loss: 4.1287 - train_Acc: 51.69%
+- 1s - test_Loss: 4.1287 - test_Acc: 51.69%
+* Epoch 201/300
+- 2s - train_Loss: 4.4237 - train_Acc: 53.56%
+- 1s - test_Loss: 4.4237 - test_Acc: 53.56%
+* Epoch 202/300
+- 2s - train_Loss: 4.0827 - train_Acc: 53.93%
+- 1s - test_Loss: 4.0827 - test_Acc: 53.93%
+* Epoch 203/300
+- 2s - train_Loss: 4.0400 - train_Acc: 55.06%
+- 1s - test_Loss: 4.0400 - test_Acc: 55.06%
+* Epoch 204/300
+- 2s - train_Loss: 4.0908 - train_Acc: 52.43%
+- 1s - test_Loss: 4.0908 - test_Acc: 52.43%
+* Epoch 205/300
+- 2s - train_Loss: 4.0878 - train_Acc: 54.43%
+- 1s - test_Loss: 4.0878 - test_Acc: 54.43%
+* Epoch 206/300
+- 2s - train_Loss: 4.1758 - train_Acc: 51.06%
+- 1s - test_Loss: 4.1758 - test_Acc: 51.06%
+* Epoch 207/300
+- 2s - train_Loss: 3.8366 - train_Acc: 58.93%
+- 1s - test_Loss: 3.8366 - test_Acc: 58.93%
+* Epoch 208/300
+- 2s - train_Loss: 3.7233 - train_Acc: 58.93%
+- 1s - test_Loss: 3.7233 - test_Acc: 58.93%
+* Epoch 209/300
+- 2s - train_Loss: 3.7622 - train_Acc: 58.80%
+- 1s - test_Loss: 3.7622 - test_Acc: 58.80%
+* Epoch 210/300
+- 2s - train_Loss: 3.8928 - train_Acc: 56.55%
+- 1s - test_Loss: 3.8928 - test_Acc: 56.55%
+* Epoch 211/300
+- 2s - train_Loss: 4.1522 - train_Acc: 53.68%
+- 1s - test_Loss: 4.1522 - test_Acc: 53.68%
+* Epoch 212/300
+- 2s - train_Loss: 3.7072 - train_Acc: 56.93%
+- 1s - test_Loss: 3.7072 - test_Acc: 56.93%
+* Epoch 213/300
+- 2s - train_Loss: 3.8778 - train_Acc: 57.80%
+- 1s - test_Loss: 3.8778 - test_Acc: 57.80%
+* Epoch 214/300
+- 2s - train_Loss: 3.5486 - train_Acc: 59.43%
+- 1s - test_Loss: 3.5486 - test_Acc: 59.43%
+* Epoch 215/300
+- 2s - train_Loss: 3.8484 - train_Acc: 55.56%
+- 1s - test_Loss: 3.8484 - test_Acc: 55.56%
+* Epoch 216/300
+- 2s - train_Loss: 4.0924 - train_Acc: 55.68%
+- 1s - test_Loss: 4.0924 - test_Acc: 55.68%
+* Epoch 217/300
+- 2s - train_Loss: 4.1618 - train_Acc: 58.05%
+- 1s - test_Loss: 4.1618 - test_Acc: 58.05%
+* Epoch 218/300
+- 2s - train_Loss: 3.7403 - train_Acc: 59.93%
+- 1s - test_Loss: 3.7403 - test_Acc: 59.93%
+* Epoch 219/300
+- 2s - train_Loss: 3.6978 - train_Acc: 57.68%
+- 1s - test_Loss: 3.6978 - test_Acc: 57.68%
+* Epoch 220/300
+- 2s - train_Loss: 3.4098 - train_Acc: 63.42%
+- 1s - test_Loss: 3.4098 - test_Acc: 63.42%
+* Epoch 221/300
+- 2s - train_Loss: 3.8059 - train_Acc: 59.80%
+- 1s - test_Loss: 3.8059 - test_Acc: 59.80%
+* Epoch 222/300
+- 2s - train_Loss: 3.7591 - train_Acc: 60.17%
+- 1s - test_Loss: 3.7591 - test_Acc: 60.17%
+* Epoch 223/300
+- 2s - train_Loss: 3.5476 - train_Acc: 60.55%
+- 1s - test_Loss: 3.5476 - test_Acc: 60.55%
+* Epoch 224/300
+- 2s - train_Loss: 3.7803 - train_Acc: 58.43%
+- 1s - test_Loss: 3.7803 - test_Acc: 58.43%
+* Epoch 225/300
+- 2s - train_Loss: 3.9013 - train_Acc: 62.17%
+- 1s - test_Loss: 3.9013 - test_Acc: 62.17%
+* Epoch 226/300
+- 2s - train_Loss: 3.5796 - train_Acc: 63.92%
+- 1s - test_Loss: 3.5796 - test_Acc: 63.92%
+* Epoch 227/300
+- 2s - train_Loss: 3.5261 - train_Acc: 61.42%
+- 1s - test_Loss: 3.5261 - test_Acc: 61.42%
+* Epoch 228/300
+- 2s - train_Loss: 3.9934 - train_Acc: 58.93%
+- 1s - test_Loss: 3.9934 - test_Acc: 58.93%
+* Epoch 229/300
+- 2s - train_Loss: 3.3491 - train_Acc: 61.92%
+- 1s - test_Loss: 3.3491 - test_Acc: 61.92%
+* Epoch 230/300
+- 2s - train_Loss: 3.5389 - train_Acc: 62.80%
+- 1s - test_Loss: 3.5389 - test_Acc: 62.80%
+* Epoch 231/300
+- 2s - train_Loss: 3.6749 - train_Acc: 61.67%
+- 1s - test_Loss: 3.6749 - test_Acc: 61.67%
+* Epoch 232/300
+- 2s - train_Loss: 3.4785 - train_Acc: 63.42%
+- 1s - test_Loss: 3.4785 - test_Acc: 63.42%
+* Epoch 233/300
+- 2s - train_Loss: 3.3943 - train_Acc: 65.92%
+- 1s - test_Loss: 3.3943 - test_Acc: 65.92%
+* Epoch 234/300
+- 2s - train_Loss: 3.4063 - train_Acc: 66.29%
+- 1s - test_Loss: 3.4063 - test_Acc: 66.29%
+* Epoch 235/300
+- 2s - train_Loss: 3.4410 - train_Acc: 63.80%
+- 1s - test_Loss: 3.4410 - test_Acc: 63.80%
+* Epoch 236/300
+- 2s - train_Loss: 3.0971 - train_Acc: 66.79%
+- 1s - test_Loss: 3.0971 - test_Acc: 66.79%
+* Epoch 237/300
+- 2s - train_Loss: 3.4582 - train_Acc: 64.54%
+- 1s - test_Loss: 3.4582 - test_Acc: 64.54%
+* Epoch 238/300
+- 2s - train_Loss: 3.5120 - train_Acc: 64.79%
+- 1s - test_Loss: 3.5120 - test_Acc: 64.79%
+* Epoch 239/300
+- 2s - train_Loss: 3.4558 - train_Acc: 63.67%
+- 1s - test_Loss: 3.4558 - test_Acc: 63.67%
+* Epoch 240/300
+- 2s - train_Loss: 3.2113 - train_Acc: 66.92%
+- 1s - test_Loss: 3.2113 - test_Acc: 66.92%
+* Epoch 241/300
+- 2s - train_Loss: 3.3409 - train_Acc: 64.17%
+- 1s - test_Loss: 3.3409 - test_Acc: 64.17%
+* Epoch 242/300
+- 2s - train_Loss: 3.3752 - train_Acc: 64.17%
+- 1s - test_Loss: 3.3752 - test_Acc: 64.17%
+* Epoch 243/300
+- 2s - train_Loss: 3.3194 - train_Acc: 65.17%
+- 1s - test_Loss: 3.3194 - test_Acc: 65.17%
+* Epoch 244/300
+- 2s - train_Loss: 3.6259 - train_Acc: 60.55%
+- 1s - test_Loss: 3.6259 - test_Acc: 60.55%
+* Epoch 245/300
+- 2s - train_Loss: 3.1597 - train_Acc: 67.29%
+- 1s - test_Loss: 3.1597 - test_Acc: 67.29%
+* Epoch 246/300
+- 2s - train_Loss: 3.5651 - train_Acc: 63.92%
+- 1s - test_Loss: 3.5651 - test_Acc: 63.92%
+* Epoch 247/300
+- 2s - train_Loss: 3.1141 - train_Acc: 66.54%
+- 1s - test_Loss: 3.1141 - test_Acc: 66.54%
+* Epoch 248/300
+- 2s - train_Loss: 3.6266 - train_Acc: 63.17%
+- 1s - test_Loss: 3.6266 - test_Acc: 63.17%
+* Epoch 249/300
+- 2s - train_Loss: 3.2445 - train_Acc: 66.54%
+- 1s - test_Loss: 3.2445 - test_Acc: 66.54%
+* Epoch 250/300
+- 2s - train_Loss: 3.4059 - train_Acc: 64.92%
+- 1s - test_Loss: 3.4059 - test_Acc: 64.92%
+* Epoch 251/300
+- 2s - train_Loss: 3.1863 - train_Acc: 66.17%
+- 1s - test_Loss: 3.1863 - test_Acc: 66.17%
+* Epoch 252/300
+- 2s - train_Loss: 3.3562 - train_Acc: 64.92%
+- 1s - test_Loss: 3.3562 - test_Acc: 64.92%
+* Epoch 253/300
+- 2s - train_Loss: 3.2940 - train_Acc: 67.67%
+- 1s - test_Loss: 3.2940 - test_Acc: 67.67%
+* Epoch 254/300
+- 2s - train_Loss: 3.5263 - train_Acc: 65.54%
+- 1s - test_Loss: 3.5263 - test_Acc: 65.54%
+* Epoch 255/300
+- 2s - train_Loss: 3.1266 - train_Acc: 68.29%
+- 1s - test_Loss: 3.1266 - test_Acc: 68.29%
+* Epoch 256/300
+- 2s - train_Loss: 3.2931 - train_Acc: 66.29%
+- 1s - test_Loss: 3.2931 - test_Acc: 66.29%
+* Epoch 257/300
+- 2s - train_Loss: 3.5048 - train_Acc: 65.92%
+- 1s - test_Loss: 3.5048 - test_Acc: 65.92%
+* Epoch 258/300
+- 2s - train_Loss: 3.1817 - train_Acc: 67.29%
+- 1s - test_Loss: 3.1817 - test_Acc: 67.29%
+* Epoch 259/300
+- 2s - train_Loss: 3.1442 - train_Acc: 64.04%
+- 1s - test_Loss: 3.1442 - test_Acc: 64.04%
+* Epoch 260/300
+- 2s - train_Loss: 2.9901 - train_Acc: 68.04%
+- 1s - test_Loss: 2.9901 - test_Acc: 68.04%
+* Epoch 261/300
+- 2s - train_Loss: 3.0301 - train_Acc: 67.54%
+- 1s - test_Loss: 3.0301 - test_Acc: 67.54%
+* Epoch 262/300
+- 2s - train_Loss: 3.1825 - train_Acc: 64.79%
+- 1s - test_Loss: 3.1825 - test_Acc: 64.79%
+* Epoch 263/300
+- 2s - train_Loss: 2.9514 - train_Acc: 67.17%
+- 1s - test_Loss: 2.9514 - test_Acc: 67.17%
+* Epoch 264/300
+- 2s - train_Loss: 2.9489 - train_Acc: 68.16%
+- 1s - test_Loss: 2.9489 - test_Acc: 68.16%
+* Epoch 265/300
+- 2s - train_Loss: 2.9025 - train_Acc: 65.54%
+- 1s - test_Loss: 2.9025 - test_Acc: 65.54%
+* Epoch 266/300
+- 2s - train_Loss: 2.9153 - train_Acc: 64.54%
+- 1s - test_Loss: 2.9153 - test_Acc: 64.54%
+* Epoch 267/300
+- 2s - train_Loss: 3.0509 - train_Acc: 63.30%
+- 1s - test_Loss: 3.0509 - test_Acc: 63.30%
+* Epoch 268/300
+- 2s - train_Loss: 3.2320 - train_Acc: 64.79%
+- 1s - test_Loss: 3.2320 - test_Acc: 64.79%
+* Epoch 269/300
+- 2s - train_Loss: 2.9893 - train_Acc: 67.17%
+- 1s - test_Loss: 2.9893 - test_Acc: 67.17%
+* Epoch 270/300
+- 2s - train_Loss: 3.0968 - train_Acc: 67.17%
+- 1s - test_Loss: 3.0968 - test_Acc: 67.17%
+* Epoch 271/300
+- 2s - train_Loss: 2.9922 - train_Acc: 68.66%
+- 1s - test_Loss: 2.9922 - test_Acc: 68.66%
+* Epoch 272/300
+- 2s - train_Loss: 3.1220 - train_Acc: 67.54%
+- 1s - test_Loss: 3.1220 - test_Acc: 67.54%
+* Epoch 273/300
+- 2s - train_Loss: 2.9339 - train_Acc: 69.91%
+- 1s - test_Loss: 2.9339 - test_Acc: 69.91%
+* Epoch 274/300
+- 2s - train_Loss: 3.1609 - train_Acc: 66.92%
+- 1s - test_Loss: 3.1609 - test_Acc: 66.92%
+* Epoch 275/300
+- 2s - train_Loss: 2.7452 - train_Acc: 69.41%
+- 1s - test_Loss: 2.7452 - test_Acc: 69.41%
+* Epoch 276/300
+- 2s - train_Loss: 2.8128 - train_Acc: 69.54%
+- 1s - test_Loss: 2.8128 - test_Acc: 69.54%
+* Epoch 277/300
+- 2s - train_Loss: 2.7250 - train_Acc: 69.79%
+- 1s - test_Loss: 2.7250 - test_Acc: 69.79%
+* Epoch 278/300
+- 2s - train_Loss: 2.7259 - train_Acc: 70.79%
+- 1s - test_Loss: 2.7259 - test_Acc: 70.79%
+* Epoch 279/300
+- 2s - train_Loss: 3.0181 - train_Acc: 67.54%
+- 1s - test_Loss: 3.0181 - test_Acc: 67.54%
+* Epoch 280/300
+- 2s - train_Loss: 2.8914 - train_Acc: 71.29%
+- 1s - test_Loss: 2.8914 - test_Acc: 71.29%
+* Epoch 281/300
+- 2s - train_Loss: 2.8305 - train_Acc: 69.79%
+- 1s - test_Loss: 2.8305 - test_Acc: 69.79%
+* Epoch 282/300
+- 2s - train_Loss: 3.0283 - train_Acc: 68.54%
+- 1s - test_Loss: 3.0283 - test_Acc: 68.54%
+* Epoch 283/300
+- 2s - train_Loss: 3.0170 - train_Acc: 66.17%
+- 1s - test_Loss: 3.0170 - test_Acc: 66.17%
+* Epoch 284/300
+- 2s - train_Loss: 3.1869 - train_Acc: 65.29%
+- 1s - test_Loss: 3.1869 - test_Acc: 65.29%
+* Epoch 285/300
+- 2s - train_Loss: 2.7584 - train_Acc: 71.41%
+- 1s - test_Loss: 2.7584 - test_Acc: 71.41%
+* Epoch 286/300
+- 2s - train_Loss: 2.6950 - train_Acc: 70.41%
+- 1s - test_Loss: 2.6950 - test_Acc: 70.41%
+* Epoch 287/300
+- 2s - train_Loss: 2.5529 - train_Acc: 71.04%
+- 1s - test_Loss: 2.5529 - test_Acc: 71.04%
+* Epoch 288/300
+- 2s - train_Loss: 2.6491 - train_Acc: 70.16%
+- 1s - test_Loss: 2.6491 - test_Acc: 70.16%
+* Epoch 289/300
+- 2s - train_Loss: 2.7418 - train_Acc: 71.54%
+- 1s - test_Loss: 2.7418 - test_Acc: 71.54%
+* Epoch 290/300
+- 2s - train_Loss: 2.7413 - train_Acc: 69.41%
+- 1s - test_Loss: 2.7413 - test_Acc: 69.41%
+* Epoch 291/300
+- 2s - train_Loss: 2.8938 - train_Acc: 69.54%
+- 1s - test_Loss: 2.8938 - test_Acc: 69.54%
+* Epoch 292/300
+- 2s - train_Loss: 2.6128 - train_Acc: 70.29%
+- 1s - test_Loss: 2.6128 - test_Acc: 70.29%
+* Epoch 293/300
+- 2s - train_Loss: 2.6236 - train_Acc: 69.29%
+- 1s - test_Loss: 2.6236 - test_Acc: 69.29%
+* Epoch 294/300
+- 2s - train_Loss: 2.5298 - train_Acc: 69.66%
+- 1s - test_Loss: 2.5298 - test_Acc: 69.66%
+* Epoch 295/300
+- 2s - train_Loss: 2.7094 - train_Acc: 72.03%
+- 1s - test_Loss: 2.7094 - test_Acc: 72.03%
+* Epoch 296/300
+- 2s - train_Loss: 2.7719 - train_Acc: 70.04%
+- 1s - test_Loss: 2.7719 - test_Acc: 70.04%
+* Epoch 297/300
+- 2s - train_Loss: 2.7878 - train_Acc: 67.29%
+- 1s - test_Loss: 2.7878 - test_Acc: 67.29%
+* Epoch 298/300
+- 2s - train_Loss: 2.9143 - train_Acc: 68.79%
+- 1s - test_Loss: 2.9143 - test_Acc: 68.79%
+* Epoch 299/300
+- 2s - train_Loss: 2.6100 - train_Acc: 72.66%
+- 1s - test_Loss: 2.6100 - test_Acc: 72.66%
+* Epoch 300/300
+- 2s - train_Loss: 2.9198 - train_Acc: 70.66%
+- 1s - test_Loss: 2.9198 - test_Acc: 70.66%
+dataset: FGNET, loss_fn: UnimodalNet_absdistance, non_pre_weighted, batch_size: 4, lr: 0.0005, epochs: 300, time: 762.07s, model: resnet18_weights, lamda: 10.0 batch_size: 4 

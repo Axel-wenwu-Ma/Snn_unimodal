@@ -1,0 +1,210 @@
+=========================================
+Experiment Parameters:
+=========================================
+datasets: FGNET
+losses: POM WassersteinUnimodal_KLDIV
+models: snn_resnet18
+lrs: 1e-2 1e-3 1e-4 5e-4
+lamdas: 2
+learnable_params: True
+=========================================
+Starting experiments at: Thu Aug 28 19:14:27 WEST 2025
+=========================================
+Running: dataset=, loss=POM, model=snn_resnet18, lr=1e-2, lamda=2,fc_layer_name=GaussianFC
+FGNET train: 802 images, 62 age classes
+FGNET test: 200 images, 45 age classes
+* Epoch 1/300
+- 16s - train_Loss: 42.8834 - train_Acc: 3.74%
+- 2s - test_Loss: 37.1149 - test_Acc: 6.50%
+* Epoch 31/300
+- 15s - train_Loss: 18.0220 - train_Acc: 3.74%
+- 2s - test_Loss: 19.2386 - test_Acc: 6.50%
+* Epoch 61/300
+- 15s - train_Loss: 14.4104 - train_Acc: 3.74%
+- 2s - test_Loss: 15.6823 - test_Acc: 6.50%
+* Epoch 91/300
+- 15s - train_Loss: 11.7364 - train_Acc: 3.74%
+- 2s - test_Loss: 15.1645 - test_Acc: 6.50%
+Early stopping at epoch 109
+dataset: FGNET, loss_fn: POM, non_pre_weighted
+batch_size: 32, lr: 0.01, epochs: 300
+time: 1819.64s, model: snn_resnet18
+lamda: 2.0
+fc_layer_name: GaussianFC, use_leaky_gaussianfc:2
+batch_size: 32,Best_test_acc: 6.5, Best_test_acc_index: 0
+
+Running: dataset=, loss=POM, model=snn_resnet18, lr=1e-3, lamda=2,fc_layer_name=GaussianFC
+FGNET train: 802 images, 62 age classes
+FGNET test: 200 images, 45 age classes
+* Epoch 1/300
+- 15s - train_Loss: 43.1526 - train_Acc: 3.74%
+- 2s - test_Loss: 38.6894 - test_Acc: 6.50%
+* Epoch 31/300
+- 15s - train_Loss: 27.1802 - train_Acc: 3.74%
+- 2s - test_Loss: 26.5499 - test_Acc: 6.50%
+* Epoch 61/300
+- 15s - train_Loss: 20.4914 - train_Acc: 3.74%
+- 2s - test_Loss: 21.2341 - test_Acc: 6.50%
+* Epoch 91/300
+- 15s - train_Loss: 16.5993 - train_Acc: 3.74%
+- 2s - test_Loss: 18.2107 - test_Acc: 6.50%
+* Epoch 121/300
+- 15s - train_Loss: 13.8142 - train_Acc: 3.74%
+- 2s - test_Loss: 17.0103 - test_Acc: 6.50%
+* Epoch 151/300
+- 15s - train_Loss: 11.5006 - train_Acc: 3.74%
+- 2s - test_Loss: 16.5252 - test_Acc: 6.50%
+* Epoch 181/300
+- 15s - train_Loss: 13.0484 - train_Acc: 3.74%
+- 2s - test_Loss: 16.2541 - test_Acc: 6.50%
+* Epoch 211/300
+- 15s - train_Loss: 9.7597 - train_Acc: 3.74%
+- 2s - test_Loss: 13.2217 - test_Acc: 6.50%
+Early stopping at epoch 229
+dataset: FGNET, loss_fn: POM, non_pre_weighted
+batch_size: 32, lr: 0.001, epochs: 300
+time: 3806.99s, model: snn_resnet18
+lamda: 2.0
+fc_layer_name: GaussianFC, use_leaky_gaussianfc:2
+batch_size: 32,Best_test_acc: 6.5, Best_test_acc_index: 0
+
+Running: dataset=, loss=POM, model=snn_resnet18, lr=1e-4, lamda=2,fc_layer_name=GaussianFC
+FGNET train: 802 images, 62 age classes
+FGNET test: 200 images, 45 age classes
+* Epoch 1/300
+- 15s - train_Loss: 43.6306 - train_Acc: 3.74%
+- 2s - test_Loss: 36.2916 - test_Acc: 6.50%
+* Epoch 31/300
+- 15s - train_Loss: 33.3717 - train_Acc: 3.74%
+- 2s - test_Loss: 32.5374 - test_Acc: 6.50%
+* Epoch 61/300
+- 15s - train_Loss: 30.3752 - train_Acc: 3.74%
+- 2s - test_Loss: 30.9188 - test_Acc: 6.50%
+* Epoch 91/300
+- 15s - train_Loss: 28.1819 - train_Acc: 3.74%
+- 2s - test_Loss: 29.3127 - test_Acc: 6.50%
+* Epoch 121/300
+- 15s - train_Loss: 27.5661 - train_Acc: 3.74%
+- 2s - test_Loss: 28.1269 - test_Acc: 6.50%
+* Epoch 151/300
+- 15s - train_Loss: 26.5545 - train_Acc: 3.74%
+- 2s - test_Loss: 27.1800 - test_Acc: 6.50%
+* Epoch 181/300
+- 15s - train_Loss: 24.9880 - train_Acc: 3.74%
+- 2s - test_Loss: 26.1447 - test_Acc: 6.50%
+* Epoch 211/300
+- 15s - train_Loss: 24.5267 - train_Acc: 3.74%
+- 2s - test_Loss: 25.2784 - test_Acc: 6.50%
+* Epoch 241/300
+- 15s - train_Loss: 23.0701 - train_Acc: 3.74%
+- 2s - test_Loss: 24.7529 - test_Acc: 6.50%
+* Epoch 271/300
+- 15s - train_Loss: 22.5157 - train_Acc: 3.74%
+- 2s - test_Loss: 23.5989 - test_Acc: 6.50%
+dataset: FGNET, loss_fn: POM, non_pre_weighted
+batch_size: 32, lr: 0.0001, epochs: 300
+time: 4986.11s, model: snn_resnet18
+lamda: 2.0
+fc_layer_name: GaussianFC, use_leaky_gaussianfc:2
+batch_size: 32,Best_test_acc: 6.5, Best_test_acc_index: 0
+
+Running: dataset=, loss=POM, model=snn_resnet18, lr=5e-4, lamda=2,fc_layer_name=GaussianFC
+FGNET train: 802 images, 62 age classes
+FGNET test: 200 images, 45 age classes
+* Epoch 1/300
+- 16s - train_Loss: 40.3047 - train_Acc: 3.74%
+- 2s - test_Loss: 36.6495 - test_Acc: 6.50%
+* Epoch 31/300
+- 15s - train_Loss: 28.4622 - train_Acc: 3.74%
+- 2s - test_Loss: 28.6482 - test_Acc: 6.50%
+* Epoch 61/300
+- 15s - train_Loss: 23.6398 - train_Acc: 3.74%
+- 2s - test_Loss: 24.8204 - test_Acc: 6.50%
+* Epoch 91/300
+- 15s - train_Loss: 19.8494 - train_Acc: 3.74%
+- 2s - test_Loss: 21.3900 - test_Acc: 6.50%
+* Epoch 121/300
+- 15s - train_Loss: 17.3524 - train_Acc: 3.74%
+- 2s - test_Loss: 19.7529 - test_Acc: 6.50%
+* Epoch 151/300
+- 15s - train_Loss: 15.4217 - train_Acc: 3.74%
+- 2s - test_Loss: 19.2718 - test_Acc: 6.50%
+* Epoch 181/300
+- 15s - train_Loss: 13.9273 - train_Acc: 3.74%
+- 2s - test_Loss: 16.6752 - test_Acc: 6.50%
+Early stopping at epoch 197
+dataset: FGNET, loss_fn: POM, non_pre_weighted
+batch_size: 32, lr: 0.0005, epochs: 300
+time: 3281.87s, model: snn_resnet18
+lamda: 2.0
+fc_layer_name: GaussianFC, use_leaky_gaussianfc:2
+batch_size: 32,Best_test_acc: 6.5, Best_test_acc_index: 0
+
+Running: dataset=, loss=WassersteinUnimodal_KLDIV, model=snn_resnet18, lr=1e-2, lamda=2,fc_layer_name=GaussianFC
+FGNET train: 802 images, 62 age classes
+FGNET test: 200 images, 45 age classes
+* Epoch 1/300
+- 84s - train_Loss: 5.0911 - train_Acc: 3.12%
+- 19s - test_Loss: 3.9716 - test_Acc: 3.50%
+* Epoch 31/300
+- 80s - train_Loss: 3.5138 - train_Acc: 12.47%
+- 19s - test_Loss: 4.5380 - test_Acc: 6.50%
+Early stopping at epoch 46
+dataset: FGNET, loss_fn: WassersteinUnimodal_KLDIV, non_pre_weighted
+batch_size: 32, lr: 0.01, epochs: 300
+time: 4581.78s, model: snn_resnet18
+lamda: 2.0
+fc_layer_name: GaussianFC, use_leaky_gaussianfc:2
+batch_size: 32,Best_test_acc: 11.0, Best_test_acc_index: 36
+
+Running: dataset=, loss=WassersteinUnimodal_KLDIV, model=snn_resnet18, lr=1e-3, lamda=2,fc_layer_name=GaussianFC
+FGNET train: 802 images, 62 age classes
+FGNET test: 200 images, 45 age classes
+* Epoch 1/300
+- 84s - train_Loss: 4.0309 - train_Acc: 2.74%
+- 19s - test_Loss: 3.9916 - test_Acc: 2.50%
+* Epoch 31/300
+- 94s - train_Loss: 3.3296 - train_Acc: 16.46%
+- 25s - test_Loss: 4.0916 - test_Acc: 8.00%
+Early stopping at epoch 55
+dataset: FGNET, loss_fn: WassersteinUnimodal_KLDIV, non_pre_weighted
+batch_size: 32, lr: 0.001, epochs: 300
+time: 6281.46s, model: snn_resnet18
+lamda: 2.0
+fc_layer_name: GaussianFC, use_leaky_gaussianfc:2
+batch_size: 32,Best_test_acc: 12.5, Best_test_acc_index: 52
+
+Running: dataset=, loss=WassersteinUnimodal_KLDIV, model=snn_resnet18, lr=1e-4, lamda=2,fc_layer_name=GaussianFC
+FGNET train: 802 images, 62 age classes
+FGNET test: 200 images, 45 age classes
+* Epoch 1/300
+- 1318s - train_Loss: 4.2370 - train_Acc: 2.24%
+- 111s - test_Loss: 3.9514 - test_Acc: 4.00%
+* Epoch 31/300
+- 1386s - train_Loss: 3.3042 - train_Acc: 16.96%
+- 124s - test_Loss: 3.7295 - test_Acc: 9.50%
+Early stopping at epoch 55
+dataset: FGNET, loss_fn: WassersteinUnimodal_KLDIV, non_pre_weighted
+batch_size: 32, lr: 0.0001, epochs: 300
+time: 77462.86s, model: snn_resnet18
+lamda: 2.0
+fc_layer_name: GaussianFC, use_leaky_gaussianfc:2
+batch_size: 32,Best_test_acc: 11.0, Best_test_acc_index: 34
+
+Running: dataset=, loss=WassersteinUnimodal_KLDIV, model=snn_resnet18, lr=5e-4, lamda=2,fc_layer_name=GaussianFC
+FGNET train: 802 images, 62 age classes
+FGNET test: 200 images, 45 age classes
+* Epoch 1/300
+- 1447s - train_Loss: 3.9965 - train_Acc: 3.87%
+- 117s - test_Loss: 3.9381 - test_Acc: 3.00%
+* Epoch 31/300
+- 1264s - train_Loss: 3.0480 - train_Acc: 21.82%
+- 123s - test_Loss: 3.8790 - test_Acc: 9.50%
+Early stopping at epoch 48
+dataset: FGNET, loss_fn: WassersteinUnimodal_KLDIV, non_pre_weighted
+batch_size: 32, lr: 0.0005, epochs: 300
+time: 68563.97s, model: snn_resnet18
+lamda: 2.0
+fc_layer_name: GaussianFC, use_leaky_gaussianfc:2
+batch_size: 32,Best_test_acc: 13.5, Best_test_acc_index: 41
+

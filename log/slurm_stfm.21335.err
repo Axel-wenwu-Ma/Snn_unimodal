@@ -1,0 +1,696 @@
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 168, in <module>
+    model.fc = get_fc_layer(args.fc_layer_name, 512, out_features)
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 131, in get_fc_layer
+    return fc
+UnboundLocalError: local variable 'fc' referenced before assignment
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 168, in <module>
+    model.fc = get_fc_layer(args.fc_layer_name, 512, out_features)
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 131, in get_fc_layer
+    return fc
+UnboundLocalError: local variable 'fc' referenced before assignment
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 168, in <module>
+    model.fc = get_fc_layer(args.fc_layer_name, 512, out_features)
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 131, in get_fc_layer
+    return fc
+UnboundLocalError: local variable 'fc' referenced before assignment
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 168, in <module>
+    model.fc = get_fc_layer(args.fc_layer_name, 512, out_features)
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 131, in get_fc_layer
+    return fc
+UnboundLocalError: local variable 'fc' referenced before assignment
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 168, in <module>
+    model.fc = get_fc_layer(args.fc_layer_name, 512, out_features)
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 131, in get_fc_layer
+    return fc
+UnboundLocalError: local variable 'fc' referenced before assignment
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 168, in <module>
+    model.fc = get_fc_layer(args.fc_layer_name, 512, out_features)
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 131, in get_fc_layer
+    return fc
+UnboundLocalError: local variable 'fc' referenced before assignment
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 168, in <module>
+    model.fc = get_fc_layer(args.fc_layer_name, 512, out_features)
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 131, in get_fc_layer
+    return fc
+UnboundLocalError: local variable 'fc' referenced before assignment
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 168, in <module>
+    model.fc = get_fc_layer(args.fc_layer_name, 512, out_features)
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 131, in get_fc_layer
+    return fc
+UnboundLocalError: local variable 'fc' referenced before assignment
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 168, in <module>
+    model.fc = get_fc_layer(args.fc_layer_name, 512, out_features)
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 131, in get_fc_layer
+    return fc
+UnboundLocalError: local variable 'fc' referenced before assignment
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 168, in <module>
+    model.fc = get_fc_layer(args.fc_layer_name, 512, out_features)
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 131, in get_fc_layer
+    return fc
+UnboundLocalError: local variable 'fc' referenced before assignment
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 168, in <module>
+    model.fc = get_fc_layer(args.fc_layer_name, 512, out_features)
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 131, in get_fc_layer
+    return fc
+UnboundLocalError: local variable 'fc' referenced before assignment
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 168, in <module>
+    model.fc = get_fc_layer(args.fc_layer_name, 512, out_features)
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 131, in get_fc_layer
+    return fc
+UnboundLocalError: local variable 'fc' referenced before assignment
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 168, in <module>
+    model.fc = get_fc_layer(args.fc_layer_name, 512, out_features)
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 131, in get_fc_layer
+    return fc
+UnboundLocalError: local variable 'fc' referenced before assignment
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 168, in <module>
+    model.fc = get_fc_layer(args.fc_layer_name, 512, out_features)
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 131, in get_fc_layer
+    return fc
+UnboundLocalError: local variable 'fc' referenced before assignment
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 168, in <module>
+    model.fc = get_fc_layer(args.fc_layer_name, 512, out_features)
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 131, in get_fc_layer
+    return fc
+UnboundLocalError: local variable 'fc' referenced before assignment
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 168, in <module>
+    model.fc = get_fc_layer(args.fc_layer_name, 512, out_features)
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 131, in get_fc_layer
+    return fc
+UnboundLocalError: local variable 'fc' referenced before assignment
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 168, in <module>
+    model.fc = get_fc_layer(args.fc_layer_name, 512, out_features)
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 131, in get_fc_layer
+    return fc
+UnboundLocalError: local variable 'fc' referenced before assignment
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 168, in <module>
+    model.fc = get_fc_layer(args.fc_layer_name, 512, out_features)
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 131, in get_fc_layer
+    return fc
+UnboundLocalError: local variable 'fc' referenced before assignment
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 168, in <module>
+    model.fc = get_fc_layer(args.fc_layer_name, 512, out_features)
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 131, in get_fc_layer
+    return fc
+UnboundLocalError: local variable 'fc' referenced before assignment
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 168, in <module>
+    model.fc = get_fc_layer(args.fc_layer_name, 512, out_features)
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 131, in get_fc_layer
+    return fc
+UnboundLocalError: local variable 'fc' referenced before assignment
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 168, in <module>
+    model.fc = get_fc_layer(args.fc_layer_name, 512, out_features)
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 131, in get_fc_layer
+    return fc
+UnboundLocalError: local variable 'fc' referenced before assignment
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 168, in <module>
+    model.fc = get_fc_layer(args.fc_layer_name, 512, out_features)
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 131, in get_fc_layer
+    return fc
+UnboundLocalError: local variable 'fc' referenced before assignment
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 168, in <module>
+    model.fc = get_fc_layer(args.fc_layer_name, 512, out_features)
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 131, in get_fc_layer
+    return fc
+UnboundLocalError: local variable 'fc' referenced before assignment
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 168, in <module>
+    model.fc = get_fc_layer(args.fc_layer_name, 512, out_features)
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 131, in get_fc_layer
+    return fc
+UnboundLocalError: local variable 'fc' referenced before assignment
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 168, in <module>
+    model.fc = get_fc_layer(args.fc_layer_name, 512, out_features)
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 131, in get_fc_layer
+    return fc
+UnboundLocalError: local variable 'fc' referenced before assignment
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 168, in <module>
+    model.fc = get_fc_layer(args.fc_layer_name, 512, out_features)
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 131, in get_fc_layer
+    return fc
+UnboundLocalError: local variable 'fc' referenced before assignment
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 168, in <module>
+    model.fc = get_fc_layer(args.fc_layer_name, 512, out_features)
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 131, in get_fc_layer
+    return fc
+UnboundLocalError: local variable 'fc' referenced before assignment
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 168, in <module>
+    model.fc = get_fc_layer(args.fc_layer_name, 512, out_features)
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 131, in get_fc_layer
+    return fc
+UnboundLocalError: local variable 'fc' referenced before assignment
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 168, in <module>
+    model.fc = get_fc_layer(args.fc_layer_name, 512, out_features)
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 131, in get_fc_layer
+    return fc
+UnboundLocalError: local variable 'fc' referenced before assignment
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 168, in <module>
+    model.fc = get_fc_layer(args.fc_layer_name, 512, out_features)
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 131, in get_fc_layer
+    return fc
+UnboundLocalError: local variable 'fc' referenced before assignment
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 168, in <module>
+    model.fc = get_fc_layer(args.fc_layer_name, 512, out_features)
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 131, in get_fc_layer
+    return fc
+UnboundLocalError: local variable 'fc' referenced before assignment
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 168, in <module>
+    model.fc = get_fc_layer(args.fc_layer_name, 512, out_features)
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 131, in get_fc_layer
+    return fc
+UnboundLocalError: local variable 'fc' referenced before assignment
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 168, in <module>
+    model.fc = get_fc_layer(args.fc_layer_name, 512, out_features)
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 131, in get_fc_layer
+    return fc
+UnboundLocalError: local variable 'fc' referenced before assignment
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 168, in <module>
+    model.fc = get_fc_layer(args.fc_layer_name, 512, out_features)
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 131, in get_fc_layer
+    return fc
+UnboundLocalError: local variable 'fc' referenced before assignment
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 168, in <module>
+    model.fc = get_fc_layer(args.fc_layer_name, 512, out_features)
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 131, in get_fc_layer
+    return fc
+UnboundLocalError: local variable 'fc' referenced before assignment
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 168, in <module>
+    model.fc = get_fc_layer(args.fc_layer_name, 512, out_features)
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 131, in get_fc_layer
+    return fc
+UnboundLocalError: local variable 'fc' referenced before assignment
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 168, in <module>
+    model.fc = get_fc_layer(args.fc_layer_name, 512, out_features)
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 131, in get_fc_layer
+    return fc
+UnboundLocalError: local variable 'fc' referenced before assignment
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 168, in <module>
+    model.fc = get_fc_layer(args.fc_layer_name, 512, out_features)
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 131, in get_fc_layer
+    return fc
+UnboundLocalError: local variable 'fc' referenced before assignment
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 168, in <module>
+    model.fc = get_fc_layer(args.fc_layer_name, 512, out_features)
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 131, in get_fc_layer
+    return fc
+UnboundLocalError: local variable 'fc' referenced before assignment
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 168, in <module>
+    model.fc = get_fc_layer(args.fc_layer_name, 512, out_features)
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 131, in get_fc_layer
+    return fc
+UnboundLocalError: local variable 'fc' referenced before assignment
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 168, in <module>
+    model.fc = get_fc_layer(args.fc_layer_name, 512, out_features)
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 131, in get_fc_layer
+    return fc
+UnboundLocalError: local variable 'fc' referenced before assignment
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 168, in <module>
+    model.fc = get_fc_layer(args.fc_layer_name, 512, out_features)
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 131, in get_fc_layer
+    return fc
+UnboundLocalError: local variable 'fc' referenced before assignment
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 168, in <module>
+    model.fc = get_fc_layer(args.fc_layer_name, 512, out_features)
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 131, in get_fc_layer
+    return fc
+UnboundLocalError: local variable 'fc' referenced before assignment
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 168, in <module>
+    model.fc = get_fc_layer(args.fc_layer_name, 512, out_features)
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 131, in get_fc_layer
+    return fc
+UnboundLocalError: local variable 'fc' referenced before assignment
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 158, in <module>
+    model = ResNet18()
+TypeError: ResNet18.__init__() missing 1 required positional argument: 'cfg'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 158, in <module>
+    model = ResNet18()
+TypeError: ResNet18.__init__() missing 1 required positional argument: 'cfg'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 158, in <module>
+    model = ResNet18()
+TypeError: ResNet18.__init__() missing 1 required positional argument: 'cfg'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 158, in <module>
+    model = ResNet18()
+TypeError: ResNet18.__init__() missing 1 required positional argument: 'cfg'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 158, in <module>
+    model = ResNet18()
+TypeError: ResNet18.__init__() missing 1 required positional argument: 'cfg'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 158, in <module>
+    model = ResNet18()
+TypeError: ResNet18.__init__() missing 1 required positional argument: 'cfg'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 158, in <module>
+    model = ResNet18()
+TypeError: ResNet18.__init__() missing 1 required positional argument: 'cfg'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 158, in <module>
+    model = ResNet18()
+TypeError: ResNet18.__init__() missing 1 required positional argument: 'cfg'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 158, in <module>
+    model = ResNet18()
+TypeError: ResNet18.__init__() missing 1 required positional argument: 'cfg'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 158, in <module>
+    model = ResNet18()
+TypeError: ResNet18.__init__() missing 1 required positional argument: 'cfg'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 158, in <module>
+    model = ResNet18()
+TypeError: ResNet18.__init__() missing 1 required positional argument: 'cfg'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 158, in <module>
+    model = ResNet18()
+TypeError: ResNet18.__init__() missing 1 required positional argument: 'cfg'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 158, in <module>
+    model = ResNet18()
+TypeError: ResNet18.__init__() missing 1 required positional argument: 'cfg'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 158, in <module>
+    model = ResNet18()
+TypeError: ResNet18.__init__() missing 1 required positional argument: 'cfg'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 158, in <module>
+    model = ResNet18()
+TypeError: ResNet18.__init__() missing 1 required positional argument: 'cfg'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 158, in <module>
+    model = ResNet18()
+TypeError: ResNet18.__init__() missing 1 required positional argument: 'cfg'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 158, in <module>
+    model = ResNet18()
+TypeError: ResNet18.__init__() missing 1 required positional argument: 'cfg'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 158, in <module>
+    model = ResNet18()
+TypeError: ResNet18.__init__() missing 1 required positional argument: 'cfg'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 158, in <module>
+    model = ResNet18()
+TypeError: ResNet18.__init__() missing 1 required positional argument: 'cfg'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 158, in <module>
+    model = ResNet18()
+TypeError: ResNet18.__init__() missing 1 required positional argument: 'cfg'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 158, in <module>
+    model = ResNet18()
+TypeError: ResNet18.__init__() missing 1 required positional argument: 'cfg'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 158, in <module>
+    model = ResNet18()
+TypeError: ResNet18.__init__() missing 1 required positional argument: 'cfg'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 158, in <module>
+    model = ResNet18()
+TypeError: ResNet18.__init__() missing 1 required positional argument: 'cfg'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 158, in <module>
+    model = ResNet18()
+TypeError: ResNet18.__init__() missing 1 required positional argument: 'cfg'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 158, in <module>
+    model = ResNet18()
+TypeError: ResNet18.__init__() missing 1 required positional argument: 'cfg'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 158, in <module>
+    model = ResNet18()
+TypeError: ResNet18.__init__() missing 1 required positional argument: 'cfg'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 158, in <module>
+    model = ResNet18()
+TypeError: ResNet18.__init__() missing 1 required positional argument: 'cfg'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 158, in <module>
+    model = ResNet18()
+TypeError: ResNet18.__init__() missing 1 required positional argument: 'cfg'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 158, in <module>
+    model = ResNet18()
+TypeError: ResNet18.__init__() missing 1 required positional argument: 'cfg'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 158, in <module>
+    model = ResNet18()
+TypeError: ResNet18.__init__() missing 1 required positional argument: 'cfg'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 158, in <module>
+    model = ResNet18()
+TypeError: ResNet18.__init__() missing 1 required positional argument: 'cfg'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 158, in <module>
+    model = ResNet18()
+TypeError: ResNet18.__init__() missing 1 required positional argument: 'cfg'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 158, in <module>
+    model = ResNet18()
+TypeError: ResNet18.__init__() missing 1 required positional argument: 'cfg'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 158, in <module>
+    model = ResNet18()
+TypeError: ResNet18.__init__() missing 1 required positional argument: 'cfg'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 158, in <module>
+    model = ResNet18()
+TypeError: ResNet18.__init__() missing 1 required positional argument: 'cfg'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 158, in <module>
+    model = ResNet18()
+TypeError: ResNet18.__init__() missing 1 required positional argument: 'cfg'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 158, in <module>
+    model = ResNet18()
+TypeError: ResNet18.__init__() missing 1 required positional argument: 'cfg'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 158, in <module>
+    model = ResNet18()
+TypeError: ResNet18.__init__() missing 1 required positional argument: 'cfg'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 158, in <module>
+    model = ResNet18()
+TypeError: ResNet18.__init__() missing 1 required positional argument: 'cfg'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 158, in <module>
+    model = ResNet18()
+TypeError: ResNet18.__init__() missing 1 required positional argument: 'cfg'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 158, in <module>
+    model = ResNet18()
+TypeError: ResNet18.__init__() missing 1 required positional argument: 'cfg'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 158, in <module>
+    model = ResNet18()
+TypeError: ResNet18.__init__() missing 1 required positional argument: 'cfg'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 158, in <module>
+    model = ResNet18()
+TypeError: ResNet18.__init__() missing 1 required positional argument: 'cfg'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 158, in <module>
+    model = ResNet18()
+TypeError: ResNet18.__init__() missing 1 required positional argument: 'cfg'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 158, in <module>
+    model = ResNet18()
+TypeError: ResNet18.__init__() missing 1 required positional argument: 'cfg'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 158, in <module>
+    model = ResNet18()
+TypeError: ResNet18.__init__() missing 1 required positional argument: 'cfg'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 158, in <module>
+    model = ResNet18()
+TypeError: ResNet18.__init__() missing 1 required positional argument: 'cfg'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 158, in <module>
+    model = ResNet18()
+TypeError: ResNet18.__init__() missing 1 required positional argument: 'cfg'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 158, in <module>
+    model = ResNet18()
+TypeError: ResNet18.__init__() missing 1 required positional argument: 'cfg'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 158, in <module>
+    model = ResNet18()
+TypeError: ResNet18.__init__() missing 1 required positional argument: 'cfg'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 158, in <module>
+    model = ResNet18()
+TypeError: ResNet18.__init__() missing 1 required positional argument: 'cfg'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 158, in <module>
+    model = ResNet18()
+TypeError: ResNet18.__init__() missing 1 required positional argument: 'cfg'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 158, in <module>
+    model = ResNet18()
+TypeError: ResNet18.__init__() missing 1 required positional argument: 'cfg'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 158, in <module>
+    model = ResNet18()
+TypeError: ResNet18.__init__() missing 1 required positional argument: 'cfg'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 161, in <module>
+    model = ResNet18()
+TypeError: ResNet18.__init__() missing 1 required positional argument: 'cfg'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 161, in <module>
+    model = ResNet18()
+TypeError: ResNet18.__init__() missing 1 required positional argument: 'cfg'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 161, in <module>
+    model = ResNet18()
+TypeError: ResNet18.__init__() missing 1 required positional argument: 'cfg'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 161, in <module>
+    model = ResNet18()
+TypeError: ResNet18.__init__() missing 1 required positional argument: 'cfg'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 161, in <module>
+    model = ResNet18()
+TypeError: ResNet18.__init__() missing 1 required positional argument: 'cfg'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 161, in <module>
+    model = ResNet18()
+TypeError: ResNet18.__init__() missing 1 required positional argument: 'cfg'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 161, in <module>
+    model = ResNet18()
+TypeError: ResNet18.__init__() missing 1 required positional argument: 'cfg'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 161, in <module>
+    model = ResNet18()
+TypeError: ResNet18.__init__() missing 1 required positional argument: 'cfg'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 161, in <module>
+    model = ResNet18()
+TypeError: ResNet18.__init__() missing 1 required positional argument: 'cfg'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 161, in <module>
+    model = ResNet18()
+TypeError: ResNet18.__init__() missing 1 required positional argument: 'cfg'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 161, in <module>
+    model = ResNet18()
+TypeError: ResNet18.__init__() missing 1 required positional argument: 'cfg'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 161, in <module>
+    model = ResNet18()
+TypeError: ResNet18.__init__() missing 1 required positional argument: 'cfg'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 161, in <module>
+    model = ResNet18()
+TypeError: ResNet18.__init__() missing 1 required positional argument: 'cfg'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 161, in <module>
+    model = ResNet18()
+TypeError: ResNet18.__init__() missing 1 required positional argument: 'cfg'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 161, in <module>
+    model = ResNet18()
+TypeError: ResNet18.__init__() missing 1 required positional argument: 'cfg'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 161, in <module>
+    model = ResNet18()
+TypeError: ResNet18.__init__() missing 1 required positional argument: 'cfg'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 161, in <module>
+    model = ResNet18()
+TypeError: ResNet18.__init__() missing 1 required positional argument: 'cfg'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 161, in <module>
+    model = ResNet18()
+TypeError: ResNet18.__init__() missing 1 required positional argument: 'cfg'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 161, in <module>
+    model = ResNet18()
+TypeError: ResNet18.__init__() missing 1 required positional argument: 'cfg'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 161, in <module>
+    model = ResNet18()
+TypeError: ResNet18.__init__() missing 1 required positional argument: 'cfg'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 161, in <module>
+    model = ResNet18()
+TypeError: ResNet18.__init__() missing 1 required positional argument: 'cfg'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 161, in <module>
+    model = ResNet18()
+TypeError: ResNet18.__init__() missing 1 required positional argument: 'cfg'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 161, in <module>
+    model = ResNet18()
+TypeError: ResNet18.__init__() missing 1 required positional argument: 'cfg'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 161, in <module>
+    model = ResNet18()
+TypeError: ResNet18.__init__() missing 1 required positional argument: 'cfg'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 161, in <module>
+    model = ResNet18()
+TypeError: ResNet18.__init__() missing 1 required positional argument: 'cfg'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 161, in <module>
+    model = ResNet18()
+TypeError: ResNet18.__init__() missing 1 required positional argument: 'cfg'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 161, in <module>
+    model = ResNet18()
+TypeError: ResNet18.__init__() missing 1 required positional argument: 'cfg'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 161, in <module>
+    model = ResNet18()
+TypeError: ResNet18.__init__() missing 1 required positional argument: 'cfg'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 161, in <module>
+    model = ResNet18()
+TypeError: ResNet18.__init__() missing 1 required positional argument: 'cfg'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 161, in <module>
+    model = ResNet18()
+TypeError: ResNet18.__init__() missing 1 required positional argument: 'cfg'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 161, in <module>
+    model = ResNet18()
+TypeError: ResNet18.__init__() missing 1 required positional argument: 'cfg'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 161, in <module>
+    model = ResNet18()
+TypeError: ResNet18.__init__() missing 1 required positional argument: 'cfg'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 161, in <module>
+    model = ResNet18()
+TypeError: ResNet18.__init__() missing 1 required positional argument: 'cfg'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 161, in <module>
+    model = ResNet18()
+TypeError: ResNet18.__init__() missing 1 required positional argument: 'cfg'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 161, in <module>
+    model = ResNet18()
+TypeError: ResNet18.__init__() missing 1 required positional argument: 'cfg'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 161, in <module>
+    model = ResNet18()
+TypeError: ResNet18.__init__() missing 1 required positional argument: 'cfg'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 161, in <module>
+    model = ResNet18()
+TypeError: ResNet18.__init__() missing 1 required positional argument: 'cfg'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 161, in <module>
+    model = ResNet18()
+TypeError: ResNet18.__init__() missing 1 required positional argument: 'cfg'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 161, in <module>
+    model = ResNet18()
+TypeError: ResNet18.__init__() missing 1 required positional argument: 'cfg'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 161, in <module>
+    model = ResNet18()
+TypeError: ResNet18.__init__() missing 1 required positional argument: 'cfg'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 161, in <module>
+    model = ResNet18()
+TypeError: ResNet18.__init__() missing 1 required positional argument: 'cfg'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 161, in <module>
+    model = ResNet18()
+TypeError: ResNet18.__init__() missing 1 required positional argument: 'cfg'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 161, in <module>
+    model = ResNet18()
+TypeError: ResNet18.__init__() missing 1 required positional argument: 'cfg'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 161, in <module>
+    model = ResNet18()
+TypeError: ResNet18.__init__() missing 1 required positional argument: 'cfg'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 161, in <module>
+    model = ResNet18()
+TypeError: ResNet18.__init__() missing 1 required positional argument: 'cfg'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 161, in <module>
+    model = ResNet18()
+TypeError: ResNet18.__init__() missing 1 required positional argument: 'cfg'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 161, in <module>
+    model = ResNet18()
+TypeError: ResNet18.__init__() missing 1 required positional argument: 'cfg'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 161, in <module>
+    model = ResNet18()
+TypeError: ResNet18.__init__() missing 1 required positional argument: 'cfg'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 161, in <module>
+    model = ResNet18()
+TypeError: ResNet18.__init__() missing 1 required positional argument: 'cfg'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 161, in <module>
+    model = ResNet18()
+TypeError: ResNet18.__init__() missing 1 required positional argument: 'cfg'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 161, in <module>
+    model = ResNet18()
+TypeError: ResNet18.__init__() missing 1 required positional argument: 'cfg'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 161, in <module>
+    model = ResNet18()
+TypeError: ResNet18.__init__() missing 1 required positional argument: 'cfg'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 161, in <module>
+    model = ResNet18()
+TypeError: ResNet18.__init__() missing 1 required positional argument: 'cfg'
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 161, in <module>
+    model = ResNet18()
+TypeError: ResNet18.__init__() missing 1 required positional argument: 'cfg'

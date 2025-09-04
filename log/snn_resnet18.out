@@ -1,0 +1,132 @@
+=========================================
+Experiment Parameters:
+=========================================
+datasets: FGNET
+losses: CrossEntropy POM UnimodalNet
+models: snn_resnet18
+lrs: 1e-2 1e-3 1e-4
+lamdas: 2
+fc_layer_name: GaussianFC GaussianFC_uni FlexibleSingleGaussianFC MultiModalSingleGaussianFC PeakedGaussianFC AdvancedSmoothedGaussianFC
+=========================================
+Starting experiments at: Thu Aug 28 14:53:08 WEST 2025
+=========================================
+Running: dataset=, loss=CrossEntropy, model=snn_resnet18, lr=1e-2, lamda=2,fc_layer_name=GaussianFC
+FGNET train: 802 images, 62 age classes
+FGNET test: 200 images, 45 age classes
+* Epoch 1/300
+- 16s - train_Loss: 4.8452 - train_Acc: 2.37%
+- 2s - test_Loss: 3.9347 - test_Acc: 4.50%
+* Epoch 31/300
+- 15s - train_Loss: 3.0520 - train_Acc: 15.46%
+- 2s - test_Loss: 4.4384 - test_Acc: 5.00%
+Early stopping at epoch 36
+dataset: FGNET, loss_fn: CrossEntropy, non_pre_weighted
+batch_size: 32, lr: 0.01, epochs: 300
+time: 603.88s, model: snn_resnet18
+lamda: 2.0
+fc_layer_name: GaussianFC, use_leaky_gaussianfc:2
+batch_size: 32,Best_test_acc: 8.5, Best_test_acc_index: 22
+
+Running: dataset=, loss=CrossEntropy, model=snn_resnet18, lr=1e-3, lamda=2,fc_layer_name=GaussianFC
+FGNET train: 802 images, 62 age classes
+FGNET test: 200 images, 45 age classes
+* Epoch 1/300
+- 16s - train_Loss: 4.0572 - train_Acc: 2.74%
+- 2s - test_Loss: 3.9575 - test_Acc: 4.00%
+* Epoch 31/300
+- 15s - train_Loss: 2.8435 - train_Acc: 19.70%
+- 2s - test_Loss: 4.5286 - test_Acc: 9.00%
+Early stopping at epoch 32
+dataset: FGNET, loss_fn: CrossEntropy, non_pre_weighted
+batch_size: 32, lr: 0.001, epochs: 300
+time: 534.33s, model: snn_resnet18
+lamda: 2.0
+fc_layer_name: GaussianFC, use_leaky_gaussianfc:2
+batch_size: 32,Best_test_acc: 10.0, Best_test_acc_index: 10
+
+Running: dataset=, loss=CrossEntropy, model=snn_resnet18, lr=1e-4, lamda=2,fc_layer_name=GaussianFC
+FGNET train: 802 images, 62 age classes
+FGNET test: 200 images, 45 age classes
+* Epoch 1/300
+- 15s - train_Loss: 4.0998 - train_Acc: 2.37%
+- 2s - test_Loss: 3.8424 - test_Acc: 6.50%
+Early stopping at epoch 24
+dataset: FGNET, loss_fn: CrossEntropy, non_pre_weighted
+batch_size: 32, lr: 0.0001, epochs: 300
+time: 402.58s, model: snn_resnet18
+lamda: 2.0
+fc_layer_name: GaussianFC, use_leaky_gaussianfc:2
+batch_size: 32,Best_test_acc: 8.5, Best_test_acc_index: 20
+
+Running: dataset=, loss=POM, model=snn_resnet18, lr=1e-2, lamda=2,fc_layer_name=GaussianFC
+FGNET train: 802 images, 62 age classes
+FGNET test: 200 images, 45 age classes
+* Epoch 1/300
+Running: dataset=, loss=POM, model=snn_resnet18, lr=1e-3, lamda=2,fc_layer_name=GaussianFC
+FGNET train: 802 images, 62 age classes
+FGNET test: 200 images, 45 age classes
+* Epoch 1/300
+Running: dataset=, loss=POM, model=snn_resnet18, lr=1e-4, lamda=2,fc_layer_name=GaussianFC
+FGNET train: 802 images, 62 age classes
+FGNET test: 200 images, 45 age classes
+* Epoch 1/300
+Running: dataset=, loss=UnimodalNet, model=snn_resnet18, lr=1e-2, lamda=2,fc_layer_name=GaussianFC
+FGNET train: 802 images, 62 age classes
+FGNET test: 200 images, 45 age classes
+* Epoch 1/300
+- 16s - train_Loss: 4.9857 - train_Acc: 3.49%
+- 2s - test_Loss: 4.2485 - test_Acc: 6.50%
+* Epoch 31/300
+- 15s - train_Loss: 4.2357 - train_Acc: 3.74%
+- 2s - test_Loss: 4.1970 - test_Acc: 6.50%
+* Epoch 61/300
+- 15s - train_Loss: 3.6845 - train_Acc: 3.74%
+- 2s - test_Loss: 3.6932 - test_Acc: 6.50%
+* Epoch 91/300
+- 15s - train_Loss: 3.5328 - train_Acc: 4.36%
+- 2s - test_Loss: 3.7869 - test_Acc: 6.50%
+Early stopping at epoch 106
+dataset: FGNET, loss_fn: UnimodalNet, non_pre_weighted
+batch_size: 32, lr: 0.01, epochs: 300
+time: 1782.48s, model: snn_resnet18
+lamda: 2.0
+fc_layer_name: GaussianFC, use_leaky_gaussianfc:2
+batch_size: 32,Best_test_acc: 8.0, Best_test_acc_index: 103
+
+Running: dataset=, loss=UnimodalNet, model=snn_resnet18, lr=1e-3, lamda=2,fc_layer_name=GaussianFC
+FGNET train: 802 images, 62 age classes
+FGNET test: 200 images, 45 age classes
+* Epoch 1/300
+- 16s - train_Loss: 4.9572 - train_Acc: 3.74%
+- 2s - test_Loss: 4.5302 - test_Acc: 7.00%
+* Epoch 31/300
+- 15s - train_Loss: 3.4006 - train_Acc: 4.11%
+- 2s - test_Loss: 3.8428 - test_Acc: 6.00%
+Early stopping at epoch 36
+dataset: FGNET, loss_fn: UnimodalNet, non_pre_weighted
+batch_size: 32, lr: 0.001, epochs: 300
+time: 607.18s, model: snn_resnet18
+lamda: 2.0
+fc_layer_name: GaussianFC, use_leaky_gaussianfc:2
+batch_size: 32,Best_test_acc: 7.0, Best_test_acc_index: 0
+
+Running: dataset=, loss=UnimodalNet, model=snn_resnet18, lr=1e-4, lamda=2,fc_layer_name=GaussianFC
+FGNET train: 802 images, 62 age classes
+FGNET test: 200 images, 45 age classes
+* Epoch 1/300
+- 16s - train_Loss: 9.5640 - train_Acc: 2.37%
+- 2s - test_Loss: 6.3190 - test_Acc: 5.00%
+* Epoch 31/300
+- 15s - train_Loss: 3.3206 - train_Acc: 3.87%
+- 2s - test_Loss: 3.3775 - test_Acc: 8.50%
+* Epoch 61/300
+- 15s - train_Loss: 2.8595 - train_Acc: 6.36%
+- 2s - test_Loss: 3.5720 - test_Acc: 8.00%
+Early stopping at epoch 85
+dataset: FGNET, loss_fn: UnimodalNet, non_pre_weighted
+batch_size: 32, lr: 0.0001, epochs: 300
+time: 1434.12s, model: snn_resnet18
+lamda: 2.0
+fc_layer_name: GaussianFC, use_leaky_gaussianfc:2
+batch_size: 32,Best_test_acc: 11.0, Best_test_acc_index: 49
+

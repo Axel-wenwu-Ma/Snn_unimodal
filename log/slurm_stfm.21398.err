@@ -1,0 +1,45 @@
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 199, in <module>
+    Yhat = model(X)
+  File "/nas-ctm01/homes/wenwuma/.conda/envs/DHSNN/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1736, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/nas-ctm01/homes/wenwuma/.conda/envs/DHSNN/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1747, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/snn_models.py", line 93, in forward
+    x = self.fc(x)
+  File "/nas-ctm01/homes/wenwuma/.conda/envs/DHSNN/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1736, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/nas-ctm01/homes/wenwuma/.conda/envs/DHSNN/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1747, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/nas-ctm01/homes/wenwuma/.conda/envs/DHSNN/lib/python3.10/site-packages/torch/nn/modules/container.py", line 250, in forward
+    input = module(input)
+  File "/nas-ctm01/homes/wenwuma/.conda/envs/DHSNN/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1736, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/nas-ctm01/homes/wenwuma/.conda/envs/DHSNN/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1747, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/nas-ctm01/homes/wenwuma/.conda/envs/DHSNN/lib/python3.10/site-packages/torch/nn/modules/module.py", line 394, in _forward_unimplemented
+    raise NotImplementedError(
+NotImplementedError: Module [FlexibleSingleGaussianFC] is missing the required "forward" function
+Traceback (most recent call last):
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/main.py", line 199, in <module>
+    Yhat = model(X)
+  File "/nas-ctm01/homes/wenwuma/.conda/envs/DHSNN/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1736, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/nas-ctm01/homes/wenwuma/.conda/envs/DHSNN/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1747, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/nas-ctm01/homes/wenwuma/CODE/unimodal/code/snn_models.py", line 93, in forward
+    x = self.fc(x)
+  File "/nas-ctm01/homes/wenwuma/.conda/envs/DHSNN/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1736, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/nas-ctm01/homes/wenwuma/.conda/envs/DHSNN/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1747, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/nas-ctm01/homes/wenwuma/.conda/envs/DHSNN/lib/python3.10/site-packages/torch/nn/modules/container.py", line 250, in forward
+    input = module(input)
+  File "/nas-ctm01/homes/wenwuma/.conda/envs/DHSNN/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1736, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/nas-ctm01/homes/wenwuma/.conda/envs/DHSNN/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1747, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/nas-ctm01/homes/wenwuma/.conda/envs/DHSNN/lib/python3.10/site-packages/torch/nn/modules/module.py", line 394, in _forward_unimplemented
+    raise NotImplementedError(
+NotImplementedError: Module [FlexibleSingleGaussianFC] is missing the required "forward" function
+slurmstepd-01.ctm-deep-05: error: *** JOB 21398 ON 01.ctm-deep-05 CANCELLED AT 2025-08-28T19:17:15 ***

@@ -1,0 +1,601 @@
+* Epoch 1/300
+- 22s - Loss: 13.8535 - Acc: 1.03%
+* Epoch 2/300
+- 21s - Loss: 13.8161 - Acc: 1.11%
+* Epoch 3/300
+- 22s - Loss: 13.8160 - Acc: 1.06%
+* Epoch 4/300
+- 22s - Loss: 13.8158 - Acc: 1.08%
+* Epoch 5/300
+- 22s - Loss: 13.8163 - Acc: 1.08%
+* Epoch 6/300
+- 23s - Loss: 13.8156 - Acc: 1.00%
+* Epoch 7/300
+- 24s - Loss: 13.8155 - Acc: 1.09%
+* Epoch 8/300
+- 22s - Loss: 13.8155 - Acc: 1.03%
+* Epoch 9/300
+- 20s - Loss: 13.8155 - Acc: 1.03%
+* Epoch 10/300
+- 23s - Loss: 13.8155 - Acc: 1.15%
+* Epoch 11/300
+- 23s - Loss: 13.8155 - Acc: 1.15%
+* Epoch 12/300
+- 24s - Loss: 13.8155 - Acc: 1.05%
+* Epoch 13/300
+- 24s - Loss: 13.8155 - Acc: 0.90%
+* Epoch 14/300
+- 22s - Loss: 13.8155 - Acc: 0.95%
+* Epoch 15/300
+- 22s - Loss: 13.8155 - Acc: 1.02%
+* Epoch 16/300
+- 22s - Loss: 13.8155 - Acc: 0.92%
+* Epoch 17/300
+- 23s - Loss: 13.8155 - Acc: 1.01%
+* Epoch 18/300
+- 23s - Loss: 13.8155 - Acc: 0.84%
+* Epoch 19/300
+- 23s - Loss: 13.8155 - Acc: 0.93%
+* Epoch 20/300
+- 21s - Loss: 13.8155 - Acc: 1.06%
+* Epoch 21/300
+- 23s - Loss: 13.8155 - Acc: 0.91%
+* Epoch 22/300
+- 22s - Loss: 13.8155 - Acc: 0.96%
+* Epoch 23/300
+- 22s - Loss: 13.8155 - Acc: 0.93%
+* Epoch 24/300
+- 21s - Loss: 13.8155 - Acc: 0.96%
+* Epoch 25/300
+- 21s - Loss: 13.8155 - Acc: 0.95%
+* Epoch 26/300
+- 23s - Loss: 13.8155 - Acc: 0.94%
+* Epoch 27/300
+- 22s - Loss: 13.8155 - Acc: 0.86%
+* Epoch 28/300
+- 22s - Loss: 13.8155 - Acc: 0.87%
+* Epoch 29/300
+- 21s - Loss: 13.8155 - Acc: 0.86%
+* Epoch 30/300
+- 23s - Loss: 13.8155 - Acc: 0.84%
+* Epoch 31/300
+- 22s - Loss: 13.8155 - Acc: 0.85%
+* Epoch 32/300
+- 22s - Loss: 13.8155 - Acc: 0.90%
+* Epoch 33/300
+- 23s - Loss: 13.8155 - Acc: 0.88%
+* Epoch 34/300
+- 22s - Loss: 13.8155 - Acc: 0.82%
+* Epoch 35/300
+- 23s - Loss: 13.8155 - Acc: 0.94%
+* Epoch 36/300
+- 23s - Loss: 13.8155 - Acc: 0.84%
+* Epoch 37/300
+- 23s - Loss: 13.8155 - Acc: 0.90%
+* Epoch 38/300
+- 23s - Loss: 13.8155 - Acc: 0.91%
+* Epoch 39/300
+- 22s - Loss: 13.8155 - Acc: 0.86%
+* Epoch 40/300
+- 22s - Loss: 13.8155 - Acc: 0.84%
+* Epoch 41/300
+- 22s - Loss: 13.8155 - Acc: 0.82%
+* Epoch 42/300
+- 22s - Loss: 13.8155 - Acc: 0.86%
+* Epoch 43/300
+- 24s - Loss: 13.8155 - Acc: 0.84%
+* Epoch 44/300
+- 23s - Loss: 13.8155 - Acc: 0.88%
+* Epoch 45/300
+- 24s - Loss: 13.8155 - Acc: 0.84%
+* Epoch 46/300
+- 22s - Loss: 13.8155 - Acc: 0.91%
+* Epoch 47/300
+- 21s - Loss: 13.8155 - Acc: 0.88%
+* Epoch 48/300
+- 21s - Loss: 13.8155 - Acc: 0.89%
+* Epoch 49/300
+- 21s - Loss: 13.8155 - Acc: 0.81%
+* Epoch 50/300
+- 23s - Loss: 13.8155 - Acc: 0.91%
+* Epoch 51/300
+- 22s - Loss: 13.8155 - Acc: 0.90%
+* Epoch 52/300
+- 24s - Loss: 13.8155 - Acc: 0.84%
+* Epoch 53/300
+- 21s - Loss: 13.8155 - Acc: 0.92%
+* Epoch 54/300
+- 23s - Loss: 13.8155 - Acc: 0.86%
+* Epoch 55/300
+- 22s - Loss: 13.8155 - Acc: 0.94%
+* Epoch 56/300
+- 22s - Loss: 13.8155 - Acc: 0.84%
+* Epoch 57/300
+- 23s - Loss: 13.8155 - Acc: 0.88%
+* Epoch 58/300
+- 24s - Loss: 13.8155 - Acc: 0.91%
+* Epoch 59/300
+- 22s - Loss: 13.8155 - Acc: 0.93%
+* Epoch 60/300
+- 22s - Loss: 13.8155 - Acc: 0.93%
+* Epoch 61/300
+- 22s - Loss: 13.8155 - Acc: 0.88%
+* Epoch 62/300
+- 20s - Loss: 13.8155 - Acc: 0.89%
+* Epoch 63/300
+- 20s - Loss: 13.8155 - Acc: 0.89%
+* Epoch 64/300
+- 21s - Loss: 13.8155 - Acc: 0.79%
+* Epoch 65/300
+- 23s - Loss: 13.8155 - Acc: 0.90%
+* Epoch 66/300
+- 21s - Loss: 13.8155 - Acc: 1.07%
+* Epoch 67/300
+- 21s - Loss: 13.8155 - Acc: 1.07%
+* Epoch 68/300
+- 22s - Loss: 13.8155 - Acc: 1.03%
+* Epoch 69/300
+- 22s - Loss: 13.8155 - Acc: 1.07%
+* Epoch 70/300
+- 21s - Loss: 13.8155 - Acc: 1.08%
+* Epoch 71/300
+- 22s - Loss: 13.8155 - Acc: 1.10%
+* Epoch 72/300
+- 23s - Loss: 13.8155 - Acc: 1.04%
+* Epoch 73/300
+- 22s - Loss: 13.8155 - Acc: 1.02%
+* Epoch 74/300
+- 23s - Loss: 13.8155 - Acc: 0.92%
+* Epoch 75/300
+- 22s - Loss: 13.8155 - Acc: 0.94%
+* Epoch 76/300
+- 22s - Loss: 13.8155 - Acc: 0.91%
+* Epoch 77/300
+- 23s - Loss: 13.8155 - Acc: 0.85%
+* Epoch 78/300
+- 22s - Loss: 13.8155 - Acc: 0.94%
+* Epoch 79/300
+- 23s - Loss: 13.8155 - Acc: 0.93%
+* Epoch 80/300
+- 23s - Loss: 13.8155 - Acc: 0.85%
+* Epoch 81/300
+- 22s - Loss: 13.8155 - Acc: 0.77%
+* Epoch 82/300
+- 24s - Loss: 13.8155 - Acc: 0.92%
+* Epoch 83/300
+- 22s - Loss: 13.8155 - Acc: 0.93%
+* Epoch 84/300
+- 22s - Loss: 13.8155 - Acc: 1.01%
+* Epoch 85/300
+- 23s - Loss: 13.8155 - Acc: 1.03%
+* Epoch 86/300
+- 21s - Loss: 13.8155 - Acc: 0.88%
+* Epoch 87/300
+- 24s - Loss: 13.8155 - Acc: 0.84%
+* Epoch 88/300
+- 23s - Loss: 13.8155 - Acc: 0.88%
+* Epoch 89/300
+- 22s - Loss: 13.8155 - Acc: 0.93%
+* Epoch 90/300
+- 22s - Loss: 13.8155 - Acc: 0.90%
+* Epoch 91/300
+- 22s - Loss: 13.8155 - Acc: 0.92%
+* Epoch 92/300
+- 22s - Loss: 13.8155 - Acc: 0.88%
+* Epoch 93/300
+- 22s - Loss: 13.8155 - Acc: 0.88%
+* Epoch 94/300
+- 22s - Loss: 13.8155 - Acc: 0.85%
+* Epoch 95/300
+- 22s - Loss: 13.8155 - Acc: 0.84%
+* Epoch 96/300
+- 22s - Loss: 13.8155 - Acc: 0.83%
+* Epoch 97/300
+- 22s - Loss: 13.8155 - Acc: 0.86%
+* Epoch 98/300
+- 23s - Loss: 13.8155 - Acc: 0.84%
+* Epoch 99/300
+- 23s - Loss: 13.8155 - Acc: 0.83%
+* Epoch 100/300
+- 23s - Loss: 13.8155 - Acc: 0.85%
+* Epoch 101/300
+- 25s - Loss: 13.8155 - Acc: 0.86%
+* Epoch 102/300
+- 23s - Loss: 13.8155 - Acc: 0.83%
+* Epoch 103/300
+- 23s - Loss: 13.8155 - Acc: 0.86%
+* Epoch 104/300
+- 23s - Loss: 13.8155 - Acc: 0.91%
+* Epoch 105/300
+- 22s - Loss: 13.8155 - Acc: 0.86%
+* Epoch 106/300
+- 21s - Loss: 13.8155 - Acc: 0.88%
+* Epoch 107/300
+- 24s - Loss: 13.8155 - Acc: 0.86%
+* Epoch 108/300
+- 24s - Loss: 13.8155 - Acc: 0.80%
+* Epoch 109/300
+- 23s - Loss: 13.8155 - Acc: 0.89%
+* Epoch 110/300
+- 23s - Loss: 13.8155 - Acc: 0.86%
+* Epoch 111/300
+- 23s - Loss: 13.8155 - Acc: 0.87%
+* Epoch 112/300
+- 23s - Loss: 13.8155 - Acc: 0.86%
+* Epoch 113/300
+- 24s - Loss: 13.8155 - Acc: 0.85%
+* Epoch 114/300
+- 23s - Loss: 13.8155 - Acc: 0.85%
+* Epoch 115/300
+- 22s - Loss: 13.8155 - Acc: 0.88%
+* Epoch 116/300
+- 22s - Loss: 13.8155 - Acc: 0.87%
+* Epoch 117/300
+- 23s - Loss: 13.8155 - Acc: 0.86%
+* Epoch 118/300
+- 22s - Loss: 13.8155 - Acc: 0.83%
+* Epoch 119/300
+- 23s - Loss: 13.8155 - Acc: 0.90%
+* Epoch 120/300
+- 22s - Loss: 13.8155 - Acc: 0.87%
+* Epoch 121/300
+- 21s - Loss: 13.8155 - Acc: 0.89%
+* Epoch 122/300
+- 23s - Loss: 13.8155 - Acc: 0.90%
+* Epoch 123/300
+- 20s - Loss: 13.8155 - Acc: 0.94%
+* Epoch 124/300
+- 22s - Loss: 13.8155 - Acc: 0.90%
+* Epoch 125/300
+- 22s - Loss: 13.8155 - Acc: 0.92%
+* Epoch 126/300
+- 23s - Loss: 13.8155 - Acc: 0.92%
+* Epoch 127/300
+- 24s - Loss: 13.8155 - Acc: 0.92%
+* Epoch 128/300
+- 22s - Loss: 13.8155 - Acc: 0.91%
+* Epoch 129/300
+- 23s - Loss: 13.8155 - Acc: 0.91%
+* Epoch 130/300
+- 23s - Loss: 13.8155 - Acc: 0.93%
+* Epoch 131/300
+- 22s - Loss: 13.8155 - Acc: 0.94%
+* Epoch 132/300
+- 21s - Loss: 13.8155 - Acc: 0.93%
+* Epoch 133/300
+- 21s - Loss: 13.8155 - Acc: 0.93%
+* Epoch 134/300
+- 22s - Loss: 13.8155 - Acc: 0.91%
+* Epoch 135/300
+- 22s - Loss: 13.8155 - Acc: 0.91%
+* Epoch 136/300
+- 21s - Loss: 13.8155 - Acc: 0.89%
+* Epoch 137/300
+- 23s - Loss: 13.8155 - Acc: 0.90%
+* Epoch 138/300
+- 22s - Loss: 13.8155 - Acc: 0.91%
+* Epoch 139/300
+- 21s - Loss: 13.8155 - Acc: 0.87%
+* Epoch 140/300
+- 23s - Loss: 13.8155 - Acc: 0.90%
+* Epoch 141/300
+- 22s - Loss: 13.8155 - Acc: 0.90%
+* Epoch 142/300
+- 22s - Loss: 13.8155 - Acc: 0.92%
+* Epoch 143/300
+- 23s - Loss: 13.8155 - Acc: 0.92%
+* Epoch 144/300
+- 23s - Loss: 13.8155 - Acc: 0.94%
+* Epoch 145/300
+- 23s - Loss: 13.8155 - Acc: 0.95%
+* Epoch 146/300
+- 22s - Loss: 13.8155 - Acc: 0.89%
+* Epoch 147/300
+- 22s - Loss: 13.8155 - Acc: 0.89%
+* Epoch 148/300
+- 23s - Loss: 13.8155 - Acc: 0.90%
+* Epoch 149/300
+- 21s - Loss: 13.8155 - Acc: 0.93%
+* Epoch 150/300
+- 22s - Loss: 13.8155 - Acc: 0.88%
+* Epoch 151/300
+- 20s - Loss: 13.8155 - Acc: 0.88%
+* Epoch 152/300
+- 23s - Loss: 13.8155 - Acc: 0.95%
+* Epoch 153/300
+- 21s - Loss: 13.8155 - Acc: 0.88%
+* Epoch 154/300
+- 22s - Loss: 13.8155 - Acc: 0.86%
+* Epoch 155/300
+- 23s - Loss: 13.8155 - Acc: 0.87%
+* Epoch 156/300
+- 22s - Loss: 13.8155 - Acc: 0.86%
+* Epoch 157/300
+- 22s - Loss: 13.8155 - Acc: 0.89%
+* Epoch 158/300
+- 22s - Loss: 13.8155 - Acc: 0.90%
+* Epoch 159/300
+- 22s - Loss: 13.8155 - Acc: 0.88%
+* Epoch 160/300
+- 21s - Loss: 13.8155 - Acc: 0.91%
+* Epoch 161/300
+- 22s - Loss: 13.8155 - Acc: 0.89%
+* Epoch 162/300
+- 21s - Loss: 13.8155 - Acc: 0.91%
+* Epoch 163/300
+- 21s - Loss: 13.8155 - Acc: 0.91%
+* Epoch 164/300
+- 21s - Loss: 13.8155 - Acc: 0.89%
+* Epoch 165/300
+- 20s - Loss: 13.8155 - Acc: 0.91%
+* Epoch 166/300
+- 21s - Loss: 13.8155 - Acc: 0.87%
+* Epoch 167/300
+- 23s - Loss: 13.8155 - Acc: 0.90%
+* Epoch 168/300
+- 22s - Loss: 13.8155 - Acc: 0.85%
+* Epoch 169/300
+- 21s - Loss: 13.8155 - Acc: 0.87%
+* Epoch 170/300
+- 22s - Loss: 13.8155 - Acc: 0.90%
+* Epoch 171/300
+- 21s - Loss: 13.8155 - Acc: 0.92%
+* Epoch 172/300
+- 22s - Loss: 13.8155 - Acc: 0.90%
+* Epoch 173/300
+- 22s - Loss: 13.8155 - Acc: 0.91%
+* Epoch 174/300
+- 22s - Loss: 13.8155 - Acc: 0.94%
+* Epoch 175/300
+- 22s - Loss: 13.8155 - Acc: 0.94%
+* Epoch 176/300
+- 21s - Loss: 13.8155 - Acc: 0.93%
+* Epoch 177/300
+- 21s - Loss: 13.8155 - Acc: 0.92%
+* Epoch 178/300
+- 20s - Loss: 13.8155 - Acc: 0.94%
+* Epoch 179/300
+- 21s - Loss: 13.8155 - Acc: 0.97%
+* Epoch 180/300
+- 22s - Loss: 13.8155 - Acc: 0.96%
+* Epoch 181/300
+- 22s - Loss: 13.8155 - Acc: 0.97%
+* Epoch 182/300
+- 21s - Loss: 13.8155 - Acc: 0.97%
+* Epoch 183/300
+- 22s - Loss: 13.8155 - Acc: 0.98%
+* Epoch 184/300
+- 23s - Loss: 13.8155 - Acc: 0.99%
+* Epoch 185/300
+- 22s - Loss: 13.8155 - Acc: 0.99%
+* Epoch 186/300
+- 22s - Loss: 13.8155 - Acc: 1.00%
+* Epoch 187/300
+- 23s - Loss: 13.8155 - Acc: 0.92%
+* Epoch 188/300
+- 22s - Loss: 13.8155 - Acc: 0.78%
+* Epoch 189/300
+- 21s - Loss: 13.8155 - Acc: 0.83%
+* Epoch 190/300
+- 21s - Loss: 13.8155 - Acc: 0.87%
+* Epoch 191/300
+- 23s - Loss: 13.8155 - Acc: 0.83%
+* Epoch 192/300
+- 23s - Loss: 13.8155 - Acc: 0.79%
+* Epoch 193/300
+- 21s - Loss: 13.8155 - Acc: 0.77%
+* Epoch 194/300
+- 22s - Loss: 13.8155 - Acc: 0.82%
+* Epoch 195/300
+- 23s - Loss: 13.8155 - Acc: 0.82%
+* Epoch 196/300
+- 23s - Loss: 13.8155 - Acc: 0.82%
+* Epoch 197/300
+- 21s - Loss: 13.8155 - Acc: 0.82%
+* Epoch 198/300
+- 21s - Loss: 13.8155 - Acc: 0.79%
+* Epoch 199/300
+- 22s - Loss: 13.8155 - Acc: 0.82%
+* Epoch 200/300
+- 22s - Loss: 13.8155 - Acc: 0.84%
+* Epoch 201/300
+- 21s - Loss: 13.8155 - Acc: 0.82%
+* Epoch 202/300
+- 23s - Loss: 13.8155 - Acc: 0.82%
+* Epoch 203/300
+- 21s - Loss: 13.8155 - Acc: 0.80%
+* Epoch 204/300
+- 22s - Loss: 13.8155 - Acc: 0.84%
+* Epoch 205/300
+- 22s - Loss: 13.8155 - Acc: 0.84%
+* Epoch 206/300
+- 22s - Loss: 13.8155 - Acc: 0.81%
+* Epoch 207/300
+- 21s - Loss: 13.8155 - Acc: 0.80%
+* Epoch 208/300
+- 21s - Loss: 13.8155 - Acc: 0.80%
+* Epoch 209/300
+- 21s - Loss: 13.8155 - Acc: 0.83%
+* Epoch 210/300
+- 21s - Loss: 13.8155 - Acc: 0.79%
+* Epoch 211/300
+- 23s - Loss: 13.8155 - Acc: 0.81%
+* Epoch 212/300
+- 21s - Loss: 13.8155 - Acc: 0.84%
+* Epoch 213/300
+- 23s - Loss: 13.8155 - Acc: 0.84%
+* Epoch 214/300
+- 20s - Loss: 13.8155 - Acc: 0.82%
+* Epoch 215/300
+- 22s - Loss: 13.8155 - Acc: 0.80%
+* Epoch 216/300
+- 22s - Loss: 13.8155 - Acc: 0.81%
+* Epoch 217/300
+- 22s - Loss: 13.8155 - Acc: 0.84%
+* Epoch 218/300
+- 23s - Loss: 13.8155 - Acc: 0.86%
+* Epoch 219/300
+- 23s - Loss: 13.8155 - Acc: 0.85%
+* Epoch 220/300
+- 23s - Loss: 13.8155 - Acc: 0.83%
+* Epoch 221/300
+- 23s - Loss: 13.8155 - Acc: 0.83%
+* Epoch 222/300
+- 23s - Loss: 13.8155 - Acc: 0.77%
+* Epoch 223/300
+- 21s - Loss: 13.8155 - Acc: 0.80%
+* Epoch 224/300
+- 22s - Loss: 13.8155 - Acc: 0.83%
+* Epoch 225/300
+- 23s - Loss: 13.8155 - Acc: 0.87%
+* Epoch 226/300
+- 24s - Loss: 13.8155 - Acc: 0.87%
+* Epoch 227/300
+- 26s - Loss: 13.8155 - Acc: 0.85%
+* Epoch 228/300
+- 23s - Loss: 13.8155 - Acc: 0.84%
+* Epoch 229/300
+- 21s - Loss: 13.8155 - Acc: 0.89%
+* Epoch 230/300
+- 23s - Loss: 13.8155 - Acc: 0.92%
+* Epoch 231/300
+- 22s - Loss: 13.8155 - Acc: 0.89%
+* Epoch 232/300
+- 23s - Loss: 13.8155 - Acc: 0.79%
+* Epoch 233/300
+- 22s - Loss: 13.8155 - Acc: 0.76%
+* Epoch 234/300
+- 23s - Loss: 13.8155 - Acc: 0.77%
+* Epoch 235/300
+- 22s - Loss: 13.8155 - Acc: 0.79%
+* Epoch 236/300
+- 22s - Loss: 13.8155 - Acc: 0.75%
+* Epoch 237/300
+- 22s - Loss: 13.8155 - Acc: 0.76%
+* Epoch 238/300
+- 22s - Loss: 13.8155 - Acc: 0.75%
+* Epoch 239/300
+- 24s - Loss: 13.8155 - Acc: 0.82%
+* Epoch 240/300
+- 22s - Loss: 13.8155 - Acc: 0.81%
+* Epoch 241/300
+- 23s - Loss: 13.8155 - Acc: 0.79%
+* Epoch 242/300
+- 22s - Loss: 13.8155 - Acc: 0.76%
+* Epoch 243/300
+- 22s - Loss: 13.8155 - Acc: 0.77%
+* Epoch 244/300
+- 22s - Loss: 13.8155 - Acc: 0.81%
+* Epoch 245/300
+- 22s - Loss: 13.8155 - Acc: 0.78%
+* Epoch 246/300
+- 21s - Loss: 13.8155 - Acc: 0.79%
+* Epoch 247/300
+- 23s - Loss: 13.8155 - Acc: 0.81%
+* Epoch 248/300
+- 22s - Loss: 13.8155 - Acc: 0.82%
+* Epoch 249/300
+- 22s - Loss: 13.8155 - Acc: 0.80%
+* Epoch 250/300
+- 23s - Loss: 13.8155 - Acc: 0.83%
+* Epoch 251/300
+- 23s - Loss: 13.8155 - Acc: 0.83%
+* Epoch 252/300
+- 25s - Loss: 13.8155 - Acc: 0.81%
+* Epoch 253/300
+- 26s - Loss: 13.8155 - Acc: 0.80%
+* Epoch 254/300
+- 23s - Loss: 13.8155 - Acc: 0.80%
+* Epoch 255/300
+- 23s - Loss: 13.8155 - Acc: 0.81%
+* Epoch 256/300
+- 23s - Loss: 13.8155 - Acc: 0.81%
+* Epoch 257/300
+- 23s - Loss: 13.8155 - Acc: 0.82%
+* Epoch 258/300
+- 24s - Loss: 13.8155 - Acc: 0.83%
+* Epoch 259/300
+- 23s - Loss: 13.8155 - Acc: 0.85%
+* Epoch 260/300
+- 22s - Loss: 13.8155 - Acc: 0.91%
+* Epoch 261/300
+- 22s - Loss: 13.8155 - Acc: 0.93%
+* Epoch 262/300
+- 24s - Loss: 13.8155 - Acc: 0.88%
+* Epoch 263/300
+- 23s - Loss: 13.8155 - Acc: 0.91%
+* Epoch 264/300
+- 22s - Loss: 13.8155 - Acc: 0.93%
+* Epoch 265/300
+- 21s - Loss: 13.8155 - Acc: 0.95%
+* Epoch 266/300
+- 21s - Loss: 13.8155 - Acc: 0.90%
+* Epoch 267/300
+- 22s - Loss: 13.8155 - Acc: 0.86%
+* Epoch 268/300
+- 23s - Loss: 13.8155 - Acc: 0.87%
+* Epoch 269/300
+- 23s - Loss: 13.8155 - Acc: 0.89%
+* Epoch 270/300
+- 21s - Loss: 13.8155 - Acc: 0.93%
+* Epoch 271/300
+- 21s - Loss: 13.8155 - Acc: 0.92%
+* Epoch 272/300
+- 24s - Loss: 13.8155 - Acc: 0.88%
+* Epoch 273/300
+- 23s - Loss: 13.8155 - Acc: 0.83%
+* Epoch 274/300
+- 22s - Loss: 13.8155 - Acc: 0.85%
+* Epoch 275/300
+- 23s - Loss: 13.8155 - Acc: 0.86%
+* Epoch 276/300
+- 20s - Loss: 13.8155 - Acc: 0.96%
+* Epoch 277/300
+- 22s - Loss: 13.8155 - Acc: 0.96%
+* Epoch 278/300
+- 21s - Loss: 13.8155 - Acc: 0.90%
+* Epoch 279/300
+- 22s - Loss: 13.8155 - Acc: 1.19%
+* Epoch 280/300
+- 24s - Loss: 13.8155 - Acc: 1.30%
+* Epoch 281/300
+- 22s - Loss: 13.8155 - Acc: 1.26%
+* Epoch 282/300
+- 21s - Loss: 13.8155 - Acc: 1.21%
+* Epoch 283/300
+- 22s - Loss: 13.8155 - Acc: 1.22%
+* Epoch 284/300
+- 23s - Loss: 13.8155 - Acc: 1.22%
+* Epoch 285/300
+- 22s - Loss: 13.8155 - Acc: 1.24%
+* Epoch 286/300
+- 22s - Loss: 13.8155 - Acc: 1.31%
+* Epoch 287/300
+- 23s - Loss: 13.8155 - Acc: 1.29%
+* Epoch 288/300
+- 22s - Loss: 13.8155 - Acc: 1.21%
+* Epoch 289/300
+- 22s - Loss: 13.8155 - Acc: 1.28%
+* Epoch 290/300
+- 22s - Loss: 13.8155 - Acc: 1.26%
+* Epoch 291/300
+- 22s - Loss: 13.8155 - Acc: 1.25%
+* Epoch 292/300
+- 23s - Loss: 13.8155 - Acc: 1.23%
+* Epoch 293/300
+- 22s - Loss: 13.8155 - Acc: 1.34%
+* Epoch 294/300
+- 22s - Loss: 13.8155 - Acc: 1.33%
+* Epoch 295/300
+- 22s - Loss: 13.8155 - Acc: 1.27%
+* Epoch 296/300
+- 23s - Loss: 13.8155 - Acc: 1.21%
+* Epoch 297/300
+- 24s - Loss: 13.8155 - Acc: 1.25%
+* Epoch 298/300
+- 23s - Loss: 13.8155 - Acc: 1.26%
+* Epoch 299/300
+- 20s - Loss: 13.8155 - Acc: 1.25%
+* Epoch 300/300
+- 22s - Loss: 13.8155 - Acc: 1.19%
+loss_fn: UnimodalNet_absdistance, non_pre_weighted

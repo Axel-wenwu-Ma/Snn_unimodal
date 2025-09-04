@@ -1,0 +1,209 @@
+=========================================
+Experiment Parameters:
+=========================================
+datasets: FGNET
+losses: UnimodalNet_absdistance UnimodalNet
+models: snn_resnet18_GaussianFC resnet18 resnet18_GaussianFC
+lrs: 1e-3 5e-4 1e-4
+lamdas: 1 10 100
+=========================================
+Starting experiments at: Tue Aug 26 17:31:11 WEST 2025
+=========================================
+Running: dataset=FGNET, loss=UnimodalNet_absdistance, model=snn_resnet18_GaussianFC, lr=1e-3, lamda=1
+FGNET train: 802 images, 62 age classes
+FGNET test: 200 images, 45 age classes
+* Epoch 1/300
+- 101s - train_Loss: 859.7501 - train_Acc: 3.37%
+- 14s - test_Loss: 85.8226 - test_Acc: 3.50%
+* Epoch 31/300
+- 96s - train_Loss: 14.8633 - train_Acc: 3.74%
+- 14s - test_Loss: 14.7681 - test_Acc: 6.50%
+* Epoch 61/300
+- 97s - train_Loss: 12.2063 - train_Acc: 3.74%
+- 14s - test_Loss: 12.2190 - test_Acc: 6.50%
+* Epoch 91/300
+- 95s - train_Loss: 12.0027 - train_Acc: 3.74%
+- 14s - test_Loss: 12.1862 - test_Acc: 7.50%
+* Epoch 121/300
+- 95s - train_Loss: 11.5181 - train_Acc: 3.49%
+- 14s - test_Loss: 11.8239 - test_Acc: 6.00%
+* Epoch 151/300
+- 95s - train_Loss: 10.8469 - train_Acc: 3.49%
+- 14s - test_Loss: 11.2252 - test_Acc: 6.50%
+* Epoch 181/300
+- 95s - train_Loss: 10.3202 - train_Acc: 3.87%
+- 14s - test_Loss: 11.0755 - test_Acc: 6.50%
+* Epoch 211/300
+- 96s - train_Loss: 9.8055 - train_Acc: 3.74%
+- 14s - test_Loss: 12.8964 - test_Acc: 6.50%
+* Epoch 241/300
+- 97s - train_Loss: 9.2185 - train_Acc: 3.87%
+- 14s - test_Loss: 11.5546 - test_Acc: 6.50%
+* Epoch 271/300
+- 98s - train_Loss: 8.6174 - train_Acc: 3.99%
+- 14s - test_Loss: 12.3680 - test_Acc: 8.00%
+dataset: FGNET, loss_fn: UnimodalNet_absdistance, non_pre_weighted
+batch_size: 4, lr: 0.001, epochs: 300
+time: 33070.74s, model: snn_resnet18_GaussianFC
+lamda: 1.0
+batch_size: 4,Best_test_acc: 8.5
+
+Running: dataset=FGNET, loss=UnimodalNet_absdistance, model=snn_resnet18_GaussianFC, lr=5e-4, lamda=1
+FGNET train: 802 images, 62 age classes
+FGNET test: 200 images, 45 age classes
+Running: dataset=FGNET, loss=UnimodalNet_absdistance, model=snn_resnet18_GaussianFC, lr=1e-4, lamda=1
+FGNET train: 802 images, 62 age classes
+FGNET test: 200 images, 45 age classes
+Running: dataset=FGNET, loss=UnimodalNet_absdistance, model=resnet18, lr=1e-3, lamda=1
+FGNET train: 802 images, 62 age classes
+FGNET test: 200 images, 45 age classes
+Running: dataset=FGNET, loss=UnimodalNet_absdistance, model=resnet18, lr=5e-4, lamda=1
+FGNET train: 802 images, 62 age classes
+FGNET test: 200 images, 45 age classes
+Running: dataset=FGNET, loss=UnimodalNet_absdistance, model=resnet18, lr=1e-4, lamda=1
+FGNET train: 802 images, 62 age classes
+FGNET test: 200 images, 45 age classes
+Running: dataset=FGNET, loss=UnimodalNet_absdistance, model=resnet18_GaussianFC, lr=1e-3, lamda=1
+FGNET train: 802 images, 62 age classes
+FGNET test: 200 images, 45 age classes
+Running: dataset=FGNET, loss=UnimodalNet_absdistance, model=resnet18_GaussianFC, lr=5e-4, lamda=1
+FGNET train: 802 images, 62 age classes
+FGNET test: 200 images, 45 age classes
+Running: dataset=FGNET, loss=UnimodalNet_absdistance, model=resnet18_GaussianFC, lr=1e-4, lamda=1
+FGNET train: 802 images, 62 age classes
+FGNET test: 200 images, 45 age classes
+Running: dataset=FGNET, loss=UnimodalNet, model=snn_resnet18_GaussianFC, lr=1e-3, lamda=1
+FGNET train: 802 images, 62 age classes
+FGNET test: 200 images, 45 age classes
+Running: dataset=FGNET, loss=UnimodalNet, model=snn_resnet18_GaussianFC, lr=5e-4, lamda=1
+FGNET train: 802 images, 62 age classes
+FGNET test: 200 images, 45 age classes
+Running: dataset=FGNET, loss=UnimodalNet, model=snn_resnet18_GaussianFC, lr=1e-4, lamda=1
+FGNET train: 802 images, 62 age classes
+FGNET test: 200 images, 45 age classes
+Running: dataset=FGNET, loss=UnimodalNet, model=resnet18, lr=1e-3, lamda=1
+FGNET train: 802 images, 62 age classes
+FGNET test: 200 images, 45 age classes
+Running: dataset=FGNET, loss=UnimodalNet, model=resnet18, lr=5e-4, lamda=1
+FGNET train: 802 images, 62 age classes
+FGNET test: 200 images, 45 age classes
+Running: dataset=FGNET, loss=UnimodalNet, model=resnet18, lr=1e-4, lamda=1
+FGNET train: 802 images, 62 age classes
+FGNET test: 200 images, 45 age classes
+Running: dataset=FGNET, loss=UnimodalNet, model=resnet18_GaussianFC, lr=1e-3, lamda=1
+FGNET train: 802 images, 62 age classes
+FGNET test: 200 images, 45 age classes
+Running: dataset=FGNET, loss=UnimodalNet, model=resnet18_GaussianFC, lr=5e-4, lamda=1
+FGNET train: 802 images, 62 age classes
+FGNET test: 200 images, 45 age classes
+Running: dataset=FGNET, loss=UnimodalNet, model=resnet18_GaussianFC, lr=1e-4, lamda=1
+FGNET train: 802 images, 62 age classes
+FGNET test: 200 images, 45 age classes
+Running: dataset=FGNET, loss=UnimodalNet_absdistance, model=snn_resnet18_GaussianFC, lr=1e-3, lamda=10
+FGNET train: 802 images, 62 age classes
+FGNET test: 200 images, 45 age classes
+Running: dataset=FGNET, loss=UnimodalNet_absdistance, model=snn_resnet18_GaussianFC, lr=5e-4, lamda=10
+FGNET train: 802 images, 62 age classes
+FGNET test: 200 images, 45 age classes
+Running: dataset=FGNET, loss=UnimodalNet_absdistance, model=snn_resnet18_GaussianFC, lr=1e-4, lamda=10
+FGNET train: 802 images, 62 age classes
+FGNET test: 200 images, 45 age classes
+Running: dataset=FGNET, loss=UnimodalNet_absdistance, model=resnet18, lr=1e-3, lamda=10
+FGNET train: 802 images, 62 age classes
+FGNET test: 200 images, 45 age classes
+Running: dataset=FGNET, loss=UnimodalNet_absdistance, model=resnet18, lr=5e-4, lamda=10
+FGNET train: 802 images, 62 age classes
+FGNET test: 200 images, 45 age classes
+Running: dataset=FGNET, loss=UnimodalNet_absdistance, model=resnet18, lr=1e-4, lamda=10
+FGNET train: 802 images, 62 age classes
+FGNET test: 200 images, 45 age classes
+Running: dataset=FGNET, loss=UnimodalNet_absdistance, model=resnet18_GaussianFC, lr=1e-3, lamda=10
+FGNET train: 802 images, 62 age classes
+FGNET test: 200 images, 45 age classes
+Running: dataset=FGNET, loss=UnimodalNet_absdistance, model=resnet18_GaussianFC, lr=5e-4, lamda=10
+FGNET train: 802 images, 62 age classes
+FGNET test: 200 images, 45 age classes
+Running: dataset=FGNET, loss=UnimodalNet_absdistance, model=resnet18_GaussianFC, lr=1e-4, lamda=10
+FGNET train: 802 images, 62 age classes
+FGNET test: 200 images, 45 age classes
+Running: dataset=FGNET, loss=UnimodalNet, model=snn_resnet18_GaussianFC, lr=1e-3, lamda=10
+FGNET train: 802 images, 62 age classes
+FGNET test: 200 images, 45 age classes
+Running: dataset=FGNET, loss=UnimodalNet, model=snn_resnet18_GaussianFC, lr=5e-4, lamda=10
+FGNET train: 802 images, 62 age classes
+FGNET test: 200 images, 45 age classes
+Running: dataset=FGNET, loss=UnimodalNet, model=snn_resnet18_GaussianFC, lr=1e-4, lamda=10
+FGNET train: 802 images, 62 age classes
+FGNET test: 200 images, 45 age classes
+Running: dataset=FGNET, loss=UnimodalNet, model=resnet18, lr=1e-3, lamda=10
+FGNET train: 802 images, 62 age classes
+FGNET test: 200 images, 45 age classes
+Running: dataset=FGNET, loss=UnimodalNet, model=resnet18, lr=5e-4, lamda=10
+FGNET train: 802 images, 62 age classes
+FGNET test: 200 images, 45 age classes
+Running: dataset=FGNET, loss=UnimodalNet, model=resnet18, lr=1e-4, lamda=10
+FGNET train: 802 images, 62 age classes
+FGNET test: 200 images, 45 age classes
+Running: dataset=FGNET, loss=UnimodalNet, model=resnet18_GaussianFC, lr=1e-3, lamda=10
+FGNET train: 802 images, 62 age classes
+FGNET test: 200 images, 45 age classes
+Running: dataset=FGNET, loss=UnimodalNet, model=resnet18_GaussianFC, lr=5e-4, lamda=10
+FGNET train: 802 images, 62 age classes
+FGNET test: 200 images, 45 age classes
+Running: dataset=FGNET, loss=UnimodalNet, model=resnet18_GaussianFC, lr=1e-4, lamda=10
+FGNET train: 802 images, 62 age classes
+FGNET test: 200 images, 45 age classes
+Running: dataset=FGNET, loss=UnimodalNet_absdistance, model=snn_resnet18_GaussianFC, lr=1e-3, lamda=100
+FGNET train: 802 images, 62 age classes
+FGNET test: 200 images, 45 age classes
+Running: dataset=FGNET, loss=UnimodalNet_absdistance, model=snn_resnet18_GaussianFC, lr=5e-4, lamda=100
+FGNET train: 802 images, 62 age classes
+FGNET test: 200 images, 45 age classes
+Running: dataset=FGNET, loss=UnimodalNet_absdistance, model=snn_resnet18_GaussianFC, lr=1e-4, lamda=100
+FGNET train: 802 images, 62 age classes
+FGNET test: 200 images, 45 age classes
+Running: dataset=FGNET, loss=UnimodalNet_absdistance, model=resnet18, lr=1e-3, lamda=100
+FGNET train: 802 images, 62 age classes
+FGNET test: 200 images, 45 age classes
+Running: dataset=FGNET, loss=UnimodalNet_absdistance, model=resnet18, lr=5e-4, lamda=100
+FGNET train: 802 images, 62 age classes
+FGNET test: 200 images, 45 age classes
+Running: dataset=FGNET, loss=UnimodalNet_absdistance, model=resnet18, lr=1e-4, lamda=100
+FGNET train: 802 images, 62 age classes
+FGNET test: 200 images, 45 age classes
+Running: dataset=FGNET, loss=UnimodalNet_absdistance, model=resnet18_GaussianFC, lr=1e-3, lamda=100
+FGNET train: 802 images, 62 age classes
+FGNET test: 200 images, 45 age classes
+Running: dataset=FGNET, loss=UnimodalNet_absdistance, model=resnet18_GaussianFC, lr=5e-4, lamda=100
+FGNET train: 802 images, 62 age classes
+FGNET test: 200 images, 45 age classes
+Running: dataset=FGNET, loss=UnimodalNet_absdistance, model=resnet18_GaussianFC, lr=1e-4, lamda=100
+FGNET train: 802 images, 62 age classes
+FGNET test: 200 images, 45 age classes
+Running: dataset=FGNET, loss=UnimodalNet, model=snn_resnet18_GaussianFC, lr=1e-3, lamda=100
+FGNET train: 802 images, 62 age classes
+FGNET test: 200 images, 45 age classes
+Running: dataset=FGNET, loss=UnimodalNet, model=snn_resnet18_GaussianFC, lr=5e-4, lamda=100
+FGNET train: 802 images, 62 age classes
+FGNET test: 200 images, 45 age classes
+Running: dataset=FGNET, loss=UnimodalNet, model=snn_resnet18_GaussianFC, lr=1e-4, lamda=100
+FGNET train: 802 images, 62 age classes
+FGNET test: 200 images, 45 age classes
+Running: dataset=FGNET, loss=UnimodalNet, model=resnet18, lr=1e-3, lamda=100
+FGNET train: 802 images, 62 age classes
+FGNET test: 200 images, 45 age classes
+Running: dataset=FGNET, loss=UnimodalNet, model=resnet18, lr=5e-4, lamda=100
+FGNET train: 802 images, 62 age classes
+FGNET test: 200 images, 45 age classes
+Running: dataset=FGNET, loss=UnimodalNet, model=resnet18, lr=1e-4, lamda=100
+FGNET train: 802 images, 62 age classes
+FGNET test: 200 images, 45 age classes
+Running: dataset=FGNET, loss=UnimodalNet, model=resnet18_GaussianFC, lr=1e-3, lamda=100
+FGNET train: 802 images, 62 age classes
+FGNET test: 200 images, 45 age classes
+Running: dataset=FGNET, loss=UnimodalNet, model=resnet18_GaussianFC, lr=5e-4, lamda=100
+FGNET train: 802 images, 62 age classes
+FGNET test: 200 images, 45 age classes
+Running: dataset=FGNET, loss=UnimodalNet, model=resnet18_GaussianFC, lr=1e-4, lamda=100
+FGNET train: 802 images, 62 age classes
+FGNET test: 200 images, 45 age classes
